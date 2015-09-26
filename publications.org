@@ -1,0 +1,23 @@
+** In preparation
+1. *Hill, S. A.*, Y. Ming, and I. M. Held.  "The vertically integrated moist
+   static energy budget of the Sahel in modern and warmed climates."  In
+   preparation.
+2. *Hill, S. A.*, Y. Ming, I. M. Held, L. J. Donner, and M. Zhao.  "Emergent
+   constraints on future rainfall in the Sahel derived from the moist static
+   energy budget."  In preparation.
+3. J. Smyth, *S. A. Hill*, and Y. Ming.  "Simulated tropical circulation responses to
+   orbital precession and their sensitivity to ocean thermodynamics."  In
+   preparation.
+** Submitted/in revision/in press.
+/None currently/
+** Peer-reviewed
+1. *Hill, S. A.*, Y. Ming, and I. M. Held. "Mechanisms of forced tropical
+   meridional energy flux change."  /J. Climate/, *28*, 1725-1742.  doi:
+   [[http://dx.doi.org/10.1175/JCLI-D-14-00165.1][10.1175/JCLI-D-14-00165.1]].
+2. *Hill, S. A.* and Y. Ming. "Nonlinear climate response to regional
+   brightening of tropical marine stratocumulus."  /Geophysical Research Letters/,
+   *39*, L15707, 5 pp., 2012, doi: [[http://dx.doi.org/10.1029/2012GL052064][10.1029/2012GL052064]].
+** Non peer-reviewed
+1. *Hill, S. A.* "A head in the clouds elucidates" (book review of
+   [[http://press.princeton.edu/titles/9773.html][Atmosphere, Clouds, and Climate]] by David Randall). /Science/,
+   *337*, 1 pp., 2012, doi: [[http://dx.doi.org/10.1126/science.1225615][10.1126/science.1225615]].
