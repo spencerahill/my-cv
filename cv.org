@@ -1,3 +1,4 @@
+:PROPERTIES:
 #+TITLE: Spencer Alan Hill
 #+AUTHOR: PhD student | Atmospheric and Oceanic Sciences | Princeton University
 #+DATE:
@@ -8,6 +9,7 @@
 #+LATEX_HEADER: \usepackage[margin=1in]{geometry}
 #+LATEX_HEADER: \usepackage{tabularx}
 #+LATEX_HEADER_EXTRA:
+:END:
 * Contact Information						   :noexport:
 Suite 308B\\
 NOAA Geophysical Fluid Dynamics Laboratory\\
@@ -31,16 +33,16 @@ Magna Cum Laude, Phi Beta Kappa, and UCLA College Honors distinctions.
 * Research and Professional Experiences
 #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align rX
-| 6-8/2015      | Organizer, Princeton AOS convection journal club                                                                                                                                |
-| 6/2013–cont.  | Organizer, GFDL Climate Sensitivity Journal Club                                                                                                                                |
-| 9/2012–8/2013 | Organizer, Princeton AOS Student/Postdoc Seminar Series                                                                                                                         |
-| 9/2012–8/2013 | Princeton AOS Program Student Representative to the Faculty                                                                                                                     |
-| 4/2012–5/2013 | Member, Princeton Energy and Climate Scholars                                                                                                                                   |
-| 7/2012        | GFDL Summer School on Atmospheric Modeling                                                                                                                                      |
-| 6–8/2011      | Research Intern, UCLA California Research Training Program in Computational and Applied Mathematics, Slurry Flows Group.                                                        |
-| 1/2011        | Invited Student Secretary, International Geosphere-Biosphere Program Workshop on Ecosystems Impacts of Geoengineering, Scripps Institution of Oceanography, UCSD, La Jolla, CA. |
-| 6–8/2010      | Research Intern, National Oceanic and Atmospheric Administration Geophysical Fluid Dynamics Laboratory, Princeton, NJ. Advisor Dr. Yi Ming.                                     |
-| 1–6/2009      | Team Leader, UCLA In-Dorm Composting Action Research Team.                                                                                                                      |
+| 6-8/2015        | Organizer, Princeton AOS convection journal club                                                                                                                                |
+| 6/2013–10/2015  | Organizer, GFDL Climate Sensitivity Journal Club                                                                                                                                |
+| 9/2012–8/2013   | Organizer, Princeton AOS Student/Postdoc Seminar Series                                                                                                                         |
+| 9/2012–8/2013   | Princeton AOS Program Student Representative to the Faculty                                                                                                                     |
+| 4/2012–5/2013   | Member, Princeton Energy and Climate Scholars                                                                                                                                   |
+| 7/2012          | GFDL Summer School on Atmospheric Modeling                                                                                                                                      |
+| 6–8/2011        | Research Intern, UCLA California Research Training Program in Computational and Applied Mathematics, Slurry Flows Group.                                                        |
+| 1/2011          | Invited Student Secretary, International Geosphere-Biosphere Program Workshop on Ecosystems Impacts of Geoengineering, Scripps Institution of Oceanography, UCSD, La Jolla, CA. |
+| 6–8/2010        | Research Intern, National Oceanic and Atmospheric Administration Geophysical Fluid Dynamics Laboratory, Princeton, NJ. Advisor Dr. Yi Ming.                                     |
+| 1–6/2009        | Team Leader, UCLA In-Dorm Composting Action Research Team.                                                                                                                      |
 #+HTML: <hr/>
 * Major Honors and Awards
 #+ATTR_HTML: :rules none :frame none
@@ -56,7 +58,7 @@ Magna Cum Laude, Phi Beta Kappa, and UCLA College Honors distinctions.
 ** Princeton Graduate Teaching Transcript certification
 Administered by the McGraw Center for Teaching & Learning.  Requirements include
 two-day teacher training, lectures and workshops on pedagogy, and video recording
-and subsequent analysis of teaching as a TA.  Expected completion Fall 2015.
+and subsequent analysis of teaching as a TA.  Expected completion Winter 2016.
 ** Teaching Assistant
 Princeton University, Fall 2014, Geosciences 361, "Physics of Earth: The
 Habitable Planet."  Professor George Philander.
@@ -74,11 +76,13 @@ Habitable Planet."  Professor George Philander.
 | [2015-06-19] | "Introduction to climate models."  20 minute presentation to New Jersey Japanese School during their visit to NOAA Geophysical Fluid Dynamics Laboratory, Princeton, NJ. |
 #+HTML: <hr/>
 * Reviewing
-Reviewer for /Journal of Climate/ and /Nature Climate Change/
+Reviewer for /Journal of Climate/, /Nature Climate Change/, and GFDL internal
+manuscript review
 #+HTML: <hr/>
 * Selected Presentations
 #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
+| [2015-12-14] | "Towards constraining future rainfall in the Sahel using the moist static energy budget." Oral.  AGU 2015 Fall Meeting, San Francisco, CA.                                                                                                         |
 | [2015-05-21] | "Towards constraining Sahel rainfall responses to global mean temperature changes."  Invited oral.  Linde Center for Global Environmental Science "Monsoons: Past, Present and Future" workshop, California Institute of Technology, Pasadena, CA. |
 | [2015-03-13] | "Radiative and dynamical controls on the Sahel rainfall response to uniform ocean warming."  Oral.  Princeton AOS dynamics seminar series.                                                                                                         |
 | [2015-03-06] | "Mechanisms of forced ITCZ shifts and of rainfall responses in the African Sahel to SST warming."  Invited oral.  New York University AOS student seminar series.                                                                                  |
