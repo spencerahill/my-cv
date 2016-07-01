@@ -20,9 +20,9 @@ Princeton, NJ 08540\\
 [[http://www.princeton.edu/aos/people/graduate_students/hill/index.xml]]
 * Education
 ** Princeton University
-Ph.D., Atmospheric and Oceanic Sciences, expected August 2016.
-Advisor: Dr. Yi Ming.  Committee members: Dr. Isaac Held and Dr. Leo Donner.
-M.A. conferred 2013.
+Ph.D., Atmospheric and Oceanic Sciences, expected August 2016.  Advisor: Yi
+Ming.  Committee members: Isaac Held, Leo Donner, and Ming Zhao.
+M.A. conferred May 2013.
 ** UCLA
 B.S., AOS/Applied Mathematics double major conferred June 2011 with
 Magna Cum Laude, Phi Beta Kappa, and UCLA College Honors distinctions.
@@ -33,7 +33,8 @@ Magna Cum Laude, Phi Beta Kappa, and UCLA College Honors distinctions.
 * Research and Professional Experiences
 #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align rX
-| 9/2016-        | Postdoc, California Institute of Technology                                                                                                                               |
+| 9/2016-8/2019  | Postdoc, California Institute of Technology and UCLA                                                                                                                            |
+|                | Advised by Simona Bordoni and Jonathan Mitchell                                                                                                                                 |
 | 6-8/2015       | Organizer, Princeton AOS convection journal club                                                                                                                                |
 | 6/2013–10/2015 | Organizer, GFDL Climate Sensitivity Journal Club                                                                                                                                |
 | 9/2012–8/2013  | Organizer, Princeton AOS Student/Postdoc Seminar Series                                                                                                                         |
@@ -48,19 +49,20 @@ Magna Cum Laude, Phi Beta Kappa, and UCLA College Honors distinctions.
 * Major Honors and Awards
 #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
-| 2016 | California Institute of Technology Foster and Coco Stanback Postdoctoral Fellowship                                                           |   |
-| 2013 | Department of Defense National Defense Science and Engineering Graduate Fellowship                                                            |   |
-| 2012 | Princeton University Elliotte Robinson Little '25 Fellowship                                                                                  |   |
-| 2012 | American Meteorological Society Climate Change Travel Scholarship for Graduate Students to 92nd AMS Annual Meeting                            |   |
-| 2012 | NSF Graduate Research Fellowship Honorable Mention                                                                                            |   |
-| 2009 | National Oceanic and Atmospheric Administration (NOAA) Ernest F. Hollings Scholarship                                                         |   |
-| 2007 | Presidential Scholar.  Honored by President George W. Bush at the White House as part of the Presidential Scholars National Recognition Week. |   |
+| 2016 | NSF Atmospheric and Geospace Sciences Postdoctoral Research Fellowship                                                                                      |
+| 2016 | California Institute of Technology Foster and Coco Stanback Postdoctoral Fellowship, deferred to 2018                                                       |
+| 2013 | Department of Defense National Defense Science and Engineering Graduate Fellowship                                                                          |
+| 2012 | Princeton University Elliotte Robinson Little '25 Fellowship                                                                                                |
+| 2012 | American Meteorological Society Climate Change Travel Scholarship for Graduate Students to 92nd AMS Annual Meeting                                          |
+| 2012 | NSF Graduate Research Fellowship Honorable Mention                                                                                                          |
+| 2009 | National Oceanic and Atmospheric Administration (NOAA) Ernest F. Hollings Scholarship                                                                       |
+| 2007 | United States Presidential Scholar.  Honored by President George W. Bush at the White House as part of the Presidential Scholars National Recognition Week. |
 #+HTML: <hr/>
 * Teaching & Mentoring
 ** Princeton Graduate Teaching Transcript certification
 Administered by the McGraw Center for Teaching & Learning.  Requirements include
 two-day teacher training, lectures and workshops on pedagogy, and video recording
-and subsequent analysis of teaching as a TA.  Expected completion Spring 2016.
+and subsequent analysis of teaching as a TA.  Completed Summer 2016.
 ** Teaching Assistant
 Princeton University, Fall 2014, Geosciences 361, "Physics of Earth: The
 Habitable Planet."  Professor George Philander.

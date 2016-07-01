@@ -1,23 +1,29 @@
 ** In preparation
-1. *Hill, S. A.*, Y. Ming, and I. M. Held.  "The vertically integrated moist
-   static energy budget of the Sahel in modern and warmed climates."  In
-   preparation.
-2. *Hill, S. A.*, Y. Ming, I. M. Held, L. J. Donner, and M. Zhao.  "Emergent
-   constraints on future rainfall in the Sahel derived from the moist static
-   energy budget."  In preparation.
-3. J. Smyth, *S. A. Hill*, and Y. Ming.  "Simulated tropical circulation responses to
+1. *Hill, Spencer A.*, Yi Ming, Isaac M. Held, and Ming Zhao.  "The vertically
+   integrated moist static energy budget of the Sahel in modern and warmed
+   climates."  In preparation.
+2. *Hill, Spencer A.*, Yi Ming, Isaac M. Held, and Ming Zhao.  "Towards emergent constraints on
+   future rainfall in the Sahel."  In preparation.
+3. Brown, Patrick T., Yi Ming, Wenhong Li, and *Spencer A. Hill*.  "Change in the
+   magnitude and mechanisms of unforced low-frequency surface temperature
+   variability in a warmer climate."  In preparation.
+4. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated tropical circulation responses to
    orbital precession and their sensitivity to ocean thermodynamics."  In
    preparation.
 ** Submitted/in revision/in press.
-/None currently/
+1. *Hill, Spencer A.* "Energetic and hydrological responses of Hadley circulations
+   and the African Sahel to sea surface temperature perturbations."  PhD Thesis,
+   Princeton University Program in Atmospheric and Oceanic Sciences.  Submitted
+   to readers Yi Ming and Bill Boos [2016-06-21 Tue].  Oral examination to be
+   held [2016-08-02 Tue].
 ** Peer-reviewed
-1. *Hill, S. A.*, Y. Ming, and I. M. Held. "Mechanisms of forced tropical
+1. *Hill, Spencer A.*, Yi Ming, and Isaac M. Held. "Mechanisms of forced tropical
    meridional energy flux change."  /J. Climate/, *28*, 1725-1742.  doi:
    [[http://dx.doi.org/10.1175/JCLI-D-14-00165.1][10.1175/JCLI-D-14-00165.1]].
-2. *Hill, S. A.* and Y. Ming. "Nonlinear climate response to regional
+2. *Hill, Spencer A.* and Yi Ming. "Nonlinear climate response to regional
    brightening of tropical marine stratocumulus."  /Geophysical Research Letters/,
    *39*, L15707, 5 pp., 2012, doi: [[http://dx.doi.org/10.1029/2012GL052064][10.1029/2012GL052064]].
 ** Non peer-reviewed
-1. *Hill, S. A.* "A head in the clouds elucidates" (book review of
-   [[http://press.princeton.edu/titles/9773.html][Atmosphere, Clouds, and Climate]] by David Randall). /Science/,
-   *337*, 1 pp., 2012, doi: [[http://dx.doi.org/10.1126/science.1225615][10.1126/science.1225615]].
+1. *Hill, Spencer A.* "A head in the clouds elucidates" (book review of
+   [[http://press.princeton.edu/titles/9773.html][Atmosphere, Clouds, and Climate]] by David Randall). /Science/, *337*, 1 pp., 2012,
+   doi: [[http://dx.doi.org/10.1126/science.1225615][10.1126/science.1225615]].
