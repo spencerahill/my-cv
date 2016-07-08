@@ -19,11 +19,11 @@ Princeton, NJ 08540\\
 (609) 452-5324\\
 [[http://www.princeton.edu/aos/people/graduate_students/hill/index.xml]]
 * Education
-** Princeton University
+** Graduate | Princeton University
 Ph.D., Atmospheric and Oceanic Sciences, expected August 2016.  Advisor: Yi
 Ming.  Committee members: Isaac Held, Leo Donner, and Ming Zhao.
 M.A. conferred May 2013.
-** UCLA
+** Undergraduate | UCLA
 B.S., AOS/Applied Mathematics double major conferred June 2011 with
 Magna Cum Laude, Phi Beta Kappa, and UCLA College Honors distinctions.
 #+HTML: <hr/>
@@ -33,6 +33,7 @@ Magna Cum Laude, Phi Beta Kappa, and UCLA College Honors distinctions.
 * Research and Professional Experiences
 #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align rX
+| 12/2016        | Co-chair, "Tropical circulations and their sensitivities to changes in climate" session at AGU Fall Meeting                                                                     |
 | 9/2016-8/2019  | Postdoc, California Institute of Technology and UCLA                                                                                                                            |
 |                | Advised by Simona Bordoni and Jonathan Mitchell                                                                                                                                 |
 | 6-8/2015       | Organizer, Princeton AOS convection journal club                                                                                                                                |
@@ -62,7 +63,7 @@ Magna Cum Laude, Phi Beta Kappa, and UCLA College Honors distinctions.
 ** Princeton Graduate Teaching Transcript certification
 Administered by the McGraw Center for Teaching & Learning.  Requirements include
 two-day teacher training, lectures and workshops on pedagogy, and video recording
-and subsequent analysis of teaching as a TA.  Completed Summer 2016.
+and subsequent analysis of teaching as a TA.  Expected completion August 2016.
 ** Teaching Assistant
 Princeton University, Fall 2014, Geosciences 361, "Physics of Earth: The
 Habitable Planet."  Professor George Philander.

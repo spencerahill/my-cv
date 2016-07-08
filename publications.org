@@ -4,14 +4,14 @@
    climates."  In preparation.
 2. *Hill, Spencer A.*, Yi Ming, Isaac M. Held, and Ming Zhao.  "Towards emergent constraints on
    future rainfall in the Sahel."  In preparation.
-3. Brown, Patrick T., Yi Ming, Wenhong Li, and *Spencer A. Hill*.  "Change in the
-   magnitude and mechanisms of unforced low-frequency surface temperature
-   variability in a warmer climate."  In preparation.
-4. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated tropical circulation responses to
+3. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated tropical circulation responses to
    orbital precession and their sensitivity to ocean thermodynamics."  In
    preparation.
 ** Submitted/in revision/in press.
-1. *Hill, Spencer A.* "Energetic and hydrological responses of Hadley circulations
+1. Brown, Patrick T., Yi Ming, Wenhong Li, and *Spencer A. Hill*.  "Change in the
+   magnitude and mechanisms of unforced low-frequency surface temperature
+   variability in a warmer climate."  Submitted to /Nature/.
+2. *Hill, Spencer A.* "Energetic and hydrological responses of Hadley circulations
    and the African Sahel to sea surface temperature perturbations."  PhD Thesis,
    Princeton University Program in Atmospheric and Oceanic Sciences.  Submitted
    to readers Yi Ming and Bill Boos [2016-06-21 Tue].  Oral examination to be
