@@ -1,6 +1,6 @@
 :PROPERTIES:
-#+TITLE: Spencer Alan Hill
-#+AUTHOR: PhD student | Atmospheric and Oceanic Sciences | Princeton University
+#+TITLE: Dr. Spencer Alan Hill
+#+AUTHOR: Postdoctoral Research Fellow | UCLA AOS and Caltech GPS
 #+DATE:
 #+OPTIONS: toc:nil ':nil num:nil
 #+OPTIONS: texht:t
@@ -8,21 +8,32 @@
 #+LATEX_CLASS_OPTIONS:
 #+LATEX_HEADER: \usepackage[margin=1in]{geometry}
 #+LATEX_HEADER: \usepackage{tabularx}
+#+LATEX_HEADER: \setlength{\parindent}{0pt}
 #+LATEX_HEADER_EXTRA:
 :END:
-* Contact Information						   :noexport:
-Suite 308B\\
-NOAA Geophysical Fluid Dynamics Laboratory\\
-201 Forrestal Road\\
-Princeton, NJ 08540\\
-[[spencerh@princeton.edu]]\\
-(609) 452-5324\\
-[[http://www.princeton.edu/aos/people/graduate_students/hill/index.xml]]
+* Contact information
+Department of Atmospheric and Oceanic Sciences\\
+7127 Math Sciences Building\\
+405 Hilgard Avenue\\
+Los Angeles, California 90095-1565\\
+[[mailto:shill@atmos.ucla.edu][shill@atmos.ucla.edu]]\\
+(913) 515-8527\\
+[[http://www.princeton.edu/~spencerh]]
+* Current position
+National Science Foundation Atmospheric and Geospace Sciences Postdoctoral
+Research Fellow (2016-2018)\\
+California Institute of Technology Coco and Foster Stanback Postdoctoral Fellow
+(deferred, 2018-2020)\\
+University of California, Los Angeles, Department of Atmospheric and Oceanic
+Sciences\\
+California Institute of Technology, Division of Geological and Planetary
+Sciences\\
+Advisers: Jonathan Mitchell, UCLA and Westmont College; Simona Bordoni, Caltech\\
 * Education
 ** Graduate | Princeton University
-Ph.D., Atmospheric and Oceanic Sciences, expected August 2016.  Advisor: Yi
-Ming.  Committee members: Isaac Held, Leo Donner, and Ming Zhao.
-M.A. conferred May 2013.
+Ph.D., Atmospheric and Oceanic Sciences, conferred August 2016.  Advisor: Yi
+Ming.  Committee members: Isaac Held, Leo Donner, and Ming Zhao.  M.A. conferred
+May 2013, Ph.D. conferred September 2016.
 ** Undergraduate | UCLA
 B.S., AOS/Applied Mathematics double major conferred June 2011 with
 Magna Cum Laude, Phi Beta Kappa, and UCLA College Honors distinctions.
@@ -33,7 +44,8 @@ Magna Cum Laude, Phi Beta Kappa, and UCLA College Honors distinctions.
 * Research and Professional Experiences
 #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align rX
-| 12/2016        | Co-chair, "Tropical circulations and their sensitivities to changes in climate" session at AGU Fall Meeting                                                                     |
+| 12/2016        | Co-chair, "Tropical circulations and their sensitivities to changes in climate", AGU Fall Meeting 2016                                                                          |
+| 11/2016        | Co-chair, "Tropical convection and radiative convective equilibrium", WCRP Model Hierarchies Workshop                                                                           |
 | 9/2016-8/2019  | Postdoc, California Institute of Technology and UCLA                                                                                                                            |
 |                | Advised by Simona Bordoni and Jonathan Mitchell                                                                                                                                 |
 | 6-8/2015       | Organizer, Princeton AOS convection journal club                                                                                                                                |
@@ -63,7 +75,7 @@ Magna Cum Laude, Phi Beta Kappa, and UCLA College Honors distinctions.
 ** Princeton Graduate Teaching Transcript certification
 Administered by the McGraw Center for Teaching & Learning.  Requirements include
 two-day teacher training, lectures and workshops on pedagogy, and video recording
-and subsequent analysis of teaching as a TA.  Expected completion August 2016.
+and subsequent analysis of teaching as a TA.  Completed August 2016.
 ** Teaching Assistant
 Princeton University, Fall 2014, Geosciences 361, "Physics of Earth: The
 Habitable Planet."  Professor George Philander.
@@ -81,12 +93,16 @@ Habitable Planet."  Professor George Philander.
 | [2015-06-19] | "Introduction to climate models."  20 minute presentation to New Jersey Japanese School during their visit to NOAA Geophysical Fluid Dynamics Laboratory, Princeton, NJ. |
 #+HTML: <hr/>
 * Reviewing
-Reviewer for /Journal of Climate/, /Nature Climate Change/, and GFDL internal
-manuscript review
+Reviewer for /Nature Climate Change/, /Journal of Climate/, /Journal of the
+Atmospheric Sciences/, and GFDL internal manuscript review.
 #+HTML: <hr/>
 * Selected Presentations
 #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
+| [2016-11-02] | "A hierarchy of perturbation complexites: Case study of Sahel rainfall response to global warming."  Poster.  WCRP Model Hierarchies Workshop, Princeton University, Princeton, NJ.                                                                                                                                                                |
+| [2016-10-26] | "Tropical energetic and precipitation responses to sea surface temperature perturbations: Zonal mean and the African Sahel."  Oral.  Caltech GPS formal seminar series.                                                                            |
+| [2016-10-13] | "The fate of rainfall in the African Sahel under global warming."  Invited oral.  Westmont College, Santa Barbara, CA.                                                                                                                             |
+| [2016-10-05] | "Tropical energetic and precipitation responses to sea surface temperature perturbations: Zonal mean and the African Sahel."  Oral.  UCLA AOS formal seminar series.                                                                               |
 | [2015-12-14] | "Towards constraining future rainfall in the Sahel using the moist static energy budget." Oral.  AGU 2015 Fall Meeting, San Francisco, CA.                                                                                                         |
 | [2015-05-21] | "Towards constraining Sahel rainfall responses to global mean temperature changes."  Invited oral.  Linde Center for Global Environmental Science "Monsoons: Past, Present and Future" workshop, California Institute of Technology, Pasadena, CA. |
 | [2015-03-13] | "Radiative and dynamical controls on the Sahel rainfall response to uniform ocean warming."  Oral.  Princeton AOS dynamics seminar series.                                                                                                         |
