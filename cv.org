@@ -16,9 +16,10 @@ Department of Atmospheric and Oceanic Sciences\\
 7127 Math Sciences Building\\
 405 Hilgard Avenue\\
 Los Angeles, California 90095-1565\\
+
 [[mailto:shill@atmos.ucla.edu][shill@atmos.ucla.edu]]\\
-(913) 515-8527\\
-[[http://www.princeton.edu/~spencerh]]
+[[http://people.atmos.ucla.edu/shill]]\\
++1 (913) 515-8527
 * Current position
 National Science Foundation Atmospheric and Geospace Sciences Postdoctoral
 Research Fellow (2016-2018)\\
@@ -31,9 +32,8 @@ Sciences\\
 Advisers: Jonathan Mitchell, UCLA and Westmont College; Simona Bordoni, Caltech\\
 * Education
 ** Graduate | Princeton University
-Ph.D., Atmospheric and Oceanic Sciences, conferred August 2016.  Advisor: Yi
-Ming.  Committee members: Isaac Held, Leo Donner, and Ming Zhao.  M.A. conferred
-May 2013, Ph.D. conferred September 2016.
+Ph.D., Atmospheric and Oceanic Sciences, conferred September 2016.  Advisor: Yi
+Ming.  Committee members: Isaac Held, Leo Donner, and Ming Zhao.
 ** Undergraduate | UCLA
 B.S., AOS/Applied Mathematics double major conferred June 2011 with
 Magna Cum Laude, Phi Beta Kappa, and UCLA College Honors distinctions.
