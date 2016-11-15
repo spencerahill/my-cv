@@ -9,7 +9,14 @@
 #+LATEX_HEADER: \usepackage[margin=1in]{geometry}
 #+LATEX_HEADER: \usepackage{tabularx}
 #+LATEX_HEADER: \setlength{\parindent}{0pt}
+
+#+LATEX_HEADER: \usepackage{natbib}
+#+LATEX_HEADER: \usepackage{bibentry}
+#+LATEX_HEADER: \usepackage{doi}
+
 #+LATEX_HEADER_EXTRA:
+
+#+MACRO: LINK @@html:<a href=$1>$2</a>@@
 :END:
 * Contact information
 Department of Atmospheric and Oceanic Sciences\\
@@ -39,7 +46,7 @@ B.S., AOS/Applied Mathematics double major conferred June 2011 with
 Magna Cum Laude, Phi Beta Kappa, and UCLA College Honors distinctions.
 #+HTML: <hr/>
 * Publications
-#+INCLUDE: "publications.org"
+#+INCLUDE: "publications.org" :lines "19-"
 #+HTML: <hr/>
 * Research and Professional Experiences
 #+ATTR_HTML: :rules none :frame none
@@ -131,3 +138,6 @@ Atmospheric Sciences/, and GFDL internal manuscript review.
 | "Slurry flows: An experimental and modeling study."  Invited oral presentation.  UCLA Applied Mathematics Undergraduate Research Showcase/Alumni Appreciation Event, UCLA Faculty Center, Los Angeles, CA.                                                                     | [2011-08-03] |
 | "Slurry flows: An experimental and modeling study."  Group oral presentation with 3 co-presenters.  UCLA California Research Training Program in Computational and Applied Mathematics Concluding Symposium, UCLA Institute for Pure and Applied Mathematics, Los Angeles, CA. | [2011-08-03] |
 | "Investigating feasibility of an on-campus housing composting program: Results of three 'zero waste floor' experiments."  Group oral.  UCLA Office of Residential Life.                                                                                                        | [2009-06-05] |
+* (org-ref commands)                                                 :ignore:
+bibliographystyle:agufull08
+nobibliography:../zotero.bib

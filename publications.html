@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Spencer A. Hill's Publications</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Spencer Hill" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Spencer A. Hill's Publications</h1>
+<div id="outline-container-org5c43d07" class="outline-2">
+<h2 id="org5c43d07">(bibtex: get \bibentry to work)</h2>
+<div class="outline-text-2" id="text-org5c43d07">
+</div>
+</div>
+<div id="outline-container-orgefb099d" class="outline-2">
+<h2 id="orgefb099d">In preparation</h2>
+<div class="outline-text-2" id="text-orgefb099d">
+<ol class="org-ol">
+<li><b>Hill, Spencer A.</b>, Yi Ming, Isaac M. Held, and Ming Zhao.  "Towards emergent
+constraints on future rainfall in the Sahel."  In preparation.</li>
+<li>Smyth, Jane, <b>Spencer A. Hill</b>, and Yi Ming.  "Simulated tropical circulation
+responses to orbital precession and their sensitivity to ocean
+thermodynamics."  In preparation.</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org3a30788" class="outline-2">
+<h2 id="org3a30788">Submitted/in revision/in press.</h2>
+<div class="outline-text-2" id="text-org3a30788">
+<ol class="org-ol">
+<li><b>Hill, Spencer A.</b>, Yi Ming, Isaac M. Held, and Ming Zhao.  "A moist static
+energy budget-based analysis of the Sahel rainfall response to uniform
+oceanic warming."  Submitted to <i>Journal of
+Climate</i>.  <a href="files/sahel_mse_precip_jcli_submit.pdf"> PDF.</a></li>
+<li>Brown, Patrick T., Yi Ming, Wenhong Li, and <b>Spencer A. Hill</b>.  "Change in the
+magnitude and mechanisms of unforced low-frequency surface temperature
+variability in a warmer climate."  Submitted to <i>Nature Climate Change</i>.</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orga6d58c8" class="outline-2">
+<h2 id="orga6d58c8">Peer-reviewed</h2>
+<div class="outline-text-2" id="text-orga6d58c8">
+<ol class="org-ol">
+<li><a class='org-ref-reference' href="#hill_mechanisms_2015">hill_mechanisms_2015</a></li>
+<li><a class='org-ref-reference' href="#hill_corrigendum_2016">hill_corrigendum_2016</a></li>
+<li><a class='org-ref-reference' href="#hill_nonlinear_2012">hill_nonlinear_2012</a></li>
+<li>(2015) <b>Hill, Spencer A.</b>, Yi Ming, and Isaac M. Held. "Mechanisms of forced tropical
+meridional energy flux change."  <i>J. Climate</i>, <b>28</b>, 1725-1742.  doi:
+<a href="http://dx.doi.org/10.1175/JCLI-D-14-00165.1">10.1175/JCLI-D-14-00165.1</a> and <a href="http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-16-0485.1">Corrigendum</a>.</li>
+<li>(2012) <b>Hill, Spencer A.</b> and Yi Ming. "Nonlinear climate response to regional
+brightening of tropical marine stratocumulus."  <i>Geophysical Research Letters</i>,
+<b>39</b>, L15707, 5 pp. doi: <a href="http://dx.doi.org/10.1029/2012GL052064">10.1029/2012GL052064</a>.</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org1002025" class="outline-2">
+<h2 id="org1002025">Non peer-reviewed</h2>
+<div class="outline-text-2" id="text-org1002025">
+<ol class="org-ol">
+<li><a class='org-ref-reference' href="#hill_head_2012">hill_head_2012</a></li>
+
+<li>(2012) <b>Hill, Spencer A.</b> "A head in the clouds elucidates" (book review of
+<a href="http://press.princeton.edu/titles/9773.html">Atmosphere, Clouds, and Climate</a> by David Randall). <i>Science</i>, <b>337</b>, 1 pp., doi:
+<a href="http://dx.doi.org/10.1126/science.1225615">10.1126/science.1225615</a>.</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org252b344" class="outline-2">
+<h2 id="org252b344">PhD thesis</h2>
+<div class="outline-text-2" id="text-org252b344">
+<p>
+<a class='org-ref-reference' href="#hill_energetic_2016">hill_energetic_2016</a>
+</p>
+
+<p>
+(2016) <b>Hill, Spencer A.</b> "Energetic and hydrological responses of Hadley
+circulations and the African Sahel to sea surface temperature perturbations."
+PhD Thesis, Princeton University Program in Atmospheric and Oceanic Sciences.
+Defended <span class="timestamp-wrapper"><span class="timestamp">[2016-08-02 Tue]</span></span>.  <a href="http://search.proquest.com.ezproxy.princeton.edu/pqdtglobal/docview/1831357756/abstract/522E2D42A8BF49C0PQ/1">Proquest</a>.  <a href="files/spencer_hill_phd_thesis.pdf"> PDF.</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org20b6a62" class="outline-2">
+<h2 id="org20b6a62">Technical/software</h2>
+<div class="outline-text-2" id="text-org20b6a62">
+<ol class="org-ol">
+<li><a class='org-ref-reference' href="#hoyer_xarray:_2016">hoyer_xarray:_2016</a></li>
+
+<li>(2016) Hoyer, Stephan et al.  "xarray: v0.8.0."  <a href="http://dx.doi.org/10.5281/zenodo.59499">10.5281/zenodo.59499</a>.</li>
+</ol>
+</div>
+</div>
+<p>
+
+<h1 class='org-ref-bib-h1'>Bibliography</h1>
+<ul class='org-ref-bib'><li><a id="hill_mechanisms_2015">[hill_mechanisms_2015] Hill, Ming & Held, Mechanisms of Forced Tropical Meridional Energy Flux Change, <i>J. Climate</i>, <b>28(5)</b>, 1725-1742 (2015). <a href="http://dx.doi.org/10.1175/JCLI-D-14-00165.1">doi</a>.</a></li>
+<li><a id="hill_corrigendum_2016">[hill_corrigendum_2016] Hill, Ming & Held, Corrigendum to "Mechanisms of Forced Tropical Meridional Energy Flux Change", <i>J. Climate</i>, <b>29(19)</b>, 7169-7169 (2016). <a href="http://dx.doi.org/10.1175/JCLI-D-16-0485.1">doi</a>.</a></li>
+<li><a id="hill_nonlinear_2012">[hill_nonlinear_2012] Hill & Ming, Nonlinear Climate Response to Regional Brightening of Tropical Marine Stratocumulus, <i>Geophys. Res. Lett.</i>, <b>39(15)</b>, L15707 (2012). <a href="http://dx.doi.org/10.1029/2012GL052064">doi</a>.</a></li>
+<li><a id="hill_head_2012">[hill_head_2012] Hill, A Head in the Clouds Elucidates Climate, <i>Science</i>, <b>337(6099)</b>, 1175-1175 (2012). <a href="http://dx.doi.org/10.1126/science.1225615">doi</a>.</a></li>
+<li><a id="hill_energetic_2016">[hill_energetic_2016] @phdthesishill_energetic_2016,
+  address = United States - New Jersey,
+  type = Ph.D.,
+  title = Energetic and Hydrological Responses of Hadley Circulations and the African Sahel to Sea Surface Temperature Perturbations,
+  copyright = Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works.,
+  abstract = Tropical precipitation is linked through the moist static energy (MSE) budget to the global distribution of sea surface temperatures (SSTs), and large deviations from the present-day SST distribution have been inferred for past climates and projected for global warming. We use idealized SST perturbation experiments in multiple atmospheric general circulation models (AGCMs) to examine the hydrologic and energetic responses in the zonal mean and in the African Sahel to SST perturbations. We also use observational data to assess the prospects for emergent constraints on future rainfall in the Sahel.
+The tropical zonal mean anomalous MSE fluxes in the NOAA Geophysical Fluid Dynamics Laboratory (GFDL) AM2.1 AGCM due to SST anomalies caused by either historical greenhouse gas or aerosol forcing primarily occur through the time-mean, zonal mean (Hadley) circulation. Away from the Intertropical Convergence Zone (ITCZ), this largely stems from altered efficiency of the Hadley circulation energy transport, i.e. the gross moist stability (GMS). A thermodynamic scaling-based estimate that relates GMS change to the local climatological moisture and temperature change relative to the ITCZ captures most of the qualitative GMS responses. It also yields a heuristic explanation for the well known correlation between low-latitude MSE fluxes and the ITCZ latitude.
+Severe Sahelian drying with uniform SST warming in AM2.1 is eliminated when the default convective parameterization is replaced with an alternate. The drying is commensurate with MSE convergence due to suppressed ascent balanced by MSE divergence due to increased dry advection from the Sahara. These qualitative energetic responses to uniform warming are shared by five other GFDL models and ten CMIP5 models, although they do not translate into quantitative predictors of the Sahel rainfall response. Climatological values and interannual variability in observations and reanalyses suggest that drying in AM2.1 is exacerbated by an overly top-heavy ascent profile and positive feedbacks through cloud radiative properties. Simulations with patterned SST anomalies suggest a major role for mean SST variations in discrepancies among models and potentially in observed decadal variations of Sahelian precipitation.,
+  language = English,
+  timestamp = 2016-10-27T00:35:53Z,
+  urldate = 2016-10-27,
+  school = Princeton University,
+  author = Hill, Spencer Alan,
+  year = 2016,
+  keywords = wrote
+</a></li>
+<li><a id="hoyer_xarray:_2016">[hoyer_xarray:_2016] @mischoyer_xarray:_2016,
+  title = Xarray: v0.8.0,
+  shorttitle = Xarray,
+  abstract = v0.8.0 (2 August 2016)
+
+This release includes new features and bug fixes, including several breaking changes.
+
+Breaking changes
+
+Dropped support for Python 2.6 (\#855).
+Indexing on multi-index now drop levels, which is consistent with pandas. It also changes the name of the dimension / coordinate when the multi-index is reduced to a single index (\#802).
+Contour plots no longer add a colorbar per default (\#866). Filled contour plots are unchanged.
+
+DataArray.values and .data now always returns an NumPy array-like object, even for 0-dimensional arrays with object dtype (\#867). Previously, .values returned native Python objects in such cases. To convert the values of scalar arrays to Python objects, use the .item method.
+
+Enhancements
+
+Groupby operations now support grouping over multidimensional variables. A new method called xarray.Dataset.groupby\_bins has also been added to allow users to specify bins for grouping. The new features are described in groupby.multidim and examples.multidim. By Ryan Abernathey.
+DataArray and Dataset method where now supports a drop=True option that clips coordinate elements that are fully masked. By Phillip J. Wolfram.
+New top level merge function allows for combining variables from any number of Dataset and/or DataArray variables. See merge for more details. By Stephan Hoyer.
+DataArray and Dataset method resample now supports the keep\_attrs=False option that determines whether variable and dataset attributes are retained in the resampled object. By Jeremy McGibbon.
+Better multi-index support in DataArray and Dataset sel and loc methods, which now behave more closely to pandas and which also accept dictionaries for indexing based on given level names and labels (see multi-level indexing). By Benoit Bovy.
+New (experimental) decorators xarray.register\_dataset\_accessor and xarray.register\_dataarray\_accessor for registering custom xarray extensions without subclassing. They are described in the new documentation page on internals. By Stephan Hoyer.
+Round trip boolean datatypes. Previously, writing boolean datatypes to netCDF formats would raise an error since netCDF does not have a bool datatype. This feature reads/writes a dtype attribute to boolean variables in netCDF files. By Joe Hamman.
+2D plotting methods now have two new keywords (cbar\_ax and cbar\_kwargs), allowing more control on the colorbar (\#872). By Fabien Maussion.
+New Dataset method filter\_by\_attrs, akin to netCDF4.Dataset.get\_variables\_by\_attributes, to easily filter data variables using its attributes. Filipe Fernandes.
+
+Bug fixes
+
+Attributes were being retained by default for some resampling operations when they should not. With the keep\_attrs=False option, they will no longer be retained by default. This may be backwards-incompatible with some scripts, but the attributes may be kept by adding the keep\_attrs=True option. By Jeremy McGibbon.
+Concatenating xarray objects along an axis with a MultiIndex or PeriodIndex preserves the nature of the index (\#875). By Stephan Hoyer.
+Fixed bug in arithmetic operations on DataArray objects whose dimensions are numpy structured arrays or recarrays \#861, \#837. By Maciek Swat.
+
+decode\_cf\_timedelta now accepts arrays with ndim &gt;1 (\#842). This fixes issue \#665. Filipe Fernandes.
+Fix a bug where xarray.ufuncs that take two arguments would incorrectly use to numpy functions instead of dask.array functions (\#876). By Stephan Hoyer.
+Support for pickling functions from  xarray.ufuncs (\#901). By Stephan Hoyer.
+
+Variable.copy(deep=True) no longer converts MultiIndex into a base Index (\#769). By Benoit Bovy.
+Fixes for groupby on dimensions with a multi-index (\#867). By Stephan Hoyer.
+Fix printing datasets with unicode attributes on Python 2 (\#892). By Stephan Hoyer.
+Fixed incorrect test for dask version (\#891). By Stephan Hoyer.
+Fixed dim argument for isel\_points/sel\_points when a pandas.Index is passed. By Stephan Hoyer.
+
+xarray.plot.contour now plots the correct number of contours (\#866). By Fabien Maussion.,
+  timestamp = 2016-08-16T03:01:26Z,
+  urldate = 2016-08-16,
+  author = Hoyer, Stephan and Abernathey, Ryan and Hamman, Joe and ebrevdo and maciekswat and Wolfram, Phillip and Hill, Spencer and Welch, Erik and Miles, Alistair and Sinclair, Scott and Kanmae, Takeshi and Lee, Antony and Hilboll, Andreas and akleeman and Babuschkin, Igor and Guedes, Rafael and Fitzgerald, Clark and Maussion, Fabien and Gerard, Jeffrey and Markel and Bovy, Benoit and Graham, Mike and Koldunov, Nikolay and Kluyver, Thomas and Cable, Pete and Helmus, Jonathan J. and Richards, Ned and Deil, Christoph and Roos, Maximilian and Filipe,
+  month = aug,
+  year = 2016,
+  doi = 10.5281/zenodo.59499
+</a></li>
+</ul>
+</p>
+</div>
+</body>
+</html>
