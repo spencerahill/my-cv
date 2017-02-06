@@ -30,8 +30,8 @@
 ** Submitted/in revision/in press.
 1. *Hill, Spencer A.*, Yi Ming, Isaac M. Held, and Ming Zhao.  "A moist static
    energy budget-based analysis of the Sahel rainfall response to uniform
-   oceanic warming."  Submitted to /Journal of
-   Climate/.  {{{LINK("files/sahel_mse_precip_jcli_submit.pdf", PDF.)}}}
+   oceanic warming."  In revision, /Journal of Climate/.
+   {{{LINK("files/sahel_mse_precip_jcli_submit.pdf", PDF.)}}}
 2. Brown, Patrick T., Yi Ming, Wenhong Li, and *Spencer A. Hill*.  "Change in the
    magnitude and mechanisms of unforced low-frequency surface temperature
    variability in a warmer climate."  Submitted to /Nature Climate Change/.
