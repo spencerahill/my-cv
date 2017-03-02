@@ -1,10 +1,10 @@
 :PROPERTIES:
-#+TITLE: Spencer A. Hill's Publications
-#+AUTHOR:
+#+TITLE: Publications
+#+AUTHOR: Spencer A. Hill
 #+OPTIONS: toc:nil ':nil num:nil
 #+OPTIONS: texht:t
-#+LATEX_CLASS: article
-#+LATEX_CLASS_OPTIONS:
+#+LATEX_CLASS: shillcv
+#+LATEX_CLASS_OPTIONS: [12pt,letterpaper]
 #+LATEX_HEADER: \usepackage[margin=1in]{geometry}
 #+LATEX_HEADER: \usepackage{tabularx}
 #+LATEX_HEADER: \setlength{\parindent}{0pt}
@@ -41,16 +41,16 @@
 # 2. bibentry:hill_nonlinear_2012
 1. (2015) *Hill, Spencer A.*, Yi Ming, and Isaac M. Held. "Mechanisms of forced
    tropical meridional energy flux change."  /J. Climate/, *28*, 1725-1742.  doi:
-   [[http://dx.doi.org/10.1175/JCLI-D-14-00165.1][10.1175/JCLI-D-14-00165.1]].
+   [[http://dx.doi.org/10.1175/JCLI-D-14-00165.1][10.1175/JCLI-D-14-00165.1]].  {{{LINK("files/hill_mechanisms_2015.pdf", PDF.)}}}
    + Corrigendum: [[https://dx.doi.org/10.1175/JCLI-D-16-0485.1]]
 2. (2012) *Hill, Spencer A.* and Yi Ming. "Nonlinear climate response to regional
    brightening of tropical marine stratocumulus."  /Geophysical Research Letters/,
-   *39*, L15707, 5 pp. doi: [[http://dx.doi.org/10.1029/2012GL052064][10.1029/2012GL052064]].
+   *39*, L15707, 5 pp. doi: [[http://dx.doi.org/10.1029/2012GL052064][10.1029/2012GL052064]]. {{{LINK("files/hill_nonlinear_2012.pdf", PDF.)}}}
 ** Non peer-reviewed
 # 1. bibentry:hill_head_2012
 1. (2012) *Hill, Spencer A.* "A head in the clouds elucidates" (book review of
    [[http://press.princeton.edu/titles/9773.html][Atmosphere, Clouds, and Climate]] by David Randall). /Science/, *337*, 1 pp., doi:
-   [[http://dx.doi.org/10.1126/science.1225615][10.1126/science.1225615]].
+   [[http://dx.doi.org/10.1126/science.1225615][10.1126/science.1225615]].  {{{LINK("files/hill_head_2012.pdf", PDF.)}}}
 ** PhD thesis
 # bibentry:hill_energetic_2016.
 # [[http://search.proquest.com.ezproxy.princeton.edu/pqdtglobal/docview/1831357756/abstract/522E2D42A8BF49C0PQ/1][Proquest]].  {{{LINK("files/spencer_hill_phd_thesis.pdf", PDF.)}}}

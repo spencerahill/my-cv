@@ -1,38 +1,24 @@
 :PROPERTIES:
-#+TITLE: Dr. Spencer Alan Hill
-#+AUTHOR: Postdoctoral Research Fellow | UCLA AOS and Caltech GPS
+#+TITLE: Postdoctoral Research Fellow | UCLA AOS and Caltech GPS
+#+AUTHOR: Dr. Spencer Alan Hill
 #+DATE:
 #+OPTIONS: toc:nil ':nil num:nil
 #+OPTIONS: texht:t
-#+LATEX_CLASS: article
+#+LATEX_CLASS: shillcv
 #+LATEX_CLASS_OPTIONS: [12pt,letterpaper]
-#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
-#+LATEX_HEADER: \usepackage{tabularx}
-
-#+LATEX_HEADER: \usepackage{natbib}
-#+LATEX_HEADER: \usepackage{bibentry}
-#+LATEX_HEADER: \usepackage{doi}
-
-#+LATEX_HEADER: \usepackage{titlesec}
-#+LATEX_HEADER: \titleformat*{\section}{\Large\bfseries}
-#+LATEX_HEADER: \titleformat*{\subsection}{\large\bfseries}
-#+LATEX_HEADER: \titlespacing*{\section}{0pt}{10pt}{0pt}
-#+LATEX_HEADER: \titlespacing*{\subsection}{0pt}{10pt}{0pt}
-
-#+LATEX_HEADER: \setlength{\parindent}{0pt}
+#+LATEX_HEADER:
 #+LATEX_HEADER_EXTRA:
-
 #+MACRO: LINK @@html:<a href=$1>$2</a>@@
 :END:
 * Contact information
+[[mailto:shill@atmos.ucla.edu][shill@atmos.ucla.edu]]\\
+[[http://people.atmos.ucla.edu/shill]]\\
++1 (913) 515-8527\\
+
 Department of Atmospheric and Oceanic Sciences\\
 7127 Math Sciences Building\\
 405 Hilgard Avenue\\
-Los Angeles, California 90095-1565\\
-
-[[mailto:shill@atmos.ucla.edu][shill@atmos.ucla.edu]]\\
-[[http://people.atmos.ucla.edu/shill]]\\
-+1 (913) 515-8527
+Los Angeles, California 90095-1565
 * Current position
 NSF Atmospheric and Geospace Sciences Postdoctoral Research Fellow | 2016-2018\\
 Caltech Foster and Coco Stanback Postdoctoral Fellow | deferred to 2018-2020\\
@@ -101,7 +87,7 @@ Finlayson (2014), Colin Raymond (2013)
 #+HTML: <hr/>
 * Reviewing
 Reviewer for /Nature Climate Change/, /Journal of Climate/ (x3), /Journal of the
-Atmospheric Sciences/, and GFDL internal manuscript review.
+Atmospheric Sciences/, /Climate Dynamics/ and GFDL internal manuscript review.
 #+HTML: <hr/>
 * Selected Presentations
 #+ATTR_HTML: :rules none :frame none
@@ -144,6 +130,6 @@ Atmospheric Sciences/, and GFDL internal manuscript review.
 | "Slurry flows: An experimental and modeling study."  Invited oral presentation.  UCLA Applied Mathematics Undergraduate Research Showcase/Alumni Appreciation Event, UCLA Faculty Center, Los Angeles, CA.                                                                     | [2011-08-03] |
 | "Slurry flows: An experimental and modeling study."  Group oral presentation with 3 co-presenters.  UCLA California Research Training Program in Computational and Applied Mathematics Concluding Symposium, UCLA Institute for Pure and Applied Mathematics, Los Angeles, CA. | [2011-08-03] |
 | "Investigating feasibility of an on-campus housing composting program: Results of three 'zero waste floor' experiments."  Group oral.  UCLA Office of Residential Life.                                                                                                        | [2009-06-05] |
-* (org-ref commands)                                                 :ignore:
+* COMMENT (org-ref commands)                                                 :ignore:
 bibliographystyle:agufull08
-nobibliography:../zotero/zotero.bib
+nobibliography:/Users/shill/Dropbox/apps_data/zotero/zotero.bib
