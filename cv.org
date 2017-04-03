@@ -18,7 +18,11 @@
 Department of Atmospheric and Oceanic Sciences\\
 7127 Math Sciences Building\\
 405 Hilgard Avenue\\
-Los Angeles, California 90095-1565
+Los Angeles, California 90095-1565\\
+
+ORCID ID: [[http://orcid.org/0000-0001-8672-0671][0000-0001-8672-0671]]\\
+Twitter: [[https://twitter.com/spencerahill][@spencerahill]]\\
+Github: https://github.com/spencerahill
 * Current position
 NSF Atmospheric and Geospace Sciences Postdoctoral Research Fellow | 2016-2018\\
 Caltech Foster and Coco Stanback Postdoctoral Fellow | deferred to 2018-2020\\
@@ -27,7 +31,7 @@ Caltech Division of Geological and Planetary Sciences\\
 Advisers: Jonathan Mitchell, UCLA and Westmont College | Simona Bordoni, Caltech\\
 * Education
 ** Ph.D. | Princeton University | Program in Atmospheric and Oceanic Sciences
-Conferred September 2016 | Advisor Yi Ming | Committee members: Isaac
+Conferred September 2016 | Adviser Yi Ming | Committee members: Isaac
 Held, Leo Donner, Ming Zhao
 ** B.S. | UCLA | Dept. of AOS and Dept. of Applied Mathematics
 AOS/Applied Mathematics double major | Conferred June 2011 |
@@ -39,8 +43,8 @@ Magna Cum Laude | Phi Beta Kappa | UCLA College Honors
 * Research and Professional Experiences
 #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align rX
-| 12/2016        | Co-chair, "Tropical circulations and their sensitivities to changes in climate", AGU Fall Meeting 2016                                                                          |
-| 11/2016        | Co-chair, "Tropical convection and radiative convective equilibrium", WCRP Model Hierarchies Workshop                                                                           |
+| 12/2016        | Co-chair, "Tropical circulations and their sensitivities to changes in climate" session, AGU Fall Meeting 2016                                                                  |
+| 11/2016        | Co-chair, "Tropical convection and radiative convective equilibrium" session, WCRP Model Hierarchies Workshop                                                                   |
 | 9/2016-8/2019  | Postdoc, California Institute of Technology and UCLA                                                                                                                            |
 |                | Advised by Simona Bordoni and Jonathan Mitchell                                                                                                                                 |
 | 6-8/2015       | Organizer, Princeton AOS convection journal club                                                                                                                                |
@@ -48,7 +52,7 @@ Magna Cum Laude | Phi Beta Kappa | UCLA College Honors
 | 9/2012–8/2013  | Organizer, Princeton AOS Student/Postdoc Seminar Series                                                                                                                         |
 | 9/2012–8/2013  | Princeton AOS Program Student Representative to the Faculty                                                                                                                     |
 | 4/2012–5/2013  | Member, Princeton Energy and Climate Scholars                                                                                                                                   |
-| 7/2012         | GFDL Summer School on Atmospheric Modeling                                                                                                                                      |
+| 7/2012         | Participant, GFDL Summer School on Atmospheric Modeling                                                                                                                         |
 | 6–8/2011       | Research Intern, UCLA California Research Training Program in Computational and Applied Mathematics, Slurry Flows Group.                                                        |
 
 #+ATTR_HTML: :rules none :frame none
@@ -87,7 +91,8 @@ Finlayson (2014), Colin Raymond (2013)
 #+HTML: <hr/>
 * Reviewing
 Reviewer for /Nature Climate Change/, /Journal of Climate/ (x3), /Journal of the
-Atmospheric Sciences/, /Climate Dynamics/ and GFDL internal manuscript review.
+Atmospheric Sciences/, /Climate Dynamics/, /Journal of Geophysical Research -
+Atmospheres/, and GFDL internal manuscript review.
 #+HTML: <hr/>
 * Selected Presentations
 #+ATTR_HTML: :rules none :frame none
