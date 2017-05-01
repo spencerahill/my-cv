@@ -26,15 +26,15 @@
    responses to orbital precession and their sensitivity to ocean thermodynamics."
 3. Xue, Yongkun, Yi Ming, Jianping Huang, and *Spencer A. Hill*.  "Precipitation
    changes over China in response to a warming ocean."
-** Submitted/in revision/in press
+** Submitted/in revision
 1. Brown, Patrick T., Yi Ming, Wenhong Li, and *Spencer A. Hill*.  "Change in the
    magnitude and mechanisms of unforced low-frequency surface temperature
    variability in a warmer climate."  Submitted to /Nature Climate Change/.
 ** Peer-reviewed
 1. (2017) *Hill, Spencer A.*, Yi Ming, Isaac M. Held, and Ming Zhao.  "A moist
    static energy budget-based analysis of the Sahel rainfall response to uniform
-   oceanic warming."  Accepted/in production, /Journal of Climate/.
-   {{{LINK("papers/sahel_precip_mse_jcli_revised.pdf", PDF.)}}}
+   oceanic warming."  In press, /Journal of Climate/.  doi: [[doi:10.1175/JCLI-D-16-0785.1][10.1175/JCLI-D-16-0785.1]]
+   {{{LINK("papers/hill+2017eor_sahel_mse_precip.pdf.pdf", PDF.)}}}
 2. (2015) *Hill, Spencer A.*, Yi Ming, and Isaac M. Held. "Mechanisms of forced
    tropical meridional energy flux change."  /Journal of Climate/, *28*, 1725-1742.
    doi: [[http://dx.doi.org/10.1175/JCLI-D-14-00165.1][10.1175/JCLI-D-14-00165.1]].
