@@ -30,11 +30,14 @@
 1. Brown, Patrick T., Yi Ming, Wenhong Li, and *Spencer A. Hill*.  "Change in the
    magnitude and mechanisms of unforced low-frequency surface temperature
    variability in a warmer climate."  Submitted to /Nature Climate Change/.
+2. Jeevanjee, Nadir, Pedram Hassanzadeh, *Spencer A. Hill*, and Aditi Sheshadri.
+   "A perspective on climate model hierarchies."  Submitted to /Journal of
+   Advances in Modeling Earth Systems/.
 ** Peer-reviewed
 1. (2017) *Hill, Spencer A.*, Yi Ming, Isaac M. Held, and Ming Zhao.  "A moist
    static energy budget-based analysis of the Sahel rainfall response to uniform
    oceanic warming."  In press, /Journal of Climate/.  doi: [[doi:10.1175/JCLI-D-16-0785.1][10.1175/JCLI-D-16-0785.1]]
-   {{{LINK("papers/hill+2017eor_sahel_mse_precip.pdf.pdf", PDF.)}}}
+   {{{LINK("papers/hill+2017eor_sahel_mse_precip.pdf", PDF.)}}}
 2. (2015) *Hill, Spencer A.*, Yi Ming, and Isaac M. Held. "Mechanisms of forced
    tropical meridional energy flux change."  /Journal of Climate/, *28*, 1725-1742.
    doi: [[http://dx.doi.org/10.1175/JCLI-D-14-00165.1][10.1175/JCLI-D-14-00165.1]].
