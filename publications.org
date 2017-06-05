@@ -27,12 +27,12 @@
 3. Xue, Yongkun, Yi Ming, Jianping Huang, and *Spencer A. Hill*.  "Precipitation
    changes over China in response to a warming ocean."
 ** Submitted/in revision
-1. Brown, Patrick T., Yi Ming, Wenhong Li, and *Spencer A. Hill*.  "Change in the
+1. Jeevanjee, Nadir, Pedram Hassanzadeh, *Spencer A. Hill*, and Aditi Sheshadri.
+   "A perspective on climate model hierarchies."  In revision at /Journal of
+   Advances in Modeling Earth Systems/.
+2. Brown, Patrick T., Yi Ming, Wenhong Li, and *Spencer A. Hill*.  "Change in the
    magnitude and mechanisms of unforced low-frequency surface temperature
    variability in a warmer climate."  Submitted to /Nature Climate Change/.
-2. Jeevanjee, Nadir, Pedram Hassanzadeh, *Spencer A. Hill*, and Aditi Sheshadri.
-   "A perspective on climate model hierarchies."  Submitted to /Journal of
-   Advances in Modeling Earth Systems/.
 ** Peer-reviewed
 1. (2017) *Hill, Spencer A.*, Yi Ming, Isaac M. Held, and Ming Zhao.  "A moist
    static energy budget-based analysis of the Sahel rainfall response to uniform
@@ -51,16 +51,20 @@
 ** Non peer-reviewed
 # 1. bibentry:hill_head_2012
 1. (2012) *Hill, Spencer A.* "A head in the clouds elucidates" (book review of
-   [[http://press.princeton.edu/titles/9773.html][Atmosphere, Clouds, and Climate]] by David Randall). /Science/, *337*, 1 pp., doi: [[http://dx.doi.org/10.1126/science.1225615][10.1126/science.1225615]].  {{{LINK("papers/hill2012.pdf", PDF.)}}}
+   [[http://press.princeton.edu/titles/9773.html][Atmosphere, Clouds, and Climate]] by David Randall). /Science/, *337*, 1 pp., doi:
+   [[http://dx.doi.org/10.1126/science.1225615][10.1126/science.1225615]].  {{{LINK("papers/hill2012.pdf", PDF.)}}}
 ** PhD thesis
 # bibentry:hill_energetic_2016.
 # [[http://search.proquest.com.ezproxy.princeton.edu/pqdtglobal/docview/1831357756/abstract/522E2D42A8BF49C0PQ/1][Proquest]].  {{{LINK("papers/spencer_hill_phd_thesis.pdf", PDF.)}}}
-(2016) *Hill, Spencer A.* "Energetic and hydrological responses of Hadley circulations and the African Sahel to sea surface temperature perturbations."  PhD Thesis, Princeton University Program in Atmospheric and Oceanic Sciences.  [[http://search.proquest.com.ezproxy.princeton.edu/pqdtglobal/docview/1831357756/abstract/522E2D42A8BF49C0PQ/1][Proquest]].  {{{LINK("papers/spencer_hill_phd_thesis.pdf", PDF.)}}}
+(2016) *Hill, Spencer A.* "Energetic and hydrological responses of Hadley
+circulations and the African Sahel to sea surface temperature perturbations."
+PhD Thesis, Princeton University Program in Atmospheric and Oceanic Sciences.
+[[http://search.proquest.com.ezproxy.princeton.edu/pqdtglobal/docview/1831357756/abstract/522E2D42A8BF49C0PQ/1][Proquest]].  {{{LINK("papers/spencer_hill_phd_thesis.pdf", PDF.)}}}
 ** Technical/software
 # 1. bibentry:hoyer_xarray:_2016
-1. (2016) Hoyer, Stephan et al.  "xarray: v0.8.0."  [[doi:10.5281/zenodo.59499][10.5281/zenodo.59499]].
-2. Hill, Spencer A. and Spencer Clark.  "aospy: automated climate data analysis
-   and management."  [[http://aospy.readthedocs.io/en/latest/]].
+1. (2017) Hill, Spencer A. and Spencer Clark.  "aospy: automated climate data
+   analysis and management."  [[http://aospy.readthedocs.io/en/latest/]].
+2. (2016) Hoyer, Stephan et al.  "xarray: v0.8.0."  [[doi:10.5281/zenodo.59499][10.5281/zenodo.59499]].
 ** (org-ref commands)                                                :ignore:
 # bibliographystyle:agufull08
 # nobibliography:/Users/shill/Dropbox/apps_data/zotero/zotero.bib
