@@ -23,36 +23,39 @@
 1. *Hill, Spencer A.*, Yi Ming, Isaac M. Held, and Ming Zhao.  "Towards emergent
    constraints on future rainfall in the Sahel."
 2. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated tropical circulation
-   responses to orbital precession and their sensitivity to ocean thermodynamics."
+   responses to orbital precession and their sensitivity to ocean
+   thermodynamics."
 3. Xue, Yongkun, Yi Ming, Jianping Huang, and *Spencer A. Hill*.  "Precipitation
    changes over China in response to a warming ocean."
 ** Submitted/in revision
-1. Jeevanjee, Nadir, Pedram Hassanzadeh, *Spencer A. Hill*, and Aditi Sheshadri.
-   "A perspective on climate model hierarchies."  In revision at /Journal of
-   Advances in Modeling Earth Systems/.
-2. Brown, Patrick T., Yi Ming, Wenhong Li, and *Spencer A. Hill*.  "Change in the
+1. Brown, Patrick T., Yi Ming, Wenhong Li, and *Spencer A. Hill*.  "Change in the
    magnitude and mechanisms of unforced low-frequency surface temperature
    variability in a warmer climate."  Submitted to /Nature Climate Change/.
 ** Peer-reviewed
-1. (2017) *Hill, Spencer A.*, Yi Ming, Isaac M. Held, and Ming Zhao.  "A moist
+1. (2017) Jeevanjee, Nadir, Pedram Hassanzadeh, *Spencer A. Hill*, and Aditi
+   Sheshadri.  "A perspective on climate model hierarchies."  Accepted, /Journal
+   of Advances in Modeling Earth Systems/.
+   {{{LINK("papers/jeevanjee+2017hierarchies.pdf", PDF.)}}}
+2. (2017) *Hill, Spencer A.*, Yi Ming, Isaac M. Held, and Ming Zhao.  "A moist
    static energy budget-based analysis of the Sahel rainfall response to uniform
    oceanic warming."  In press, /Journal of Climate/.  doi: [[doi:10.1175/JCLI-D-16-0785.1][10.1175/JCLI-D-16-0785.1]]
    {{{LINK("papers/hill+2017eor_sahel_mse_precip.pdf", PDF.)}}}
-2. (2015) *Hill, Spencer A.*, Yi Ming, and Isaac M. Held. "Mechanisms of forced
+3. (2015) *Hill, Spencer A.*, Yi Ming, and Isaac M. Held. "Mechanisms of forced
    tropical meridional energy flux change."  /Journal of Climate/, *28*, 1725-1742.
    doi: [[http://dx.doi.org/10.1175/JCLI-D-14-00165.1][10.1175/JCLI-D-14-00165.1]].
    {{{LINK("papers/hill+2015_full_with_corr.pdf", PDF.)}}}
-   + Corrigendum: [[https://dx.doi.org/10.1175/JCLI-D-16-0485.1]].  {{{LINK("papers/hill+2015corr.pdf", PDF.)}}}
-3. (2012) *Hill, Spencer A.* and Yi Ming. "Nonlinear climate response to regional
+   + Corrigendum: [[https://dx.doi.org/10.1175/JCLI-D-16-0485.1]].
+     {{{LINK("papers/hill+2015corr.pdf", PDF.)}}}
+4. (2012) *Hill, Spencer A.* and Yi Ming. "Nonlinear climate response to regional
    brightening of tropical marine stratocumulus."  /Geophysical Research Letters/,
    *39*, L15707, 5 pp. doi:
    [[http://dx.doi.org/10.1029/2012GL052064][10.1029/2012GL052064]]. {{{LINK("papers/hill+ming2012.pdf", PDF.)}}}
    {{{LINK("papers/hill+ming2012supp.pdf", Supplementary material PDF.)}}}
 ** Non peer-reviewed
 # 1. bibentry:hill_head_2012
-1. (2012) *Hill, Spencer A.* "A head in the clouds elucidates" (book review of
-   [[http://press.princeton.edu/titles/9773.html][Atmosphere, Clouds, and Climate]] by David Randall). /Science/, *337*, 1 pp., doi:
-   [[http://dx.doi.org/10.1126/science.1225615][10.1126/science.1225615]].  {{{LINK("papers/hill2012.pdf", PDF.)}}}
+1. (2012) *Hill, Spencer A.* "A head in the clouds elucidates climate" (book
+   review of [[http://press.princeton.edu/titles/9773.html][/Atmosphere, Clouds, and Climate/]] by David Randall). /Science/, *337*,
+   1 pp., doi: [[http://dx.doi.org/10.1126/science.1225615][10.1126/science.1225615]].  {{{LINK("papers/hill2012.pdf", PDF.)}}}
 ** PhD thesis
 # bibentry:hill_energetic_2016.
 # [[http://search.proquest.com.ezproxy.princeton.edu/pqdtglobal/docview/1831357756/abstract/522E2D42A8BF49C0PQ/1][Proquest]].  {{{LINK("papers/spencer_hill_phd_thesis.pdf", PDF.)}}}
