@@ -25,28 +25,28 @@
 2. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated tropical circulation
    responses to orbital precession and their sensitivity to ocean
    thermodynamics."
-3. Xue, Yongkun, Yi Ming, Jianping Huang, and *Spencer A. Hill*.  "Precipitation
+3. Xie, Yongkun, Yi Ming, Jianping Huang, and *Spencer A. Hill*.  "Precipitation
    changes over China in response to a warming ocean."
-** Submitted/in revision
-1. Brown, Patrick T., Yi Ming, Wenhong Li, and *Spencer A. Hill*.  "Change in the
-   magnitude and mechanisms of unforced low-frequency surface temperature
-   variability in a warmer climate."  Submitted to /Nature Climate Change/.
+** COMMENT Submitted/in revision
 ** Peer-reviewed
-1. (2017) Jeevanjee, Nadir, Pedram Hassanzadeh, *Spencer A. Hill*, and Aditi
+1. (2017) Brown, Patrick T., Yi Ming, Wenhong Li, and *Spencer A. Hill*.  "Change
+   in the magnitude and mechanisms of unforced low-frequency surface temperature
+   variability in a warmer climate."  Accepted, /Nature Climate Change/.
+2. (2017) Jeevanjee, Nadir, Pedram Hassanzadeh, *Spencer A. Hill*, and Aditi
    Sheshadri.  "A perspective on climate model hierarchies."  Accepted, /Journal
    of Advances in Modeling Earth Systems/.
    {{{LINK("papers/jeevanjee+2017hierarchies.pdf", PDF.)}}}
-2. (2017) *Hill, Spencer A.*, Yi Ming, Isaac M. Held, and Ming Zhao.  "A moist
+3. (2017) *Hill, Spencer A.*, Yi Ming, Isaac M. Held, and Ming Zhao.  "A moist
    static energy budget-based analysis of the Sahel rainfall response to uniform
    oceanic warming."  /Journal of Climate/, *30*, 5637-5660.  doi:
    [[doi:10.1175/JCLI-D-16-0785.1][10.1175/JCLI-D-16-0785.1]] {{{LINK("papers/2017sahel_mse_precip.pdf", PDF.)}}}
-3. (2015) *Hill, Spencer A.*, Yi Ming, and Isaac M. Held. "Mechanisms of forced
+4. (2015) *Hill, Spencer A.*, Yi Ming, and Isaac M. Held. "Mechanisms of forced
    tropical meridional energy flux change."  /Journal of Climate/, *28*, 1725-1742.
    doi: [[http://dx.doi.org/10.1175/JCLI-D-14-00165.1][10.1175/JCLI-D-14-00165.1]].
    {{{LINK("papers/hill+2015_full_with_corr.pdf", PDF.)}}}
    + Corrigendum: [[https://dx.doi.org/10.1175/JCLI-D-16-0485.1]].
      {{{LINK("papers/hill+2015corr.pdf", PDF.)}}}
-4. (2012) *Hill, Spencer A.* and Yi Ming. "Nonlinear climate response to regional
+5. (2012) *Hill, Spencer A.* and Yi Ming. "Nonlinear climate response to regional
    brightening of tropical marine stratocumulus."  /Geophysical Research Letters/,
    *39*, L15707, 5 pp. doi:
    [[http://dx.doi.org/10.1029/2012GL052064][10.1029/2012GL052064]]. {{{LINK("papers/hill+ming2012.pdf", PDF.)}}}
