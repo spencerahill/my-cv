@@ -40,22 +40,17 @@
    static energy budget-based analysis of the Sahel rainfall response to uniform
    oceanic warming."  /Journal of Climate/, *30*, 5637-5660.  doi:
    [[doi:10.1175/JCLI-D-16-0785.1][10.1175/JCLI-D-16-0785.1]] {{{LINK("papers/2017sahel_mse_precip.pdf", PDF.)}}}
-4. (2015) *Hill, Spencer A.*, Yi Ming, and Isaac M. Held. "Mechanisms of forced
+4. (2015) *Hill, Spencer A.*, Yi Ming, and Isaac M. Held.  "Mechanisms of forced
    tropical meridional energy flux change."  /Journal of Climate/, *28*, 1725-1742.
    doi: [[http://dx.doi.org/10.1175/JCLI-D-14-00165.1][10.1175/JCLI-D-14-00165.1]].
    {{{LINK("papers/hill+2015_full_with_corr.pdf", PDF.)}}}
    + Corrigendum: [[https://dx.doi.org/10.1175/JCLI-D-16-0485.1]].
      {{{LINK("papers/hill+2015corr.pdf", PDF.)}}}
-5. (2012) *Hill, Spencer A.* and Yi Ming. "Nonlinear climate response to regional
+5. (2012) *Hill, Spencer A.* and Yi Ming.  "Nonlinear climate response to regional
    brightening of tropical marine stratocumulus."  /Geophysical Research Letters/,
    *39*, L15707, 5 pp. doi:
    [[http://dx.doi.org/10.1029/2012GL052064][10.1029/2012GL052064]]. {{{LINK("papers/hill+ming2012.pdf", PDF.)}}}
    {{{LINK("papers/hill+ming2012supp.pdf", Supplementary material PDF.)}}}
-** Non peer-reviewed
-# 1. bibentry:hill_head_2012
-1. (2012) *Hill, Spencer A.* "A head in the clouds elucidates climate" (book
-   review of [[http://press.princeton.edu/titles/9773.html][/Atmosphere, Clouds, and Climate/]] by David Randall). /Science/, *337*,
-   1 pp., doi: [[http://dx.doi.org/10.1126/science.1225615][10.1126/science.1225615]].  {{{LINK("papers/hill2012.pdf", PDF.)}}}
 ** PhD thesis
 # bibentry:hill_energetic_2016.
 # [[http://search.proquest.com.ezproxy.princeton.edu/pqdtglobal/docview/1831357756/abstract/522E2D42A8BF49C0PQ/1][Proquest]].  {{{LINK("papers/spencer_hill_phd_thesis.pdf", PDF.)}}}
@@ -63,6 +58,13 @@
 circulations and the African Sahel to sea surface temperature perturbations."
 PhD Thesis, Princeton University Program in Atmospheric and Oceanic Sciences.
 [[http://search.proquest.com.ezproxy.princeton.edu/pqdtglobal/docview/1831357756/abstract/522E2D42A8BF49C0PQ/1][Proquest]].  {{{LINK("papers/spencer_hill_phd_thesis.pdf", PDF.)}}}
+** Non peer-reviewed
+1. (2017) *Hill, Spencer A.* and Spencer K. Clark.  "What’s needed for the Future
+   of AOS Python? Tools for Automating AOS Data Analysis and Management."  Guest
+   blog post on PyAOS blog.  http://pyaos.johnny-lin.com/?p=1546.
+2. (2012) *Hill, Spencer A.*  "A head in the clouds elucidates climate" (book
+   review of [[http://press.princeton.edu/titles/9773.html][/Atmosphere, Clouds, and Climate/]] by David Randall). /Science/, *337*,
+   1 pp., doi: [[http://dx.doi.org/10.1126/science.1225615][10.1126/science.1225615]].  {{{LINK("papers/hill2012.pdf", PDF.)}}}
 ** Technical/software
 # 1. bibentry:hoyer_xarray:_2016
 1. (2017) Hill, Spencer A. and Spencer Clark.  "aospy: automated climate data
