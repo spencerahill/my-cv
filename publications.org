@@ -34,12 +34,12 @@
    variability in a warmer climate."  Accepted, /Nature Climate Change/.
 2. (2017) Jeevanjee, Nadir, Pedram Hassanzadeh, *Spencer A. Hill*, and Aditi
    Sheshadri.  "A perspective on climate model hierarchies."  Accepted, /Journal
-   of Advances in Modeling Earth Systems/.
-   {{{LINK("papers/jeevanjee+2017hierarchies.pdf", PDF.)}}}
+   of Advances in Modeling Earth Systems/.  doi: [[doi:10.1002/2017MS001038][10.1002/2017MS001038]].
+   {{{LINK("papers/jeevanjee+2017hierarchies_accepted.pdf", PDF.)}}}
 3. (2017) *Hill, Spencer A.*, Yi Ming, Isaac M. Held, and Ming Zhao.  "A moist
    static energy budget-based analysis of the Sahel rainfall response to uniform
    oceanic warming."  /Journal of Climate/, *30*, 5637-5660.  doi:
-   [[doi:10.1175/JCLI-D-16-0785.1][10.1175/JCLI-D-16-0785.1]] {{{LINK("papers/2017sahel_mse_precip.pdf", PDF.)}}}
+   [[doi:10.1175/JCLI-D-16-0785.1][10.1175/JCLI-D-16-0785.1]].  {{{LINK("papers/2017sahel_mse_precip.pdf", PDF.)}}}
 4. (2015) *Hill, Spencer A.*, Yi Ming, and Isaac M. Held.  "Mechanisms of forced
    tropical meridional energy flux change."  /Journal of Climate/, *28*, 1725-1742.
    doi: [[http://dx.doi.org/10.1175/JCLI-D-14-00165.1][10.1175/JCLI-D-14-00165.1]].
