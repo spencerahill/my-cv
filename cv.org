@@ -46,8 +46,6 @@ Magna Cum Laude | Phi Beta Kappa | UCLA College Honors
 | 06/2017        | Chair, [[https://ams.confex.com/ams/21Fluid19Middle/webprogram/Session43327.html]["Idealized approaches to the atmospheric and oceanic circulation, Part II"]] session, AMS 21st Conference on Atmospheric and Oceanic Fluid Dynamics, Portland, OR         |
 | 12/2016        | Co-chair, "Tropical circulations and their sensitivities to changes in climate" session, AGU Fall Meeting 2016, San Francisco, CA                                              |
 | 11/2016        | Co-chair, "Tropical convection and radiative convective equilibrium" session, WCRP Model Hierarchies Workshop, Princeton, NJ                                                   |
-| 9/2016-8/2019  | Postdoc, California Institute of Technology and UCLA                                                                                                                           |
-|                | Advised by Simona Bordoni and Jonathan Mitchell                                                                                                                                |
 | 6-8/2015       | Organizer, Princeton AOS convection journal club                                                                                                                               |
 | 6/2013–10/2015 | Organizer, GFDL Climate Sensitivity Journal Club                                                                                                                               |
 | 9/2012–8/2013  | Organizer, Princeton AOS Student/Postdoc Seminar Series                                                                                                                        |
@@ -88,7 +86,7 @@ Habitable Planet."  Professor George Philander.
 Developing inexpensive, easy-to-assemble rotating tank platforms for use in
 teaching fundamental principles of Earth science at levels from K-12 science
 classes to AOS graduate courses.  Materials include the kits themselves, PDF
-assembly instruction, instructional videos, and a website.
+assembly instruction, instructional videos, and a website: https://diynamics.github.io/
 
 Used the tables as part of presentations at Los Angeles area middle schools:
 "Building scientific models of Earth's atmosphere, oceans, and more."
@@ -109,6 +107,7 @@ Geophysical Research - Atmospheres/, and GFDL internal manuscript review.
 * Selected Presentations
 #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
+| [2017-07-19 Wed] | "Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions."  Poster.  Gordon Research Conference on Radiation and Climate.  Bates College, Lewiston, ME.            |
 | [2017-06-27 Tue] | "Control of convergence zone migrations by planetary parameters."  Poster.  AMS 21st Conference on Atmospheric and Oceanic Fluid Dynamics.  Portland, OR.                                                                                          |
 | [2017-01-24 Tue] | "Automate your climate and weather data analysis with aospy."  Oral.  AMS Annual Meeting, Seattle, WA.                                                                                                                                             |
 | [2017-01-24 Tue] | "Energetic and precipitation responses in the Sahel to sea surface temperature perturbations."  Oral.  AMS Annual Meeting, Seattle, WA.                                                                                                            |
