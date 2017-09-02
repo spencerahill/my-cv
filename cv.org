@@ -42,7 +42,7 @@ Magna Cum Laude | Phi Beta Kappa | UCLA College Honors
 #+INCLUDE: "publications.org" :lines "19-"
 #+HTML: <hr/>
 * Research and Professional Experiences
-#+ATTR_HTML: :rules none :frame none
+# #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align rX
 | 2017 June      | Chair, [[https://ams.confex.com/ams/21Fluid19Middle/webprogram/Session43327.html]["Idealized approaches to the atmospheric and oceanic circulation, Part II"]] session, AMS 21st Conference on Atmospheric and Oceanic Fluid Dynamics, Portland, OR         |
 | 2016. Dec      | Co-chair, "Tropical circulations and their sensitivities to changes in climate" session, AGU Fall Meeting 2016, San Francisco, CA                                              |
@@ -58,7 +58,7 @@ Magna Cum Laude | Phi Beta Kappa | UCLA College Honors
 | 2010 June-Aug. | Research Intern, NOAA Geophysical Fluid Dynamics Laboratory, Princeton, NJ. Advisor Dr. Yi Ming                                                                                |
 #+HTML: <hr/>
 * Major Honors and Awards
-#+ATTR_HTML: :rules none :frame none
+# #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
 | 2016 | NSF Atmospheric and Geospace Sciences Postdoctoral Research Fellowship.  NSF Award #1624740 (2 years)                                                       |
 | 2016 | California Institute of Technology Foster and Coco Stanback Postdoctoral Fellowship, deferred to 2018 (2 years)                                             |
@@ -71,7 +71,7 @@ Magna Cum Laude | Phi Beta Kappa | UCLA College Honors
 #+HTML: <hr/>
 * Teaching & Mentoring
 ** Princeton Graduate Teaching Transcript certification
-Administered by the Princeton Universiy McGraw Center for Teaching & Learning.
+Administered by the Princeton University McGraw Center for Teaching & Learning.
 Requirements include two-day teacher training, lectures and workshops on
 pedagogy, and video recording and subsequent analysis of teaching as a TA.
 Completed August 2016.
@@ -96,7 +96,7 @@ Used the tables as part of presentations at Los Angeles area middle schools:
 | [2017-05-19 Fri] | La Tijera K-8 Charter School, Inglewood, CA (8th grade students; 3 class periods) |
 | [2017-05-22 Mon] | Ralph J. Bunche Middle School, Compton, CA (8th grade students; 2 class periods)  |
 ** Prior outreach efforts
-#+ATTR_HTML: :rules none :frame none
+# #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
 | [2015-06-19] | "Introduction to climate models."  20 minute presentation to New Jersey Japanese School during their visit to NOAA Geophysical Fluid Dynamics Laboratory, Princeton, NJ.        |   |              |                                                                                                                                                                                 |
 | [2015-04-10] | "Introduction to weather and climate."  45 minute presentation + Q&A to 7th grade class at Forrestdale Middle School, Rumson, NJ.  Co-presented with Sarah Schlunegger.         |   |              |                                                                                                                                                                                 |
@@ -107,7 +107,7 @@ Letters/, /Journal of the Atmospheric Sciences/, /Climate Dynamics/, /Journal of
 Geophysical Research - Atmospheres/, and GFDL internal manuscript review.
 #+HTML: <hr/>
 * Selected Presentations
-#+ATTR_HTML: :rules none :frame none
+# #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
 | [2017-07-19 Wed] | "Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions."  Poster.  Gordon Research Conference on Radiation and Climate.  Bates College, Lewiston, ME.            |
 | [2017-06-27 Tue] | "Control of convergence zone migrations by planetary parameters."  Poster.  AMS 21st Conference on Atmospheric and Oceanic Fluid Dynamics.  Portland, OR.                                                                                          |
@@ -116,6 +116,9 @@ Geophysical Research - Atmospheres/, and GFDL internal manuscript review.
 | [2016-12-16 Fri] | "Robust drying influence of mean ocean surface warming on The Sahel and implications for constraining future rainfall change."  Oral.  AGU 2016 Fall Meeting, San Francisco, CA.                                                                   |
 | [2016-11-02] | "A hierarchy of perturbation complexites: Case study of Sahel rainfall response to global warming."  Poster.  WCRP Model Hierarchies Workshop, Princeton University, Princeton, NJ.                                                                |
 | [2016-10-26] | "Tropical energetic and precipitation responses to sea surface temperature perturbations: Zonal mean and the African Sahel."  Oral.  Caltech GPS formal seminar series.                                                                            |
+
+# #+ATTR_HTML: :rules none :frame none
+#+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
 | [2016-10-13] | "The fate of rainfall in the African Sahel under global warming."  Invited oral.  Westmont College, Santa Barbara, CA.                                                                                                                             |
 | [2016-10-05] | "Tropical energetic and precipitation responses to sea surface temperature perturbations: Zonal mean and the African Sahel."  Oral.  UCLA AOS formal seminar series.                                                                               |
 | [2015-12-14] | "Towards constraining future rainfall in the Sahel using the moist static energy budget." Oral.  AGU 2015 Fall Meeting, San Francisco, CA.                                                                                                         |
@@ -123,9 +126,6 @@ Geophysical Research - Atmospheres/, and GFDL internal manuscript review.
 | [2015-03-13] | "Radiative and dynamical controls on the Sahel rainfall response to uniform ocean warming."  Oral.  Princeton AOS dynamics seminar series.                                                                                                         |
 | [2015-03-06] | "Mechanisms of forced ITCZ shifts and of rainfall responses in the African Sahel to SST warming."  Invited oral.  New York University AOS student seminar series.                                                                                  |
 | [2015-01-06] | "Convection scheme, cloud, and stability effects on Sahel rainfall response to uniform warming."  Poster.  AMS Annual Meeting, Phoenix, AZ.                                                                                                        |
-
-#+ATTR_HTML: :rules none :frame none
-#+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
 | [2014-12-15] | "Convection scheme, cloud, and stability effects on Sahel rainfall response to uniform warming."  Poster.  AGU Fall Meeting, San Francisco, CA.                                                                                                    |
 | [2014-10-09] | "Mechanisms of forced ITCZ shifts and Sahelian drought in GCMs."  Invited oral presentation.  Yale University, New Haven, CT.                                                                                                                      |
 | [2014-06-19] | "Mechanisms of forced tropical meridional energy flux change."  Poster presentation.  Latsis Symposium, ETH Zurich, Zurich, Switzerland.                                                                                                           |

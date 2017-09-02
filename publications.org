@@ -18,7 +18,11 @@
 ** In preparation
 1. *Hill, Spencer A.*, Yi Ming, Isaac M. Held, and Ming Zhao.  "Robust responses
    of the Sahelian hydrological cycle to global warming."
-2. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated tropical circulation
+2. *Hill, Spencer A.*, Juan M. Lora, Norris Khoo, Sean P. Faulk, and Jonathan
+   Aurnou.  "DIYnamics: scalable geoscience education via rotating fluid
+   demonstrations."  Proposal approved for submission to /Bulletin of the
+   American Meteorological Society/.
+3. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated tropical circulation
    responses to orbital precession and their sensitivity to ocean
    thermodynamics."
 ** COMMENT Submitted/in revision
