@@ -24,10 +24,10 @@
 % Section title spacing and formatting.
 \usepackage{titlesec}
 \titleformat{\section}
-  {\normalfont\sffamily\Large\bfseries\color{NavyBlue}}
+  {\normalfont\sffamily\Large\color{NavyBlue}}
   {\thesection}{1em}{}
 \titleformat{\subsection}
-  {\normalfont\sffamily\large\bfseries\color{Gray}}
+  {\normalfont\sffamily\large\color{Gray}}
   {\thesubsection}{1em}{}
 % \titleformat*{\section}{\Large\bfseries}
 % \titleformat*{\subsection}{\large\bfseries}
@@ -40,8 +40,8 @@
 % Document title
 \renewcommand{\@maketitle}{
   \begin{center}
-    {\huge\bfseries\sffamily\color{NavyBlue}\@author\par}
+    {\huge\sffamily\color{NavyBlue}\@author\par}
     \vskip 0.5em
-    {\Large\@title\par}
+    {\Large\sffamily\color{Gray}\@title\par}
   \end{center}
 }
