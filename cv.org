@@ -39,7 +39,7 @@ AOS/Applied Mathematics double major | Conferred June 2011 |
 Magna Cum Laude | Phi Beta Kappa | UCLA College Honors
 #+HTML: <hr/>
 * Publications
-#+INCLUDE: "publications.org" :lines "19-"
+#+INCLUDE: "publications.org" :lines "18-"
 #+HTML: <hr/>
 * Research and Professional Experiences
 # #+ATTR_HTML: :rules none :frame none
