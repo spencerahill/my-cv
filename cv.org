@@ -149,6 +149,3 @@ Geophysical Research - Atmospheres/, and GFDL internal manuscript review.
 | "Slurry flows: An experimental and modeling study."  Invited oral presentation.  UCLA Applied Mathematics Undergraduate Research Showcase/Alumni Appreciation Event, UCLA Faculty Center, Los Angeles, CA.                                                                     | [2011-08-03] |
 | "Slurry flows: An experimental and modeling study."  Group oral presentation with 3 co-presenters.  UCLA California Research Training Program in Computational and Applied Mathematics Concluding Symposium, UCLA Institute for Pure and Applied Mathematics, Los Angeles, CA. | [2011-08-03] |
 | "Investigating feasibility of an on-campus housing composting program: Results of three 'zero waste floor' experiments."  Group oral.  UCLA Office of Residential Life.                                                                                                        | [2009-06-05] |
-* COMMENT (org-ref commands)                                                 :ignore:
-bibliographystyle:agufull08
-nobibliography:/Users/shill/Dropbox/apps_data/zotero/zotero.bib
