@@ -33,9 +33,9 @@
    [[https://doi.org/10.1038/nclimate3381][10.1038/nclimate3381]].  {{{LINK("papers/brown+2017nature_cc.pdf", PDF.)}}}
    {{{LINK("https://nicholas.duke.edu/about/news/warmer-world-may-bring-more-local-less-global-temperature-variability", Duke University press release.)}}}
 2. (2017) Jeevanjee, Nadir, Pedram Hassanzadeh, *Spencer A. Hill*, and Aditi
-   Sheshadri.  "A perspective on climate model hierarchies."  Accepted, /Journal
-   of Advances in Modeling Earth Systems/.  doi: [[doi:10.1002/2017MS001038][10.1002/2017MS001038]].
-   {{{LINK("papers/jeevanjee+2017hierarchies_accepted.pdf", PDF.)}}}
+   Sheshadri.  "A perspective on climate model hierarchies."  /Journal
+   of Advances in Modeling Earth Systems/, *9*, 1760-1771.  doi: [[doi:10.1002/2017MS001038][10.1002/2017MS001038]].
+   {{{LINK("papers/jeevanjee+2017hierarchies.pdf", PDF.)}}}
 3. (2017) *Hill, Spencer A.*, Yi Ming, Isaac M. Held, and Ming Zhao.  "A moist
    static energy budget-based analysis of the Sahel rainfall response to uniform
    oceanic warming."  /Journal of Climate/, *30*, 5637-5660.  doi:
@@ -65,6 +65,6 @@ PhD Thesis, Princeton University Program in Atmospheric and Oceanic Sciences.
    review of [[http://press.princeton.edu/titles/9773.html][/Atmosphere, Clouds, and Climate/]] by David Randall). /Science/, *337*,
    1 pp., doi: [[http://dx.doi.org/10.1126/science.1225615][10.1126/science.1225615]].  {{{LINK("papers/hill2012.pdf", PDF.)}}}
 ** Technical/software
-1. (2017) Hill, Spencer A. and Spencer Clark.  "aospy: automated climate data
+1. (2017) *Hill, Spencer A.* and Spencer Clark.  "aospy: automated climate data
    analysis and management."  [[http://aospy.readthedocs.io/en/latest/]].
 2. (2016) Hoyer, Stephan et al.  "xarray: v0.8.0."  doi: [[doi:10.5281/zenodo.59499][10.5281/zenodo.59499]].
