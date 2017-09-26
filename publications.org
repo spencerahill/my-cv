@@ -66,5 +66,6 @@ PhD Thesis, Princeton University Program in Atmospheric and Oceanic Sciences.
    1 pp., doi: [[http://dx.doi.org/10.1126/science.1225615][10.1126/science.1225615]].  {{{LINK("papers/hill2012.pdf", PDF.)}}}
 ** Technical/software
 1. (2017) *Hill, Spencer A.* and Spencer Clark.  "aospy: automated climate data
-   analysis and management."  [[http://aospy.readthedocs.io/en/latest/]].
+   analysis and management."  [[http://aospy.readthedocs.io/en/latest/]].  doi:
+   [[https://doi.org/10.5281/zenodo.996951][10.5281/zenodo.996951]].
 2. (2016) Hoyer, Stephan et al.  "xarray: v0.8.0."  doi: [[doi:10.5281/zenodo.59499][10.5281/zenodo.59499]].
