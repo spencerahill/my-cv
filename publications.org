@@ -29,8 +29,10 @@
 ** Peer-reviewed
 1. (2017) Brown, Patrick T., Yi Ming, Wenhong Li, and *Spencer A. Hill*.  "Change
    in the magnitude and mechanisms of unforced low-frequency surface temperature
-   variability in a warmer climate."  Accepted, /Nature Climate Change/.  doi:
-   [[https://doi.org/10.1038/nclimate3381][10.1038/nclimate3381]].  {{{LINK("papers/brown+2017nature_cc.pdf", PDF.)}}}
+   variability in a warmer climate."  /Nature Climate Change/, *7*, 743-748.
+   doi: [[https://doi.org/10.1038/nclimate3381][10.1038/nclimate3381]].
+   {{{LINK("papers/brown+2017nature_cc.pdf", PDF.)}}}
+   {{{LINK("papers/brown+2017naturce_cc_supp.pdf", Supplementary material PDF.)}}}
    {{{LINK("https://nicholas.duke.edu/about/news/warmer-world-may-bring-more-local-less-global-temperature-variability", Duke University press release.)}}}
 2. (2017) Jeevanjee, Nadir, Pedram Hassanzadeh, *Spencer A. Hill*, and Aditi
    Sheshadri.  "A perspective on climate model hierarchies."  /Journal
