@@ -8,9 +8,11 @@
 #+LATEX_CLASS_OPTIONS: [12pt,letterpaper]
 #+LATEX_HEADER:
 #+LATEX_HEADER_EXTRA:
-#+MACRO: LINK @@html:<a href=$1>$2</a>@@
 :END:
+
+#+MACRO: LINK @@html:<a href=$1>$2</a>@@
 * Contact information
+
 [[mailto:shill@atmos.ucla.edu][shill@atmos.ucla.edu]]\\
 [[http://people.atmos.ucla.edu/shill]]\\
 +1 (913) 515-8527\\

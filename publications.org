@@ -10,11 +10,10 @@
 #+LATEX_HEADER: \setlength{\parindent}{0pt}
 
 #+LATEX_HEADER: \usepackage{doi}
-
 #+LATEX_HEADER_EXTRA:
+:END:
 
 #+MACRO: LINK @@html:<a href=$1>$2</a>@@
-:END:
 ** In preparation
 1. *Hill, Spencer A.*, Yi Ming, Isaac M. Held, and Ming Zhao.  "Robust responses
    of the Sahelian hydrological cycle to global warming."
@@ -32,7 +31,7 @@
    variability in a warmer climate."  /Nature Climate Change/, *7*, 743-748.
    doi: [[https://doi.org/10.1038/nclimate3381][10.1038/nclimate3381]].
    {{{LINK("papers/brown+2017nature_cc.pdf", PDF.)}}}
-   {{{LINK("papers/brown+2017naturce_cc_supp.pdf", Supplementary material PDF.)}}}
+   {{{LINK("papers/brown+2017nature_cc_supp.pdf", Supplementary material PDF.)}}}
    {{{LINK("https://nicholas.duke.edu/about/news/warmer-world-may-bring-more-local-less-global-temperature-variability", Duke University press release.)}}}
 2. (2017) Jeevanjee, Nadir, Pedram Hassanzadeh, *Spencer A. Hill*, and Aditi
    Sheshadri.  "A perspective on climate model hierarchies."  /Journal
@@ -66,7 +65,7 @@ PhD Thesis, Princeton University Program in Atmospheric and Oceanic Sciences.
 2. (2012) *Hill, Spencer A.*  "A head in the clouds elucidates climate" (book
    review of [[http://press.princeton.edu/titles/9773.html][/Atmosphere, Clouds, and Climate/]] by David Randall). /Science/, *337*,
    1 pp., doi: [[http://dx.doi.org/10.1126/science.1225615][10.1126/science.1225615]].  {{{LINK("papers/hill2012.pdf", PDF.)}}}
-** Technical/software
+** Software
 1. (2017) *Hill, Spencer A.* and Spencer Clark.  "aospy: automated climate data
    analysis and management."  [[http://aospy.readthedocs.io/en/latest/]].  doi:
    [[https://doi.org/10.5281/zenodo.996951][10.5281/zenodo.996951]].
