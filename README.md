@@ -5,7 +5,7 @@ I chose to host this on Github because I really like org-mode and thought that m
 
 # Contents
 * If you're just looking for a rendered version of my C.V., you can find it on my academic website, either in [HTML](http://people.atmos.ucla.edu/shill/cv.html) or as a [PDF](http://people.atmos.ucla.edu/shill/cv/cv.pdf).
-* If you want to see an example of a org-mode file used to generate both HTML and LaTeX/PDF output, see the .org file in this repo.
+* If you want to see an example of an org-mode file used to generate both HTML and LaTeX/PDF output, see the .org file in this repo.
 * If you want to see the HTML and LaTeX files that org-mode generates from the .org file, see the .html and .tex files.
 
 # Exporting to HTML and/or LaTeX/PDF from .org yourself
