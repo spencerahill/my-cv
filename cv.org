@@ -95,10 +95,12 @@ classes to AOS graduate courses.  Materials include the kits themselves, PDF
 assembly instruction, instructional videos, and a website: https://diynamics.github.io/
 
 Used the tables as part of presentations at Los Angeles area middle schools:
-"Building scientific models of Earth's atmosphere, oceans, and more."
-| [2017-05-12 Fri] | La Tijera K-8 Charter School, Inglewood, CA (7th grade students; 3 class periods) |
-| [2017-05-19 Fri] | La Tijera K-8 Charter School, Inglewood, CA (8th grade students; 3 class periods) |
-| [2017-05-22 Mon] | Ralph J. Bunche Middle School, Compton, CA (8th grade students; 2 class periods)  |
+"Building scientific models of Earth's atmosphere, oceans, and more," and at
+other public outreach events
+| [2017-11-05 Sun] | UCLA "Exploring Your Universe" (booth w/ continuously repeated demonstrations throughout day) |
+| [2017-05-12 Fri] | La Tijera K-8 Charter School, Inglewood, CA (7th grade students; 3 class periods)             |
+| [2017-05-19 Fri] | La Tijera K-8 Charter School, Inglewood, CA (8th grade students; 3 class periods)             |
+| [2017-05-22 Mon] | Ralph J. Bunche Middle School, Compton, CA (8th grade students; 2 class periods)              |
 ** Prior outreach efforts
 # #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
