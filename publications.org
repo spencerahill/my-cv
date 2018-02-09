@@ -18,12 +18,12 @@
 ** In preparation
 1. *Hill, Spencer A.*, Yi Ming, Isaac M. Held, and Ming Zhao.  "Robust responses
    of the Sahelian hydrological cycle to global warming."
-2. *Hill, Spencer A.*, Juan M. Lora, Norris Khoo, Sean P. Faulk, and Jonathan
-   Aurnou.  "DIYnamics: scalable geoscience education via rotating fluid
-   demonstrations."  Proposal approved for submission to /Bulletin of the
-   American Meteorological Society/.
 ** Submitted/in revision
-1. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated responses of the West
+1. *Hill, Spencer A.*, Juan M. Lora, Norris Khoo, Sean P. Faulk, and Jonathan M.
+   Aurnou.  "DIYnamics: Scaling up geoscience education through rotating fluid
+   demonstrations."  Submitted to /Bulletin of the American Meteorological
+   Society/.
+2. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated responses of the West
    African monsoon and zonal-mean tropical precipitation to early Holocene
    orbital forcing."  Submitted to /Geophysical Research Letters/.
 ** Peer-reviewed

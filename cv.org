@@ -96,7 +96,7 @@ assembly instruction, instructional videos, and a website: https://diynamics.git
 
 Used the tables as part of presentations at Los Angeles area middle schools:
 "Building scientific models of Earth's atmosphere, oceans, and more," and at
-other public outreach events
+other public outreach events.
 | [2017-11-05 Sun] | UCLA "Exploring Your Universe" (booth w/ continuously repeated demonstrations throughout day) |
 | [2017-05-12 Fri] | La Tijera K-8 Charter School, Inglewood, CA (7th grade students; 3 class periods)             |
 | [2017-05-19 Fri] | La Tijera K-8 Charter School, Inglewood, CA (8th grade students; 3 class periods)             |
