@@ -92,7 +92,8 @@ Habitable Planet."  Professor George Philander.
 Developing inexpensive, easy-to-assemble rotating tank platforms for use in
 teaching fundamental principles of Earth science at levels from K-12 science
 classes to AOS graduate courses.  Materials include the kits themselves, PDF
-assembly instruction, instructional videos, and a website: https://diynamics.github.io/
+assembly instruction, instructional videos, and a website:
+https://diynamics.github.io/
 
 Used the tables as part of presentations at Los Angeles area middle schools:
 "Building scientific models of Earth's atmosphere, oceans, and more," and at
@@ -117,13 +118,17 @@ other public outreach events.
 * Selected Presentations
 # #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
+| [2018-02-16 Fri] | "Robust responses of the Sahelian hydrological cycle to global warming."  Oral.  Columbia University/Lamont-Doherty Earth Observatory formal seminar series.  Palisades, NU.                                                                       |
+| [2018-02-14 Wed] | "What limits the ITCZ's poleward extent during summer?"  Oral.  NOAA Geophysical Fluid Dynamics Laboratory informal seminar series.  Princeton, NJ.                                                                                                |
 | [2017-12-14 Thu] | "Dry Rainbelts: Understanding Boundary Layer Controls on the ITCZ Using a Dry Dynamical Core."  Oral.  AGU Fall Meeting.  New Orleans, LA.                                                                                                         |
 | [2017-07-19 Wed] | "Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions."  Poster.  Gordon Research Conference on Radiation and Climate.  Bates College, Lewiston, ME.            |
 | [2017-06-27 Tue] | "Control of convergence zone migrations by planetary parameters."  Poster.  AMS 21st Conference on Atmospheric and Oceanic Fluid Dynamics.  Portland, OR.                                                                                          |
 | [2017-01-24 Tue] | "Automate your climate and weather data analysis with aospy."  Oral.  AMS Annual Meeting, Seattle, WA.                                                                                                                                             |
 | [2017-01-24 Tue] | "Energetic and precipitation responses in the Sahel to sea surface temperature perturbations."  Oral.  AMS Annual Meeting, Seattle, WA.                                                                                                            |
 | [2016-12-16 Fri] | "Robust drying influence of mean ocean surface warming on The Sahel and implications for constraining future rainfall change."  Oral.  AGU 2016 Fall Meeting, San Francisco, CA.                                                                   |
-| [2016-11-02]     | "A hierarchy of perturbation complexites: Case study of Sahel rainfall response to global warming."  Poster.  WCRP Model Hierarchies Workshop, Princeton University, Princeton, NJ.                                                                |
+| [2016-11-12 Sat] | "=infinite-diff= and =animal-spharm=: =xarray=-based finite differencing and spherical harmonics."  Invited oral presentation.  Columbia University AOS-Python workshop.  New York, NY.                                                                                                                                                            |
+| [2016-11-09 Wed] | "Energetic and precipitation responses in the Sahel to sea surface temperature perturbations."  Oral.  New York University Center for Atmosphere Ocean Science formal seminar series.  New York, NY.                                               |
+| [2016-11-02 Wed] | "A hierarchy of perturbation complexites: Case study of Sahel rainfall response to global warming."  Poster.  WCRP Model Hierarchies Workshop, Princeton University, Princeton, NJ.                                                                |
 | [2016-10-26]     | "Tropical energetic and precipitation responses to sea surface temperature perturbations: Zonal mean and the African Sahel."  Oral.  Caltech GPS formal seminar series.                                                                            |
 | [2016-10-13]     | "The fate of rainfall in the African Sahel under global warming."  Invited oral.  Westmont College, Santa Barbara, CA.                                                                                                                             |
 | [2016-10-05]     | "Tropical energetic and precipitation responses to sea surface temperature perturbations: Zonal mean and the African Sahel."  Oral.  UCLA AOS formal seminar series.                                                                               |
@@ -136,18 +141,18 @@ other public outreach events.
 | [2014-10-09]     | "Mechanisms of forced ITCZ shifts and Sahelian drought in GCMs."  Invited oral presentation.  Yale University, New Haven, CT.                                                                                                                      |
 | [2014-06-19]     | "Mechanisms of forced tropical meridional energy flux change."  Poster presentation.  Latsis Symposium, ETH Zurich, Zurich, Switzerland.                                                                                                           |
 | [2014-02-05]     | "Mean and extreme tropical precipitation changes caused by the uniform and spatially varying components of anthropogenic forcing."  Oral presentation.  AMS 2014 Annual Meeting, Atlanta, GA.                                                      |
-| [2013-12-13]     | "Mechanisms of forced tropical meridional energy flux change."  Oral presentation.  AGU 2013 Fall Meeting, San Francisco, CA.                                                                                                                      |
 
 # #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
-| [2013-11-02] | "Mechanisms of forced tropical meridional energy flux change."  Oral presentation.  Graduate Climate Conference, Woods Hole Oceanographic Institution, Woods Hole, MA.                                                                             |
-| [2013-07-09] | "Mechanisms of forced tropical meridional energy flux change."  Poster presentation.  Gordon Research Conference, Colby-Sawyer College, New London, NH.                                                                                            |
-| [2012-02-28] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Oral.  Princeton AOS Program Student/Postdoc Seminar Series.                                                                                             |
-| [2012-01-22] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Poster.  11th Annual Student Conference at the AMS Annual Meeting, New Orleans, LA.                                                                      |
-| [2011-11-11] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Oral.  Princeton University Department of Geosciences Graduate Research Symposium, Princeton, NJ.                                                        |
-| [2010-12-16] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Poster.  Session GC31A: "Can We Counteract Global Warming?" American Geophysical Union Fall Meeting.  San Francisco, CA.                                 |
-| [2010-10-26] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Oral.  Special Symposium on Aerosols in Geoengineering at the American Association for Aerosol Research 29th Annual Conference.  Portland, OR.           |
-| [2010-08-03] | "Investigating climate response to geoengineering using a global climate model."  Oral.  National Oceanic and Atmospheric Administration Office of Education Science Symposium, Silver Spring, MD.                                                 |
+| [2013-12-13] | "Mechanisms of forced tropical meridional energy flux change."  Oral presentation.  AGU 2013 Fall Meeting, San Francisco, CA.                                                                                                            |
+| [2013-11-02] | "Mechanisms of forced tropical meridional energy flux change."  Oral presentation.  Graduate Climate Conference, Woods Hole Oceanographic Institution, Woods Hole, MA.                                                                   |
+| [2013-07-09] | "Mechanisms of forced tropical meridional energy flux change."  Poster presentation.  Gordon Research Conference, Colby-Sawyer College, New London, NH.                                                                                  |
+| [2012-02-28] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Oral.  Princeton AOS Program Student/Postdoc Seminar Series.                                                                                   |
+| [2012-01-22] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Poster.  11th Annual Student Conference at the AMS Annual Meeting, New Orleans, LA.                                                            |
+| [2011-11-11] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Oral.  Princeton University Department of Geosciences Graduate Research Symposium, Princeton, NJ.                                              |
+| [2010-12-16] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Poster.  Session GC31A: "Can We Counteract Global Warming?" American Geophysical Union Fall Meeting.  San Francisco, CA.                       |
+| [2010-10-26] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Oral.  Special Symposium on Aerosols in Geoengineering at the American Association for Aerosol Research 29th Annual Conference.  Portland, OR. |
+| [2010-08-03] | "Investigating climate response to geoengineering using a global climate model."  Oral.  National Oceanic and Atmospheric Administration Office of Education Science Symposium, Silver Spring, MD.                                       |
 * COMMENT Other presentations
 | "Mechanisms of forced tropical meridional energy flux change."  Oral presentation.  Princeton AOS Student/Postdoc Seminar Series.                                                                                                                                              | [2013-12-03] |
 | "Discussion of Xie et al 2013."  Oral.  NOAA GFDL Climate Sensitivity Journal Club.                                                                                                                                                                                            | [2013-11-22] |
