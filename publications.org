@@ -17,10 +17,11 @@
 
 ** In preparation
 1. *Hill, Spencer A.*, Yi Ming, Isaac M. Held, and Ming Zhao.  "Robust responses
-   of the Sahelian hydrological cycle to global warming."
+   of the Sahelian hydrological cycle to global warming."  In GFDL internal
+   review for submission to /J. Climate/.
 ** Submitted/in revision
 1. *Hill, Spencer A.*, Juan M. Lora, Norris Khoo, Sean P. Faulk, and Jonathan M.
-   Aurnou.  "DIYnamics: Scaling up geoscience education through rotating fluid
+   Aurnou.  "/DIYnamics/: Scaling up geoscience education through rotating fluid
    demonstrations."  Submitted to /Bulletin of the American Meteorological
    Society/.
 2. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated responses of the West
@@ -67,7 +68,7 @@ PhD Thesis, Princeton University Program in Atmospheric and Oceanic Sciences.
    review of [[http://press.princeton.edu/titles/9773.html][/Atmosphere, Clouds, and Climate/]] by David Randall). /Science/, *337*,
    1 pp., doi: [[http://dx.doi.org/10.1126/science.1225615][10.1126/science.1225615]].  {{{LINK("papers/hill2012.pdf", PDF.)}}}
 ** Software
-1. (2017) *Hill, Spencer A.* and Spencer Clark.  "aospy: automated climate data
+1. (2017) *Hill, Spencer A.* and Spencer Clark.  "=aospy=: automated climate data
    analysis and management."  [[http://aospy.readthedocs.io/en/latest/]].  doi:
    [[https://doi.org/10.5281/zenodo.996951][10.5281/zenodo.996951]].
 2. (2016) Hoyer, Stephan et al.  "xarray: v0.8.0."  doi: [[doi:10.5281/zenodo.59499][10.5281/zenodo.59499]].
