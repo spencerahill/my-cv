@@ -16,17 +16,18 @@
 #+MACRO: LINK @@html:<a href=$1>$2</a>@@
 
 ** In preparation
-1. *Hill, Spencer A.*, Yi Ming, Isaac M. Held, and Ming Zhao.  "Robust responses
-   of the Sahelian hydrological cycle to global warming."  In GFDL internal
-   review for submission to /J. Climate/.
+1. *Hill, Spencer A.*, Yi Ming, and Ming Zhao.  "Robust responses of the
+   Sahelian hydrological cycle to global warming."  In GFDL internal review for
+   submission to /J. Climate/.
+2. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated responses of the
+   West African monsoon and zonal-mean tropical precipitation to early Holocene
+   orbital forcing."  In preparation for submission to /Geophysical Research
+   Letters/.
 ** Submitted/in revision
 1. *Hill, Spencer A.*, Juan M. Lora, Norris Khoo, Sean P. Faulk, and Jonathan M.
    Aurnou.  "/DIYnamics/: Scaling up geoscience education through rotating fluid
    demonstrations."  Submitted to /Bulletin of the American Meteorological
    Society/.
-2. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated responses of the West
-   African monsoon and zonal-mean tropical precipitation to early Holocene
-   orbital forcing."  Submitted to /Geophysical Research Letters/.
 ** Peer-reviewed
 1. (2017) Brown, Patrick T., Yi Ming, Wenhong Li, and *Spencer A. Hill*.  "Change
    in the magnitude and mechanisms of unforced low-frequency surface temperature
