@@ -19,7 +19,10 @@
 1. *Hill, Spencer A.*, Yi Ming, and Ming Zhao.  "Robust responses of the
    Sahelian hydrological cycle to global warming."  In GFDL internal review for
    submission to /J. Climate/.
-2. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated responses of the
+2. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Hadley cell
+   edge and ITCZ dynamics under solsticial forcing in planetary atmospheres."
+   In preparation for submission to /J. Atmos. Sci/.
+3. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated responses of the
    West African monsoon and zonal-mean tropical precipitation to early Holocene
    orbital forcing."  In preparation for submission to /Geophysical Research
    Letters/.
