@@ -29,7 +29,7 @@
 ** Submitted/in revision
 1. *Hill, Spencer A.*, Juan M. Lora, Norris Khoo, Sean P. Faulk, and Jonathan M.
    Aurnou.  "/DIYnamics/: Scaling up geoscience education through rotating fluid
-   demonstrations."  Submitted to /Bulletin of the American Meteorological
+   demonstrations."  In revision, /Bulletin of the American Meteorological
    Society/.
 ** Peer-reviewed
 1. (2017) Brown, Patrick T., Yi Ming, Wenhong Li, and *Spencer A. Hill*.  "Change
