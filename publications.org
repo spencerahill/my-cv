@@ -26,6 +26,7 @@
 ** Submitted/in revision
 1. *Hill, Spencer A.*, Yi Ming, and Ming Zhao.  "Robust responses of the
    Sahelian hydrological cycle to global warming."  Submitted to /J. Climate/.
+   {{{LINK("papers/hill_ming_zhao_sahel_2018_submit.pdf", PDF.)}}}
 2. *Hill, Spencer A.*, Juan M. Lora, Norris Khoo, Sean P. Faulk, and Jonathan M.
    Aurnou.  "/DIYnamics/: Scaling up geoscience education through rotating fluid
    demonstrations."  In revision, /Bulletin of the American Meteorological
