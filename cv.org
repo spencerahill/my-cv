@@ -105,10 +105,11 @@ Press:
 Used the tables as part of presentations at Los Angeles area middle schools:
 "Building scientific models of Earth's atmosphere, oceans, and more," and at
 other public outreach events.
-| [2017-11-05 Sun] | UCLA "Exploring Your Universe" (booth w/ continuously repeated demonstrations throughout day) |
-| [2017-05-12 Fri] | La Tijera K-8 Charter School, Inglewood, CA (7th grade students; 3 class periods)             |
-| [2017-05-19 Fri] | La Tijera K-8 Charter School, Inglewood, CA (8th grade students; 3 class periods)             |
-| [2017-05-22 Mon] | Ralph J. Bunche Middle School, Compton, CA (8th grade students; 2 class periods)              |
+| [2018-04-27 Fri] | El Marino Language School 23rd Annual Science Fair (booth w/ repeated demonstrations for 3 hrs) |
+| [2017-11-05 Sun] | UCLA "Exploring Your Universe" (booth w/ continuously repeated demonstrations throughout day)   |
+| [2017-05-12 Fri] | La Tijera K-8 Charter School, Inglewood, CA (7th grade students; 3 class periods)               |
+| [2017-05-19 Fri] | La Tijera K-8 Charter School, Inglewood, CA (8th grade students; 3 class periods)               |
+| [2017-05-22 Mon] | Ralph J. Bunche Middle School, Compton, CA (8th grade students; 2 class periods)                |
 ** Prior outreach efforts
 # #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
@@ -125,6 +126,7 @@ other public outreach events.
 * Selected Presentations
 # #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
+| [2018-04-16 Mon] | "What Determines the ITCZ Position During Solsticial Seasons on Earth and Other Planets?"  Oral.  AMS 33rd Conference on Hurricanes and Tropical Meteorology.  Ponte Vedra, FL.                                                                                                                                                            |
 | [2018-02-16 Fri] | "Robust responses of the Sahelian hydrological cycle to global warming."  Oral.  Columbia University/Lamont-Doherty Earth Observatory formal seminar series.  Palisades, NU.                                                                       |
 | [2018-02-14 Wed] | "What limits the ITCZ's poleward extent during summer?"  Oral.  NOAA Geophysical Fluid Dynamics Laboratory informal seminar series.  Princeton, NJ.                                                                                                |
 | [2017-12-14 Thu] | "Dry Rainbelts: Understanding Boundary Layer Controls on the ITCZ Using a Dry Dynamical Core."  Oral.  AGU Fall Meeting.  New Orleans, LA.                                                                                                         |
@@ -133,7 +135,7 @@ other public outreach events.
 | [2017-01-24 Tue] | "Automate your climate and weather data analysis with aospy."  Oral.  AMS Annual Meeting, Seattle, WA.                                                                                                                                             |
 | [2017-01-24 Tue] | "Energetic and precipitation responses in the Sahel to sea surface temperature perturbations."  Oral.  AMS Annual Meeting, Seattle, WA.                                                                                                            |
 | [2016-12-16 Fri] | "Robust drying influence of mean ocean surface warming on The Sahel and implications for constraining future rainfall change."  Oral.  AGU 2016 Fall Meeting, San Francisco, CA.                                                                   |
-| [2016-11-12 Sat] | "=infinite-diff= and =animal-spharm=: =xarray=-based finite differencing and spherical harmonics."  Invited oral presentation.  Columbia University AOS-Python workshop.  New York, NY.                                                                                                                                                            |
+| [2016-11-12 Sat] | "=infinite-diff= and =animal-spharm=: =xarray=-based finite differencing and spherical harmonics."  Invited oral presentation.  Columbia University AOS-Python workshop.  New York, NY.                                                            |
 | [2016-11-09 Wed] | "Energetic and precipitation responses in the Sahel to sea surface temperature perturbations."  Oral.  New York University Center for Atmosphere Ocean Science formal seminar series.  New York, NY.                                               |
 | [2016-11-02 Wed] | "A hierarchy of perturbation complexites: Case study of Sahel rainfall response to global warming."  Poster.  WCRP Model Hierarchies Workshop, Princeton University, Princeton, NJ.                                                                |
 | [2016-10-26]     | "Tropical energetic and precipitation responses to sea surface temperature perturbations: Zonal mean and the African Sahel."  Oral.  Caltech GPS formal seminar series.                                                                            |
