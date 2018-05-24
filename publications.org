@@ -28,9 +28,9 @@
    Sahelian hydrological cycle to global warming."  Submitted to /J. Climate/.
    {{{LINK("papers/hill_ming_zhao_sahel_2018_submit.pdf", PDF.)}}}
 2. *Hill, Spencer A.*, Juan M. Lora, Norris Khoo, Sean P. Faulk, and Jonathan M.
-   Aurnou.  "/DIYnamics/: Scaling up geoscience education through rotating fluid
-   demonstrations."  In revision, /Bulletin of the American Meteorological
-   Society/.
+   Aurnou.  "Affordable rotating fluid demonstrations for geoscience education:
+   The /DIYnamics/ project."  In revision, /Bulletin of the American
+   Meteorological Society/.
 ** Peer-reviewed
 1. (2017) Brown, Patrick T., Yi Ming, Wenhong Li, and *Spencer A. Hill*.  "Change
    in the magnitude and mechanisms of unforced low-frequency surface temperature
