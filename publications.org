@@ -18,14 +18,20 @@
 ** In preparation
 1. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Hadley cell
    edge and ITCZ dynamics under solsticial forcing in planetary atmospheres."
-   In preparation for submission to /J. Atmos. Sci/.
+   In preparation for submission to /Journal of the Atmospheric Sciences/.
 2. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated responses of the
    West African monsoon and zonal-mean tropical precipitation to early Holocene
    orbital forcing."  In preparation for submission to /Geophysical Research
    Letters/.
+3. *Hill, Spencer A.*  "Monsoon changes caused by global warming."  Invited
+   submission to /Current Climate Change Reports/.
+4. *Hill, Spencer A.* and Natalie J. Burls.  "Mechanisms of poleward energy
+   transport changes under CO\(_2\) forcing and in the Pliocene."  In
+   preparation for submission to /Journal of Advances in Modeling Earth
+   Systems/.
 ** Submitted/in revision
 1. *Hill, Spencer A.*, Yi Ming, and Ming Zhao.  "Robust responses of the
-   Sahelian hydrological cycle to global warming."  Submitted to /J. Climate/.
+   Sahelian hydrological cycle to global warming."  In revision, /Journal of Climate/.
    {{{LINK("papers/hill_ming_zhao_sahel_2018_submit.pdf", PDF.)}}}
 2. *Hill, Spencer A.*, Juan M. Lora, Norris Khoo, Sean P. Faulk, and Jonathan M.
    Aurnou.  "Affordable rotating fluid demonstrations for geoscience education:

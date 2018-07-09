@@ -117,12 +117,13 @@ other public outreach events.
 | [2015-04-10] | "Introduction to weather and climate."  45 minute presentation + Q&A to 7th grade class at Forrestdale Middle School, Rumson, NJ.  Co-presented with Sarah Schlunegger.         |   |              |                                                                                                                                                                                 |
 #+HTML: <hr/>
 * Reviewing
-+ Proposal reviewer for National Science Foundation.
++ Proposal reviewer for National Science Foundation and NASA Juno Participating
+  Scientist Program
 + Article reviewer for /Nature Climate Change/, /Journal of Climate/,
   /Geophysical Research Letters/, /Journal of the Atmospheric Sciences/,
-  /Geoscientific Model Development/,
-  /Climate Dynamics/, /Journal of Geophysical Research - Atmospheres/, and GFDL
-  internal manuscript review.
+  /Geoscientific Model Development/, /Climatic Change/, /Climate Dynamics/,
+  /Journal of Geophysical Research - Atmospheres/, and GFDL internal manuscript
+  review.
 #+HTML: <hr/>
 * Selected Presentations
 # #+ATTR_HTML: :rules none :frame none
