@@ -1,5 +1,5 @@
 :PROPERTIES:
-#+TITLE: Postdoctoral Research Fellow | UCLA AOS and Caltech GPS
+#+TITLE: Postdoctoral Research Fellow | Caltech GPS and UCLA EPSS
 #+AUTHOR: Spencer Alan Hill, Ph.D.
 #+DATE:
 #+OPTIONS: toc:nil ':nil num:nil
@@ -12,26 +12,26 @@
 
 #+MACRO: LINK @@html:<a href=$1>$2</a>@@
 * Contact information
+[[mailto:shill@atmos.ucla.edu][shill@caltech.edu]]\\
+[[https://www.its.caltech.edu/~shill]]\\
 
-[[mailto:shill@atmos.ucla.edu][shill@atmos.ucla.edu]]\\
-[[http://people.atmos.ucla.edu/shill]]\\
-+1 (913) 515-8527\\
-
-Department of Atmospheric and Oceanic Sciences\\
-7127 Math Sciences Building\\
-405 Hilgard Avenue\\
-Los Angeles, California 90095-1565\\
+UCLA Dept. of Earth, Planetary, and Space Sciences\\
+595 Charles E. Young Drive East\\
+Los Angeles, CA 90095\\
 
 ORCID ID: [[http://orcid.org/0000-0001-8672-0671][0000-0001-8672-0671]]\\
 Twitter: [[https://twitter.com/spencerahill][@spencerahill]]\\
 Github: https://github.com/spencerahill
 * Current position
-Postdoctoral Research Fellow, UCLA Department of Atmospheric and Oceanic
-Sciences (AOS) and Caltech Division of Geological and Planetary Sciences (GPS).
-Supported through NSF Atmospheric and Geospace Sciences Postdoctoral Research
-Fellowship (2016-2018) and Caltech Foster and Coco Stanback Postdoctoral Fellow
-(2018-2020).  Advisers Prof. Jonathan Mitchell (UCLA AOS) and Prof. Simona
-Bordoni (Caltech GPS).
+Postdoctoral Research Fellow, California Institute of Technology Division of
+Geological and Planetary Sciences (GPS), and Visiting Assistant Project
+Scientist, UCLA Dept. of Earth, Planetary and Space Sciences (EPSS).
+Advisors Prof. Simona Bordoni (Caltech GPS) and Prof. Jonathan Mitchell
+(UCLA EPSS).  September 2018 --- continuing.\\
+
+Previously NSF Atmospheric and Geospace Sciences Postdoctoral Research Fellow
+(NSF award #1624740), UCLA Dept. of Atmospheric and Oceanic Sciences (AOS) and
+Caltech GPS.  September 2016 --- August 2018.
 * Education
 ** Ph.D. | Princeton University | Program in Atmospheric and Oceanic Sciences
 Conferred September 2016 | Adviser Yi Ming | Committee members: Isaac
@@ -46,18 +46,19 @@ Magna Cum Laude | Phi Beta Kappa | UCLA College Honors
 * Research and Professional Experiences
 # #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align rX
-| 2017 June      | Chair, [[https://ams.confex.com/ams/21Fluid19Middle/webprogram/Session43327.html]["Idealized approaches to the atmospheric and oceanic circulation, Part II"]] session, AMS 21st Conference on Atmospheric and Oceanic Fluid Dynamics, Portland, OR         |
-| 2016 Dec       | Co-chair, "Tropical circulations and their sensitivities to changes in climate" session, AGU Fall Meeting 2016, San Francisco, CA                                              |
-| 2016 Nov       | Co-chair, "Tropical convection and radiative convective equilibrium" session, WCRP Model Hierarchies Workshop, Princeton, NJ                                                   |
-| 2015 June-Aug  | Organizer, Princeton AOS convection journal club                                                                                                                               |
-| 2013-2015      | Organizer, GFDL Climate Sensitivity Journal Club                                                                                                                               |
-| 2012–2013      | Organizer, Princeton AOS Student/Postdoc Seminar Series                                                                                                                        |
-| 2012–2013      | Princeton AOS Program Student Representative to the Faculty                                                                                                                    |
-| 2012–2013      | Member, Princeton Energy and Climate Scholars                                                                                                                                  |
-| 2012 July      | Participant, GFDL Summer School on Atmospheric Modeling                                                                                                                        |
-| 2011 June-Aug  | Research Intern, UCLA California Research Training Program in Computational and Applied Mathematics, Slurry Flows Group                                                        |
-| 2011 Jan       | Invited Student Secretary, International Geosphere-Biosphere Program Workshop on Ecosystems Impacts of Geoengineering, Scripps Institution of Oceanography, UCSD, La Jolla, CA |
-| 2010 June-Aug  | Research Intern, NOAA Geophysical Fluid Dynamics Laboratory, Princeton, NJ. Advisor Dr. Yi Ming                                                                                |
+| 2018 August   | Participant, 17th Swiss Climate Summer School, "Earth system variability through time", Grindelwald, Switzerland                                                               |
+| 2017 June     | Chair, [[https://ams.confex.com/ams/21Fluid19Middle/webprogram/Session43327.html]["Idealized approaches to the atmospheric and oceanic circulation, Part II"]] session, AMS 21st Conference on Atmospheric and Oceanic Fluid Dynamics, Portland, OR         |
+| 2016 Dec      | Co-chair, "Tropical circulations and their sensitivities to changes in climate" session, AGU Fall Meeting 2016, San Francisco, CA                                              |
+| 2016 Nov      | Co-chair, "Tropical convection and radiative convective equilibrium" session, WCRP Model Hierarchies Workshop, Princeton, NJ                                                   |
+| 2015 June-Aug | Organizer, Princeton AOS convection journal club                                                                                                                               |
+| 2013-2015     | Organizer, GFDL Climate Sensitivity Journal Club                                                                                                                               |
+| 2012–2013     | Organizer, Princeton AOS Student/Postdoc Seminar Series                                                                                                                        |
+| 2012–2013     | Princeton AOS Program Student Representative to the Faculty                                                                                                                    |
+| 2012–2013     | Member, Princeton Energy and Climate Scholars                                                                                                                                  |
+| 2012 July     | Participant, GFDL Summer School on Atmospheric Modeling                                                                                                                        |
+| 2011 June-Aug | Research Intern, UCLA California Research Training Program in Computational and Applied Mathematics, Slurry Flows Group                                                        |
+| 2011 Jan      | Invited Student Secretary, International Geosphere-Biosphere Program Workshop on Ecosystems Impacts of Geoengineering, Scripps Institution of Oceanography, UCSD, La Jolla, CA |
+| 2010 June-Aug | Research Intern, NOAA Geophysical Fluid Dynamics Laboratory, Princeton, NJ. Advisor Dr. Yi Ming                                                                                |
 #+HTML: <hr/>
 * Major Honors and Awards
 # #+ATTR_HTML: :rules none :frame none
@@ -150,11 +151,11 @@ other public outreach events.
 | [2015-01-06]     | "Convection scheme, cloud, and stability effects on Sahel rainfall response to uniform warming."  Poster.  AMS Annual Meeting, Phoenix, AZ.                                                                                                        |
 | [2014-12-15]     | "Convection scheme, cloud, and stability effects on Sahel rainfall response to uniform warming."  Poster.  AGU Fall Meeting, San Francisco, CA.                                                                                                    |
 | [2014-10-09]     | "Mechanisms of forced ITCZ shifts and Sahelian drought in GCMs."  Invited oral presentation.  Yale University, New Haven, CT.                                                                                                                      |
-| [2014-06-19]     | "Mechanisms of forced tropical meridional energy flux change."  Poster presentation.  Latsis Symposium, ETH Zurich, Zurich, Switzerland.                                                                                                           |
-| [2014-02-05]     | "Mean and extreme tropical precipitation changes caused by the uniform and spatially varying components of anthropogenic forcing."  Oral presentation.  AMS 2014 Annual Meeting, Atlanta, GA.                                                      |
 
 # #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
+| [2014-06-19]     | "Mechanisms of forced tropical meridional energy flux change."  Poster presentation.  Latsis Symposium, ETH Zurich, Zurich, Switzerland.                                                                                                           |
+| [2014-02-05]     | "Mean and extreme tropical precipitation changes caused by the uniform and spatially varying components of anthropogenic forcing."  Oral presentation.  AMS 2014 Annual Meeting, Atlanta, GA.                                                      |
 | [2013-12-13] | "Mechanisms of forced tropical meridional energy flux change."  Oral presentation.  AGU 2013 Fall Meeting, San Francisco, CA.                                                                                                            |
 | [2013-11-02] | "Mechanisms of forced tropical meridional energy flux change."  Oral presentation.  Graduate Climate Conference, Woods Hole Oceanographic Institution, Woods Hole, MA.                                                                   |
 | [2013-07-09] | "Mechanisms of forced tropical meridional energy flux change."  Poster presentation.  Gordon Research Conference, Colby-Sawyer College, New London, NH.                                                                                  |
