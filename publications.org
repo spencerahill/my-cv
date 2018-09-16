@@ -19,20 +19,20 @@
 1. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "On Hadley
    cell emergence and extent in nearly inviscid axisymmetric atmospheres."  In
    preparation for submission to /Journal of the Atmospheric Sciences/.
-2. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated responses of the
-   West African monsoon and zonal-mean tropical precipitation to early Holocene
-   orbital forcing."  In preparation for submission to /Geophysical Research
-   Letters/.
-3. *Hill, Spencer A.*  "Monsoon changes caused by global warming."  Invited
+2. *Hill, Spencer A.*  "Monsoon changes caused by global warming."  Invited
    submission to /Current Climate Change Reports/, in preparation.
-4. *Hill, Spencer A.* and Natalie J. Burls.  "Mechanisms of poleward energy
+3. *Hill, Spencer A.* and Natalie J. Burls.  "Mechanisms of poleward energy
    transport changes under CO\(_2\) forcing and in the Pliocene."  In
    preparation for submission to /Journal of Advances in Modeling Earth
    Systems/.
 ** Submitted/in revision
 1. *Hill, Spencer A.*, Yi Ming, and Ming Zhao.  "Robust responses of the
-   Sahelian hydrological cycle to global warming."  In revision, /Journal of Climate/.
-   {{{LINK("papers/hill_ming_zhao_sahel_2018_submit3.pdf", PDF.)}}}
+   Sahelian hydrological cycle to global warming."  In revision, /Journal of
+   Climate/.  {{{LINK("papers/hill_ming_zhao_sahel_2018_submit3.pdf", PDF.)}}}
+2. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated responses of the
+   West African monsoon and zonal-mean tropical precipitation to early Holocene
+   orbital forcing."  Submitted to /Geophysical Research Letters/.
+   {{{LINK("papers/Holocene_GRL_Sep2018_resubmission.pdf", PDF.)}}}
 ** Peer-reviewed
 1. (2018) *Hill, Spencer A.*, Juan M. Lora, Norris Khoo, Sean P. Faulk, and
    Jonathan M.  Aurnou.  "Affordable rotating fluid demonstrations for
