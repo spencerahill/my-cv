@@ -16,10 +16,9 @@
 #+MACRO: LINK @@html:<a href=$1>$2</a>@@
 
 ** In preparation
-1. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "On Hadley
-   cell emergence and extent in axisymmetric, nearly inviscid planetary
-   atmospheres."  In preparation for submission to /Journal of the Atmospheric
-   Sciences/.
+1. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Hadley cell
+   emergence and extent in axisymmetric, nearly inviscid planetary atmospheres."
+   In preparation for submission to /Journal of the Atmospheric Sciences/.
 2. *Hill, Spencer A.*  "Monsoon changes caused by global warming."  Invited
    submission to /Current Climate Change Reports/, in preparation.
 3. *Hill, Spencer A.* and Natalie J. Burls.  "Mechanisms of poleward energy
