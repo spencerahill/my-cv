@@ -33,7 +33,8 @@
 ** Peer-reviewed
 1. (2018) *Hill, Spencer A.*, Yi Ming, and Ming Zhao.  "Robust responses of the
    Sahelian hydrological cycle to global warming."  Accepted, /Journal of
-   Climate/.  {{{LINK("papers/hill_ming_zhao_sahel_2018_submit3.pdf", PDF.)}}}
+   Climate/.  doi: [[https://doi.org/10.1175/JCLI-D-18-0238.1][10.1175/JCLI-D-18-0238.1]].
+   {{{LINK("papers/hill_ming_zhao_sahel_2018_submit3.pdf", PDF.)}}}
 2. (2018) *Hill, Spencer A.*, Juan M. Lora, Norris Khoo, Sean P. Faulk, and
    Jonathan M.  Aurnou.  "Affordable rotating fluid demonstrations for
    geoscience education: The /DIYnamics/ project."  In press, /Bulletin of the
