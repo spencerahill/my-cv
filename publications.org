@@ -16,17 +16,22 @@
 #+MACRO: LINK @@html:<a href=$1>$2</a>@@
 
 ** In preparation
-1. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Hadley cell
-   emergence and extent in axisymmetric, nearly inviscid planetary atmospheres."
-   In preparation for submission to /Journal of the Atmospheric Sciences/.
-2. *Hill, Spencer A.*  "Monsoon changes caused by global warming."  Invited
-   submission to /Current Climate Change Reports/, in preparation.
-3. *Hill, Spencer A.* and Natalie J. Burls.  "Mechanisms of poleward energy
+1. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Meridional
+   variations in radiative convective equilibrium tropopause height and their
+   influence on axisymmetric Hadley cells."  In preparation for submission to
+   /Journal of the Atmospheric Sciences/.
+2. *Hill, Spencer A.* and Natalie J. Burls.  "Mechanisms of poleward energy
    transport changes under CO\(_2\) forcing and in the Pliocene."  In
    preparation for submission to /Journal of Advances in Modeling Earth
    Systems/.
+3. *Hill, Spencer A.*  "Monsoon changes caused by global warming."  Invited
+   submission to /Current Climate Change Reports/, in preparation.
 ** Submitted/in revision
-1. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated responses of the
+1. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Hadley cell
+   emergence and extent in axisymmetric, nearly inviscid planetary atmospheres."
+   Submitted to /Journal of the Atmospheric Sciences/.
+   {{{LINK("papers/axisym-had-cell_2col.pdf", PDF.)}}}
+2. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated responses of the
    West African monsoon and zonal-mean tropical precipitation to early Holocene
    orbital forcing."  Submitted to /Geophysical Research Letters/.
    {{{LINK("papers/Holocene_GRL_Sep2018_resubmission.pdf", PDF.)}}}
