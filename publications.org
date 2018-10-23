@@ -26,14 +26,14 @@
    Systems/.
 3. *Hill, Spencer A.*  "Monsoon changes caused by global warming."  Invited
    submission to /Current Climate Change Reports/, in preparation.
-** Submitted/in revision
+** Submitted/under review/in revision
 1. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Hadley cell
    emergence and extent in axisymmetric, nearly inviscid planetary atmospheres."
    Submitted to /Journal of the Atmospheric Sciences/.
    {{{LINK("papers/axisym-had-cell_2col.pdf", PDF.)}}}
 2. Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated responses of the
    West African monsoon and zonal-mean tropical precipitation to early Holocene
-   orbital forcing."  Submitted to /Geophysical Research Letters/.
+   orbital forcing."  In revision, /Geophysical Research Letters/.
    {{{LINK("papers/Holocene_GRL_Sep2018_resubmission.pdf", PDF.)}}}
 ** Peer-reviewed
 1. (2018) *Hill, Spencer A.*, Yi Ming, and Ming Zhao.  "Robust responses of the

@@ -90,6 +90,10 @@ Habitable Planet."  Professor George Philander.
   Olsen (Fall 2016)
 + Assistant mentor to summer interns at NOAA GFDL: Jane Smyth (2015), Marjahn
   Finlayson (2014), Colin Raymond (2013)
+** Guest lectures
+#+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
+| (planned) [2018-11-13 Tue] | "The general circulation of the atmosphere."  UCLA AOS 200A: Introduction to Atmospheric and Oceanic Fluid  (graduate level) |
+| (planned) [2018-11-15 Thu] | "Simple theoretical models of the Hadley cells."  UCLA AOS 200A: Introduction to Atmospheric and Oceanic Fluid  (graduate level) |
 * Public Outreach
 ** "DIYnamics" project
 Developing inexpensive, easy-to-assemble rotating tank platforms for use in
@@ -108,17 +112,17 @@ Press:
 Used the tables as part of presentations at Los Angeles area middle schools:
 "Building scientific models of Earth's atmosphere, oceans, and more," and at
 other public outreach events.
-| [2018-11-04 Sun] | (planned) UCLA "Exploring Your Universe" (booth w/ repeated demonstrations throughout day)  |
-| [2018-04-27 Fri] | El Marino Language School 23rd Annual Science Fair (booth w/ repeated demonstrations for 3 hrs)         |
-| [2017-11-05 Sun] | UCLA "Exploring Your Universe" (booth w/ repeated demonstrations throughout day)            |
-| [2017-05-12 Fri] | La Tijera K-8 Charter School, Inglewood, CA (7th grade students; 3 class periods)                       |
-| [2017-05-19 Fri] | La Tijera K-8 Charter School, Inglewood, CA (8th grade students; 3 class periods)                       |
-| [2017-05-22 Mon] | Ralph J. Bunche Middle School, Compton, CA (8th grade students; 2 class periods)                        |
+| [2018-11-04 Sun] | (planned) UCLA "Exploring Your Universe" (booth w/ repeated demonstrations throughout day)      |
+| [2018-04-27 Fri] | El Marino Language School 23rd Annual Science Fair (booth w/ repeated demonstrations for 3 hrs) |
+| [2017-11-05 Sun] | UCLA "Exploring Your Universe" (booth w/ repeated demonstrations throughout day)                |
+| [2017-05-12 Fri] | La Tijera K-8 Charter School, Inglewood, CA (7th grade students; 3 class periods)               |
+| [2017-05-19 Fri] | La Tijera K-8 Charter School, Inglewood, CA (8th grade students; 3 class periods)               |
+| [2017-05-22 Mon] | Ralph J. Bunche Middle School, Compton, CA (8th grade students; 2 class periods)                |
 ** Prior outreach efforts
 # #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
-| [2015-06-19] | "Introduction to climate models."  20 minute presentation to New Jersey Japanese School during their visit to NOAA Geophysical Fluid Dynamics Laboratory, Princeton, NJ.        |   |              |                                                                                                                                                                                 |
-| [2015-04-10] | "Introduction to weather and climate."  45 minute presentation + Q&A to 7th grade class at Forrestdale Middle School, Rumson, NJ.  Co-presented with Sarah Schlunegger.         |   |              |                                                                                                                                                                                 |
+| [2015-06-19] | "Introduction to climate models."  20 minute presentation to New Jersey Japanese School during their visit to NOAA Geophysical Fluid Dynamics Laboratory, Princeton, NJ. |
+| [2015-04-10] | "Introduction to weather and climate."  45 minute presentation + Q&A to 7th grade class at Forrestdale Middle School, Rumson, NJ.  Co-presented with Sarah Schlunegger.  |
 #+HTML: <hr/>
 * Reviewing
 + Proposal reviewer for National Science Foundation and NASA Juno Participating
@@ -143,7 +147,7 @@ other public outreach events.
 | [2017-06-27 Tue] | "Control of convergence zone migrations by planetary parameters."  Poster.  AMS 21st Conference on Atmospheric and Oceanic Fluid Dynamics.  Portland, OR.                                                                                                 |
 | [2017-01-24 Tue] | "Automate your climate and weather data analysis with aospy."  Oral.  AMS Annual Meeting, Seattle, WA.                                                                                                                                                    |
 | [2017-01-24 Tue] | "Energetic and precipitation responses in the Sahel to sea surface temperature perturbations."  Oral.  AMS Annual Meeting, Seattle, WA.                                                                                                                   |
-| [2016-12-16 Fri] | "Robust drying influence of mean ocean surface warming on The Sahel and implications for constraining future rainfall change."  Poster.  AGU 2016 Fall Meeting, San Francisco, CA.                                                                    |
+| [2016-12-16 Fri] | "Robust drying influence of mean ocean surface warming on The Sahel and implications for constraining future rainfall change."  Poster.  AGU 2016 Fall Meeting, San Francisco, CA.                                                                        |
 | [2016-11-12 Sat] | "=infinite-diff= and =animal-spharm=: =xarray=-based finite differencing and spherical harmonics."  Invited oral presentation.  Columbia University AOS-Python workshop.  New York, NY.                                                                   |
 | [2016-11-09 Wed] | "Energetic and precipitation responses in the Sahel to sea surface temperature perturbations."  Oral.  New York University Center for Atmosphere Ocean Science formal seminar series.  New York, NY.                                                      |
 | [2016-11-02 Wed] | "A hierarchy of perturbation complexites: Case study of Sahel rainfall response to global warming."  Poster.  WCRP Model Hierarchies Workshop, Princeton University, Princeton, NJ.                                                                       |
@@ -152,25 +156,25 @@ other public outreach events.
 | [2016-10-05]     | "Tropical energetic and precipitation responses to sea surface temperature perturbations: Zonal mean and the African Sahel."  Oral.  UCLA AOS formal seminar series.                                                                                      |
 | [2015-12-14]     | "Towards constraining future rainfall in the Sahel using the moist static energy budget." Oral.  AGU 2015 Fall Meeting, San Francisco, CA.                                                                                                                |
 | [2015-05-21]     | "Towards constraining Sahel rainfall responses to global mean temperature changes."  Invited oral.  Linde Center for Global Environmental Science "Monsoons: Past, Present and Future" workshop, California Institute of Technology, Pasadena, CA.        |
-| [2015-03-13]     | "Radiative and dynamical controls on the Sahel rainfall response to uniform ocean warming."  Oral.  Princeton AOS dynamics seminar series.                                                                                                                |
-| [2015-03-06]     | "Mechanisms of forced ITCZ shifts and of rainfall responses in the African Sahel to SST warming."  Invited oral.  New York University AOS student seminar series.                                                                                         |
+| [2015-03-13] | "Radiative and dynamical controls on the Sahel rainfall response to uniform ocean warming."  Oral.  Princeton AOS dynamics seminar series.                                                                                                         |
+| [2015-03-06] | "Mechanisms of forced ITCZ shifts and of rainfall responses in the African Sahel to SST warming."  Invited oral.  New York University AOS student seminar series.                                                                                  |
 
 # #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
-| [2015-01-06] | "Convection scheme, cloud, and stability effects on Sahel rainfall response to uniform warming."  Poster.  AMS Annual Meeting, Phoenix, AZ.                                                                                              |
-| [2014-12-15] | "Convection scheme, cloud, and stability effects on Sahel rainfall response to uniform warming."  Poster.  AGU Fall Meeting, San Francisco, CA.                                                                                          |
-| [2014-10-09] | "Mechanisms of forced ITCZ shifts and Sahelian drought in GCMs."  Invited oral presentation.  Yale University, New Haven, CT.                                                                                                            |
-| [2014-06-19] | "Mechanisms of forced tropical meridional energy flux change."  Poster presentation.  Latsis Symposium, ETH Zurich, Zurich, Switzerland.                                                                                                 |
-| [2014-02-05] | "Mean and extreme tropical precipitation changes caused by the uniform and spatially varying components of anthropogenic forcing."  Oral presentation.  AMS 2014 Annual Meeting, Atlanta, GA.                                            |
-| [2013-12-13] | "Mechanisms of forced tropical meridional energy flux change."  Oral presentation.  AGU 2013 Fall Meeting, San Francisco, CA.                                                                                                            |
-| [2013-11-02] | "Mechanisms of forced tropical meridional energy flux change."  Oral presentation.  Graduate Climate Conference, Woods Hole Oceanographic Institution, Woods Hole, MA.                                                                   |
-| [2013-07-09] | "Mechanisms of forced tropical meridional energy flux change."  Poster presentation.  Gordon Research Conference, Colby-Sawyer College, New London, NH.                                                                                  |
-| [2012-02-28] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Oral.  Princeton AOS Program Student/Postdoc Seminar Series.                                                                                   |
-| [2012-01-22] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Poster.  11th Annual Student Conference at the AMS Annual Meeting, New Orleans, LA.                                                            |
-| [2011-11-11] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Oral.  Princeton University Department of Geosciences Graduate Research Symposium, Princeton, NJ.                                              |
-| [2010-12-16] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Poster.  Session GC31A: "Can We Counteract Global Warming?" American Geophysical Union Fall Meeting.  San Francisco, CA.                       |
-| [2010-10-26] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Oral.  Special Symposium on Aerosols in Geoengineering at the American Association for Aerosol Research 29th Annual Conference.  Portland, OR. |
-| [2010-08-03] | "Investigating climate response to geoengineering using a global climate model."  Oral.  National Oceanic and Atmospheric Administration Office of Education Science Symposium, Silver Spring, MD.                                       |
+| [2015-01-06] | "Convection scheme, cloud, and stability effects on Sahel rainfall response to uniform warming."  Poster.  AMS Annual Meeting, Phoenix, AZ.                                                                                                        |
+| [2014-12-15] | "Convection scheme, cloud, and stability effects on Sahel rainfall response to uniform warming."  Poster.  AGU Fall Meeting, San Francisco, CA.                                                                                                    |
+| [2014-10-09] | "Mechanisms of forced ITCZ shifts and Sahelian drought in GCMs."  Invited oral presentation.  Yale University, New Haven, CT.                                                                                                                      |
+| [2014-06-19] | "Mechanisms of forced tropical meridional energy flux change."  Poster presentation.  Latsis Symposium, ETH Zurich, Zurich, Switzerland.                                                                                                           |
+| [2014-02-05] | "Mean and extreme tropical precipitation changes caused by the uniform and spatially varying components of anthropogenic forcing."  Oral presentation.  AMS 2014 Annual Meeting, Atlanta, GA.                                                      |
+| [2013-12-13] | "Mechanisms of forced tropical meridional energy flux change."  Oral presentation.  AGU 2013 Fall Meeting, San Francisco, CA.                                                                                                                      |
+| [2013-11-02] | "Mechanisms of forced tropical meridional energy flux change."  Oral presentation.  Graduate Climate Conference, Woods Hole Oceanographic Institution, Woods Hole, MA.                                                                             |
+| [2013-07-09] | "Mechanisms of forced tropical meridional energy flux change."  Poster presentation.  Gordon Research Conference, Colby-Sawyer College, New London, NH.                                                                                            |
+| [2012-02-28] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Oral.  Princeton AOS Program Student/Postdoc Seminar Series.                                                                                             |
+| [2012-01-22] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Poster.  11th Annual Student Conference at the AMS Annual Meeting, New Orleans, LA.                                                                      |
+| [2011-11-11] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Oral.  Princeton University Department of Geosciences Graduate Research Symposium, Princeton, NJ.                                                        |
+| [2010-12-16] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Poster.  Session GC31A: "Can We Counteract Global Warming?" American Geophysical Union Fall Meeting.  San Francisco, CA.                                 |
+| [2010-10-26] | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Oral.  Special Symposium on Aerosols in Geoengineering at the American Association for Aerosol Research 29th Annual Conference.  Portland, OR.           |
+| [2010-08-03] | "Investigating climate response to geoengineering using a global climate model."  Oral.  National Oceanic and Atmospheric Administration Office of Education Science Symposium, Silver Spring, MD.                                                 |
 * COMMENT Other presentations
 | "Mechanisms of forced tropical meridional energy flux change."  Oral presentation.  Princeton AOS Student/Postdoc Seminar Series.                                                                                                                                              | [2013-12-03] |
 | "Discussion of Xie et al 2013."  Oral.  NOAA GFDL Climate Sensitivity Journal Club.                                                                                                                                                                                            | [2013-11-22] |
