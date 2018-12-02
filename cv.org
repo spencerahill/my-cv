@@ -92,8 +92,11 @@ Habitable Planet."  Professor George Philander.
   Finlayson (2014), Colin Raymond (2013)
 ** Guest lectures
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
-| (planned) [2018-11-13 Tue] | "The general circulation of the atmosphere."  UCLA AOS 200A: Introduction to Atmospheric and Oceanic Fluid  (graduate level) |
-| (planned) [2018-11-15 Thu] | "Simple theoretical models of the Hadley cells."  UCLA AOS 200A: Introduction to Atmospheric and Oceanic Fluid  (graduate level) |
+| [2018-11-29 Thu] | "Thermal wind balance: lab demonstrations"  UCLA AOS 200A (graduate level): Introduction to Atmospheric and Oceanic Fluid                                |
+| [2018-11-13 Tue] | "The general circulation of the atmosphere: energetics"  UCLA AOS 200A (graduate level): Introduction to Atmospheric and Oceanic Fluid                   |
+| [2018-11-15 Thu] | "The general circulation of the atmosphere: momentum"  UCLA AOS 200A (graduate level): Introduction to Atmospheric and Oceanic Fluid                     |
+| [2014-12-11 Thu] | "Climate modeling and climate change projections"  Princeton University GEO 361 (upper-division undergraduate):  Physics of Earth: The Habitable Planet. |
+| [2014-10-14 Tue] | "Weather: From orbital order, atmospheric chaos"  Princeton University GEO 361 (upper-division undergraduate):  Physics of Earth: The Habitable Planet.  |
 * Public Outreach
 ** "DIYnamics" project
 Developing inexpensive, easy-to-assemble rotating tank platforms for use in
@@ -112,7 +115,7 @@ Press:
 Used the tables as part of presentations at Los Angeles area middle schools:
 "Building scientific models of Earth's atmosphere, oceans, and more," and at
 other public outreach events.
-| [2018-11-04 Sun] | (planned) UCLA "Exploring Your Universe" (booth w/ repeated demonstrations throughout day)      |
+| [2018-11-04 Sun] | UCLA "Exploring Your Universe" (booth w/ repeated demonstrations throughout day)        |
 | [2018-04-27 Fri] | El Marino Language School 23rd Annual Science Fair (booth w/ repeated demonstrations for 3 hrs) |
 | [2017-11-05 Sun] | UCLA "Exploring Your Universe" (booth w/ repeated demonstrations throughout day)                |
 | [2017-05-12 Fri] | La Tijera K-8 Charter School, Inglewood, CA (7th grade students; 3 class periods)               |
@@ -137,7 +140,7 @@ other public outreach events.
 # #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
 | [2018-12-13 Thu] | (planned) "Hadley cell emergence and extent in axisymmetric, nearly inviscid planetary atmospheres."  Oral.  AGU Fall Meeting.  Washington, DC.                                                                                                           |
-| [2018-11-07 Wed] | (planned) "Hadley cell emergence and extent in axisymmetric, nearly inviscid planetary atmospheres."  Invited oral.  UCLA AOS formal seminar series.                                                                                                      |
+| [2018-11-07 Wed] | "Back to the basics of monsoons, Hadley cells, and rotating tanks."  Invited oral.  UCLA AOS formal seminar series.                                        |
 | [2018-08-28 Tue] | "Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions."  Poster.  17th Swiss Climate Summer School, "Earth system variability through time", Grindelwald, Switzerland. |
 | [2018-04-16 Mon] | "What Determines the ITCZ Position During Solsticial Seasons on Earth and Other Planets?"  Oral.  AMS 33rd Conference on Hurricanes and Tropical Meteorology.  Ponte Vedra, FL.                                                                           |
 | [2018-02-16 Fri] | "Robust responses of the Sahelian hydrological cycle to global warming."  Oral.  Columbia University/Lamont-Doherty Earth Observatory formal seminar series.  Palisades, NU.                                                                              |
@@ -154,13 +157,13 @@ other public outreach events.
 | [2016-10-26]     | "Tropical energetic and precipitation responses to sea surface temperature perturbations: Zonal mean and the African Sahel."  Oral.  Caltech GPS formal seminar series.                                                                                   |
 | [2016-10-13]     | "The fate of rainfall in the African Sahel under global warming."  Invited oral.  Westmont College, Santa Barbara, CA.                                                                                                                                    |
 | [2016-10-05]     | "Tropical energetic and precipitation responses to sea surface temperature perturbations: Zonal mean and the African Sahel."  Oral.  UCLA AOS formal seminar series.                                                                                      |
-| [2015-12-14]     | "Towards constraining future rainfall in the Sahel using the moist static energy budget." Oral.  AGU 2015 Fall Meeting, San Francisco, CA.                                                                                                                |
-| [2015-05-21]     | "Towards constraining Sahel rainfall responses to global mean temperature changes."  Invited oral.  Linde Center for Global Environmental Science "Monsoons: Past, Present and Future" workshop, California Institute of Technology, Pasadena, CA.        |
-| [2015-03-13] | "Radiative and dynamical controls on the Sahel rainfall response to uniform ocean warming."  Oral.  Princeton AOS dynamics seminar series.                                                                                                         |
-| [2015-03-06] | "Mechanisms of forced ITCZ shifts and of rainfall responses in the African Sahel to SST warming."  Invited oral.  New York University AOS student seminar series.                                                                                  |
 
 # #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
+| [2015-12-14] | "Towards constraining future rainfall in the Sahel using the moist static energy budget." Oral.  AGU 2015 Fall Meeting, San Francisco, CA.                                                                                                         |
+| [2015-05-21] | "Towards constraining Sahel rainfall responses to global mean temperature changes."  Invited oral.  Linde Center for Global Environmental Science "Monsoons: Past, Present and Future" workshop, California Institute of Technology, Pasadena, CA. |
+| [2015-03-13] | "Radiative and dynamical controls on the Sahel rainfall response to uniform ocean warming."  Oral.  Princeton AOS dynamics seminar series.                                                                                                         |
+| [2015-03-06] | "Mechanisms of forced ITCZ shifts and of rainfall responses in the African Sahel to SST warming."  Invited oral.  New York University AOS student seminar series.                                                                                  |
 | [2015-01-06] | "Convection scheme, cloud, and stability effects on Sahel rainfall response to uniform warming."  Poster.  AMS Annual Meeting, Phoenix, AZ.                                                                                                        |
 | [2014-12-15] | "Convection scheme, cloud, and stability effects on Sahel rainfall response to uniform warming."  Poster.  AGU Fall Meeting, San Francisco, CA.                                                                                                    |
 | [2014-10-09] | "Mechanisms of forced ITCZ shifts and Sahelian drought in GCMs."  Invited oral presentation.  Yale University, New Haven, CT.                                                                                                                      |
