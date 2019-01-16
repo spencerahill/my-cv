@@ -24,10 +24,11 @@
    transport changes under CO\(_2\) forcing and in the Pliocene."  In
    preparation for submission to /Journal of Advances in Modeling Earth
    Systems/.
-3. *Hill, Spencer A.*  "Monsoon changes caused by global warming."  Invited
-   submission to /Current Climate Change Reports/, in preparation.
 ** Submitted/under review/in revision
-1. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Hadley cell
+1. *Hill, Spencer A.* "CQE, MSE, ITCZ, or all three? On theories of monsoon
+   rainfall and its response to climate change."  Submitted to /Current Climate
+   Change Reports/.  {{{LINK("papers/hill-2019-monsoons-review.pdf", PDF.)}}}
+2. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Hadley cell
    emergence and extent in axisymmetric, nearly inviscid planetary atmospheres."
    In revision, /Journal of the Atmospheric Sciences/.
    {{{LINK("papers/axisym-had-cell_2col.pdf", PDF.)}}}
@@ -40,8 +41,9 @@
 2. (2018) *Hill, Spencer A.*, Juan M. Lora, Norris Khoo, Sean P. Faulk, and
    Jonathan M.  Aurnou.  "Affordable rotating fluid demonstrations for
    geoscience education: The /DIYnamics/ project."  In press, /Bulletin of the
-   American Meteorological Society/.  doi: [[https://doi.org/10.1175/BAMS-D-17-0215.1][10.1175/BAMS-D-17-0215.1]].
-   {{{LINK("papers/hill+2018_diynamics_bams_eor.pdf", PDF.)}}}
+   American Meteorological Society/, *99*, 2529-2538.  doi:
+   [[https://doi.org/10.1175/BAMS-D-17-0215.1][10.1175/BAMS-D-17-0215.1]].  {{{LINK("papers/hill+2018_diynamics_bams.pdf", PDF.)}}}
+   {{{LINK("http://newsroom.ucla.edu/releases/a-50-do-it-yourself-device-designed-at-ucla-makes-science-fun-for-students-of-all-ages", UCLA press release.)}}}
 3. (2018) Smyth, Jane, *Spencer A. Hill*, and Yi Ming.  "Simulated responses of
    the West African monsoon and zonal-mean tropical precipitation to early
    Holocene orbital forcing."  /Geophysical Research Letters/, *45*,
