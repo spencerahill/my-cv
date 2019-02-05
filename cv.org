@@ -12,14 +12,14 @@
 
 #+MACRO: LINK @@html:<a href=$1>$2</a>@@
 * Contact information
-[[mailto:shill@atmos.ucla.edu][shill@caltech.edu]]\\
+[[mailto:shill@atmos.ucla.edu][shill@gps.caltech.edu]]\\
 [[https://www.its.caltech.edu/~shill]]\\
 
 UCLA Dept. of Earth, Planetary, and Space Sciences\\
 595 Charles E. Young Drive East\\
 Los Angeles, CA 90095\\
 
-ORCID ID: [[http://orcid.org/0000-0001-8672-0671][0000-0001-8672-0671]]\\
+ORCID: [[http://orcid.org/0000-0001-8672-0671][0000-0001-8672-0671]]\\
 Twitter: [[https://twitter.com/spencerahill][@spencerahill]]\\
 Github: https://github.com/spencerahill
 * Current position
