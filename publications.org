@@ -26,7 +26,7 @@
    Systems/.
 ** Submitted/under review/in revision
 1. *Hill, Spencer A.* "CQE, MSE, ITCZ, or all three? On theories of monsoon
-   rainfall and its response to climate change."  Under review, /Current Climate
+   rainfall and its response to climate change."  In revision, /Current Climate
    Change Reports/.  {{{LINK("papers/hill-2019-monsoons-review.pdf", PDF.)}}}
 2. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Axisymmetric
    constraints on cross-equatorial Hadley cell extent."  Revised for /Journal of
