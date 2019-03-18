@@ -30,8 +30,8 @@
    Change Reports/.  {{{LINK("papers/hill-2019-monsoons-review-v2.pdf", PDF.)}}}
 ** Peer-reviewed
 1. (2019) *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.
-   "Axisymmetric constraints on cross-equatorial Hadley cell extent."  Accepted,
-   /Journal of the Atmospheric Sciences/.
+   "Axisymmetric constraints on cross-equatorial Hadley cell extent."  In press,
+   /Journal of the Atmospheric Sciences/.  doi: [[https://doi.org/10.1175/JAS-D-18-0306.1][10.1175/JAS-D-18-0306.1]].
    {{{LINK("papers/axisym-had-cell-v2_2col.pdf", PDF.)}}}
 2. (2018) *Hill, Spencer A.*, Juan M. Lora, Norris Khoo, Sean P. Faulk, and
    Jonathan M.  Aurnou.  "Affordable rotating fluid demonstrations for
