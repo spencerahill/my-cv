@@ -27,11 +27,16 @@ Foster and Coco Stanback Postdoctoral Research Fellow, California Institute of
 Technology Division of Geological and Planetary Sciences (GPS), and Visiting
 Assistant Project Scientist, UCLA Dept. of Earth, Planetary and Space Sciences
 (EPSS).  Advisors Prof. Simona Bordoni (Caltech GPS) and Prof. Jonathan Mitchell
-(UCLA EPSS).  September 2018 --- continuing.\\
+(UCLA EPSS).  September 2018 --- August 2019.\\
 
 Previously NSF Atmospheric and Geospace Sciences Postdoctoral Research Fellow
 (NSF award #1624740), UCLA Dept. of Atmospheric and Oceanic Sciences (AOS) and
-Caltech GPS.  September 2016 --- August 2018.
+Caltech GPS.  September 2016 --- August 2018.\\
+
+Commencing August 2019: Earth Institute Research Fellow, Columbia University
+Lamont-Doherty Earth Observatory.  Advisors Dr. Michela Biasutti and Dr. Adam
+Sobel.
+
 * Education
 ** Ph.D. | Princeton University | Program in Atmospheric and Oceanic Sciences
 Conferred September 2016 | Adviser Yi Ming | Committee members: Isaac
@@ -64,6 +69,7 @@ Magna Cum Laude | Phi Beta Kappa | UCLA College Honors
 * Major Honors and Awards
 # #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
+| 2019 | Columbia University Earth Institute Postdoctoral Research Fellowship                                                                                        |
 | 2016 | NSF Atmospheric and Geospace Sciences Postdoctoral Research Fellowship.  NSF Award #1624740                                                                 |
 | 2016 | California Institute of Technology Foster and Coco Stanback Postdoctoral Fellowship, deferred to 2018                                                       |
 | 2013 | U.S. Dept. of Defense National Defense Science and Engineering Graduate Fellowship (3 years)                                                                |
