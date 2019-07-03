@@ -156,7 +156,7 @@ other public outreach events.
 
 ** Non-invited
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
-| [2019-06-25 Tue] | (planned) "Modernizing Axisymmetric Hadley Cell and Monsoon Theory"  Oral.  AMS 22nd Conference on Atmospheric and Oceanic Fluid Dynamics.  Portland, ME.                                                                                                                     |
+| [2019-06-25 Tue] | "Modernizing Axisymmetric Hadley Cell and Monsoon Theory"  Oral.  AMS 22nd Conference on Atmospheric and Oceanic Fluid Dynamics.  Portland, ME.                                                                                                                      |
 | [2018-12-13 Thu] | "What sets the locations of the solsticial cross-equatorial Hadley cell edges?"  Oral.  AGU Fall Meeting.  Washington, DC.                                                                                                                                |
 | [2018-08-28 Tue] | "Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions."  Poster.  17th Swiss Climate Summer School, "Earth system variability through time", Grindelwald, Switzerland. |
 | [2018-04-16 Mon] | "What Determines the ITCZ Position During Solsticial Seasons on Earth and Other Planets?"  Oral.  AMS 33rd Conference on Hurricanes and Tropical Meteorology.  Ponte Vedra, FL.                                                                           |

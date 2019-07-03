@@ -22,13 +22,14 @@
    Systems/.
 ** Submitted/under review/in revision
 1. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Influence of
-   a fixed tropopause temperature rather than height\\on axisymmetric Hadley
-   cell theory."  Submitted to /Journal of the Atmospheric Sciences/.
+   a fixed tropopause temperature rather than height on axisymmetric Hadley
+   cell theory."  Under review for /Journal of the Atmospheric Sciences/.
    {{{LINK("papers/had-cell-trop-depth_2col.pdf", PDF.)}}}
 ** Peer-reviewed
 1. (2019) *Hill, Spencer A.* "Theories for past and future monsoon rainfall
-   changes."  Accepted, /Current Climate Change Reports/.
-   {{{LINK("papers/hill-2019-monsoons-review-accepted.pdf", PDF.)}}}
+   changes."  In press, /Current Climate Change Reports/.  doi:
+   [[https://doi.org/10.1007%2Fs40641-019-00137-8][10.1007%2Fs40641-019-00137-8]].  Online access: https://rdcu.be/bHFCZ.
+   {{{LINK("papers/hill-2019-monsoons-review.pdf", PDF.)}}}
 2. (2019) *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.
    "Axisymmetric constraints on cross-equatorial Hadley cell extent."
    /Journal of the Atmospheric Sciences/, *76*, 1547-1564.  doi: [[https://doi.org/10.1175/JAS-D-18-0306.1][10.1175/JAS-D-18-0306.1]].
