@@ -145,14 +145,17 @@ other public outreach events.
 #+HTML: <hr/>
 * Presentations
 ** Invited
+# | 2019-12          | AGU                                                                                                                                                                                                                                                           |
+# | [2019-11-13 Wed] | MIT
+# seminar                                                                                                                                                                                                                                                   |
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
-| [2019-01-07 Mon] | "Robust responses of the Sahelian hydrological cycle to global warming."  Invited seminar.  UCSB Earth Research Institute Monthly Climate Meeting.  Santa Barbara, CA.              |
-| [2018-11-07 Wed] | "Back to the basics of monsoons, Hadley cells, and rotating tanks."  Invited seminar.  UCLA AOS formal seminar series.                                                              |
-| [2016-11-12 Sat] | "=infinite-diff= and =animal-spharm=: =xarray=-based finite differencing and spherical harmonics."  Invited conference talk.  Columbia University AOS-Python workshop.  New York, NY. |
-| [2016-10-13 Thu] | "The fate of rainfall in the African Sahel under global warming."  Invited seminar.  Westmont College, Santa Barbara, CA.                                                           |
+| [2019-01-07 Mon] | "Robust responses of the Sahelian hydrological cycle to global warming."  Invited seminar.  UCSB Earth Research Institute Monthly Climate Meeting.  Santa Barbara, CA.                                                                                        |
+| [2018-11-07 Wed] | "Back to the basics of monsoons, Hadley cells, and rotating tanks."  Invited seminar.  UCLA AOS formal seminar series.                                                                                                                                        |
+| [2016-11-12 Sat] | "=infinite-diff= and =animal-spharm=: =xarray=-based finite differencing and spherical harmonics."  Invited conference talk.  Columbia University AOS-Python workshop.  New York, NY.                                                                         |
+| [2016-10-13 Thu] | "The fate of rainfall in the African Sahel under global warming."  Invited seminar.  Westmont College, Santa Barbara, CA.                                                                                                                                     |
 | [2015-05-21 Thu] | "Towards constraining Sahel rainfall responses to global mean temperature changes."  Invited conference talk.  Linde Center for Global Environmental Science "Monsoons: Past, Present and Future" workshop, California Institute of Technology, Pasadena, CA. |
-| [2015-03-06 Fri] | "Mechanisms of forced ITCZ shifts and of rainfall responses in the African Sahel to SST warming."  Invited seminar.  New York University AOS student seminar series.                                                                           |
-| [2014-10-09 Thu] | "Mechanisms of forced ITCZ shifts and Sahelian drought in GCMs."  Invited seminar.  Yale University, New Haven, CT.                                                                                                               |
+| [2015-03-06 Fri] | "Mechanisms of forced ITCZ shifts and of rainfall responses in the African Sahel to SST warming."  Invited seminar.  New York University AOS student seminar series.                                                                                          |
+| [2014-10-09 Thu] | "Mechanisms of forced ITCZ shifts and Sahelian drought in GCMs."  Invited seminar.  Yale University, New Haven, CT.                                                                                                                                           |
 
 ** Non-invited
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
