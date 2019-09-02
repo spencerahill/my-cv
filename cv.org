@@ -1,5 +1,5 @@
 :PROPERTIES:
-#+TITLE: Postdoctoral Research Fellow | Caltech GPS and UCLA EPSS
+#+TITLE: Postdoctoral Research Fellow | Columbia University
 #+AUTHOR: Spencer Alan Hill, Ph.D.
 #+DATE:
 #+OPTIONS: toc:nil ':nil num:nil
@@ -12,31 +12,32 @@
 
 #+MACRO: LINK @@html:<a href=$1>$2</a>@@
 * Contact information
-[[mailto:shill@atmos.ucla.edu][shill@gps.caltech.edu]]\\
+[[mailto:shill@ldeo.columbia.edu][shill@ldeo.columbia.edu]]\\
 [[https://www.its.caltech.edu/~shill]]\\
 
-UCLA Dept. of Earth, Planetary, and Space Sciences\\
-595 Charles E. Young Drive East\\
-Los Angeles, CA 90095\\
+207B Oceanography\\
+Lamont-Doherty Earth Observatory\\
+61 Route 9W\\
+Palisades, NY 10964\\
 
 ORCID: [[http://orcid.org/0000-0001-8672-0671][0000-0001-8672-0671]]\\
 Twitter: [[https://twitter.com/spencerahill][@spencerahill]]\\
 Github: https://github.com/spencerahill
-* Current position
-Foster and Coco Stanback Postdoctoral Research Fellow, California Institute of
-Technology Division of Geological and Planetary Sciences (GPS), and Visiting
-Assistant Project Scientist, UCLA Dept. of Earth, Planetary and Space Sciences
-(EPSS).  Advisors Prof. Simona Bordoni (Caltech GPS) and Prof. Jonathan Mitchell
-(UCLA EPSS).  September 2018 --- August 2019.\\
-
-Previously NSF Atmospheric and Geospace Sciences Postdoctoral Research Fellow
-(NSF award #1624740), UCLA Dept. of Atmospheric and Oceanic Sciences (AOS) and
-Caltech GPS.  September 2016 --- August 2018.\\
-
-Commencing August 2019: Earth Institute Research Fellow, Columbia University
+* Employment history
+** Current position
+Earth Institute Research Fellow, Columbia University
 Lamont-Doherty Earth Observatory.  Advisors Dr. Michela Biasutti and Dr. Adam
-Sobel.
+Sobel.  August 2019-August 2021.
 
+** Past positions
++ Foster and Coco Stanback Postdoctoral Research Fellow, California Institute of
+  Technology Division of Geological and Planetary Sciences (GPS), and Visiting
+  Assistant Project Scientist, UCLA Dept. of Earth, Planetary and Space Sciences
+  (EPSS).  Advisors Prof. Simona Bordoni (Caltech GPS) and Prof. Jonathan
+  Mitchell (UCLA EPSS).  September 2018 --- August 2019.\\
++ NSF Atmospheric and Geospace Sciences Postdoctoral Research Fellow (NSF award
+  #1624740), UCLA Dept. of Atmospheric and Oceanic Sciences (AOS) and Caltech
+  GPS.  September 2016 --- August 2018.\\
 * Education
 ** Ph.D. | Princeton University | Program in Atmospheric and Oceanic Sciences
 Conferred September 2016 | Adviser Yi Ming | Committee members: Isaac
@@ -137,11 +138,11 @@ other public outreach events.
 * Reviewing
 + Proposal reviewer for National Science Foundation and NASA Juno Participating
   Scientist Program
-+ Article reviewer for /Nature Climate Change/, /Journal of Climate/,
-  /Geophysical Research Letters/, /Journal of the Atmospheric Sciences/,
-  /Geoscientific Model Development/, /Climatic Change/, /Climate Dynamics/,
-  /Journal of Geophysical Research - Atmospheres/, and GFDL internal manuscript
-  review.
++ Article reviewer for /Nature Climate Change/, /Journal of Climate/, /Quarterly
+  Journal of the Royal Meteorological Society/, /Geophysical Research Letters/,
+  /Journal of the Atmospheric Sciences/, /Geoscientific Model Development/,
+  /Climatic Change/, /Climate Dynamics/, /Journal of Geophysical Research -
+  Atmospheres/, and GFDL internal manuscript review.
 #+HTML: <hr/>
 * Presentations
 ** Invited
@@ -159,15 +160,16 @@ other public outreach events.
 
 ** Non-invited
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
-| [2019-06-25 Tue] | "Modernizing Axisymmetric Hadley Cell and Monsoon Theory"  Oral.  AMS 22nd Conference on Atmospheric and Oceanic Fluid Dynamics.  Portland, ME.                                                                                                                      |
+| [2019-09-11 Wed] | "Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions."  Poster.  Lamont-Doherty Earth Observatory Postdoc Symposium.  Palisades, NY.
+| [2019-06-25 Tue] | "Modernizing Axisymmetric Hadley Cell and Monsoon Theory"  Oral.  AMS 22nd Conference on Atmospheric and Oceanic Fluid Dynamics.  Portland, ME.                                                                                                           |
 | [2018-12-13 Thu] | "What sets the locations of the solsticial cross-equatorial Hadley cell edges?"  Oral.  AGU Fall Meeting.  Washington, DC.                                                                                                                                |
 | [2018-08-28 Tue] | "Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions."  Poster.  17th Swiss Climate Summer School, "Earth system variability through time", Grindelwald, Switzerland. |
 | [2018-04-16 Mon] | "What Determines the ITCZ Position During Solsticial Seasons on Earth and Other Planets?"  Oral.  AMS 33rd Conference on Hurricanes and Tropical Meteorology.  Ponte Vedra, FL.                                                                           |
-| [2018-02-16 Fri] | "Robust responses of the Sahelian hydrological cycle to global warming."  Oral.  Columbia University/Lamont-Doherty Earth Observatory formal seminar series.  Palisades, NU.                                                                              |
-| [2018-02-14 Wed] | "What limits the ITCZ's poleward extent during summer?"  Oral.  NOAA Geophysical Fluid Dynamics Laboratory informal seminar series.  Princeton, NJ.                                                                                                       |
-| [2017-12-14 Thu] | "Dry Rainbelts: Understanding Boundary Layer Controls on the ITCZ Using a Dry Dynamical Core."  Oral.  AGU Fall Meeting.  New Orleans, LA.                                                                                                                |
 
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
+| [2018-02-16 Fri] | "Robust responses of the Sahelian hydrological cycle to global warming."  Oral.  Columbia University/Lamont-Doherty Earth Observatory formal seminar series.  Palisades, NY.                                                             |
+| [2018-02-14 Wed] | "What limits the ITCZ's poleward extent during summer?"  Oral.  NOAA Geophysical Fluid Dynamics Laboratory informal seminar series.  Princeton, NJ.                                                                                      |
+| [2017-12-14 Thu] | "Dry Rainbelts: Understanding Boundary Layer Controls on the ITCZ Using a Dry Dynamical Core."  Oral.  AGU Fall Meeting.  New Orleans, LA.                                                                                               |
 | [2017-07-19 Wed] | "Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions."  Poster.  Gordon Research Conference on Radiation and Climate.  Bates College, Lewiston, ME.  |
 | [2017-06-27 Tue] | "Control of convergence zone migrations by planetary parameters."  Poster.  AMS 21st Conference on Atmospheric and Oceanic Fluid Dynamics.  Portland, OR.                                                                                |
 | [2017-01-24 Tue] | "Automate your climate and weather data analysis with aospy."  Oral.  AMS Annual Meeting, Seattle, WA.                                                                                                                                   |
@@ -187,6 +189,8 @@ other public outreach events.
 | [2013-11-02]     | "Mechanisms of forced tropical meridional energy flux change."  Oral presentation.  Graduate Climate Conference, Woods Hole Oceanographic Institution, Woods Hole, MA.                                                                   |
 | [2013-07-09]     | "Mechanisms of forced tropical meridional energy flux change."  Poster presentation.  Gordon Research Conference, Colby-Sawyer College, New London, NH.                                                                                  |
 | [2012-02-28]     | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Oral.  Princeton AOS Program Student/Postdoc Seminar Series.                                                                                   |
+
+#+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
 | [2012-01-22]     | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Poster.  11th Annual Student Conference at the AMS Annual Meeting, New Orleans, LA.                                                            |
 | [2011-11-11]     | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Oral.  Princeton University Department of Geosciences Graduate Research Symposium, Princeton, NJ.                                              |
 | [2010-12-16]     | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Poster.  Session GC31A: "Can We Counteract Global Warming?" American Geophysical Union Fall Meeting.  San Francisco, CA.                       |
