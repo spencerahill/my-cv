@@ -16,10 +16,14 @@
 #+MACRO: LINK @@html:<a href=$1>$2</a>@@
 
 ** In preparation
-1. *Hill, Spencer A.* and Natalie J. Burls.  "Mechanisms of poleward energy
-   transport changes under CO\(_2\) forcing and in the Pliocene."  In
-   preparation for submission to /Journal of Advances in Modeling Earth
-   Systems/.
+1. *Hill, Spencer A.*, Natalie J. Burls, and Alexey Fedorov.  "Polar
+   amplification's dependence on forcing and anomalous energy transports from
+   decadal to millennial timescales."  In preparation for submission to /Journal
+   of Advances in Modeling Earth Systems/.
+2. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Modified
+   equal-area and other axisymmetric models of the Hadley cell, and their
+   relevance to Earth's seasonal cycle."  In preparation for submission to
+   /Journal of the Atmospheric Sciences/.
 ** Submitted/under review/in revision
 1. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Influence of
    a fixed tropopause temperature rather than height on axisymmetric Hadley
@@ -27,7 +31,7 @@
    {{{LINK("papers/had-cell-trop-depth_2col.pdf", PDF.)}}}
 ** Peer-reviewed
 1. (2019) *Hill, Spencer A.* "Theories for past and future monsoon rainfall
-   changes."  In press, /Current Climate Change Reports/.  doi:
+   changes."  /Current Climate Change Reports/, *5*, 160-171.  doi:
    [[https://doi.org/10.1007%2Fs40641-019-00137-8][10.1007%2Fs40641-019-00137-8]].  Online access: https://rdcu.be/bHFCZ.
    {{{LINK("papers/hill-2019-monsoons-review.pdf", PDF.)}}}
 2. (2019) *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.
