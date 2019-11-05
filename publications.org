@@ -22,13 +22,19 @@
    of Advances in Modeling Earth Systems/.
 2. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Modified
    equal-area and other axisymmetric models of the Hadley cell, and their
-   relevance to Earth's seasonal cycle."  In preparation for submission to
-   /Journal of the Atmospheric Sciences/.
+   relevance to Earth's seasonal cycle."  In preparation.
+3. *Hill, Spencer A.*, Alex Gonzalez, and Juan M. Lora.  "Two axisymmetric
+   perspectives on Titan's ITCZ: free troposphere and boundary layer."  In
+   preparation.
+4. Mitchell, Jonathan L. and *Spencer A. Hill*.  "Combining Thermodynamic and
+   Dynamic Perspectives of Tropical Circulation to Constrain the Downdraft Width
+   of the Hadley Cell."  In preparation for submission to /Geophysical Research
+   Letters/.
 ** Submitted/under review/in revision
-1. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Influence of
-   a fixed tropopause temperature rather than height on axisymmetric Hadley
-   cell theory."  In revision for /Journal of the Atmospheric Sciences/.
-   {{{LINK("papers/had-cell-trop-depth_2col.pdf", PDF.)}}}
+1. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Axisymmetric
+   Hadley Cell theory with a fixed tropopause temperature rather than height."
+   Revised for /Journal of the Atmospheric Sciences/.
+   {{{LINK("papers/had-cell-trop-depth_v2_2col.pdf", PDF.)}}}
 ** Peer-reviewed
 1. (2019) *Hill, Spencer A.* "Theories for past and future monsoon rainfall
    changes."  /Current Climate Change Reports/, *5*, 160-171.  doi:
@@ -87,11 +93,13 @@ circulations and the African Sahel to sea surface temperature perturbations."
 PhD Thesis, Princeton University Program in Atmospheric and Oceanic Sciences.
 {{{LINK("papers/spencer_hill_phd_thesis.pdf", PDF.)}}}
 ** Non peer-reviewed
-1. (2017) *Hill, Spencer A.* and Spencer K. Clark.  "What’s needed for the Future
+1. Numerous blog posts for the DIYnamics blog.  Available at
+   https://diynamics.github.io/blog/author/spencer-hill.html.
+2. (2017) *Hill, Spencer A.* and Spencer K. Clark.  "What’s needed for the Future
    of AOS Python?  Tools for Automating AOS Data Analysis and Management."
    Invited guest blog post on "PyAOS" blog.  URL:
    http://pyaos.johnny-lin.com/?p=1546.
-2. (2012) *Hill, Spencer A.*  "A head in the clouds elucidates climate" (book
+3. (2012) *Hill, Spencer A.*  "A head in the clouds elucidates climate" (book
    review of [[http://press.princeton.edu/titles/9773.html][/Atmosphere, Clouds, and Climate/]] by David Randall). /Science/, *337*,
    1 pp., doi: [[http://dx.doi.org/10.1126/science.1225615][10.1126/science.1225615]].  {{{LINK("papers/hill2012.pdf", PDF.)}}}
 ** Software

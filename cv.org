@@ -1,5 +1,6 @@
 :PROPERTIES:
-#+TITLE: Postdoctoral Research Fellow | Columbia University
+#+TITLE: Postdoctoral Research Scientist
+#+SUBTITLE: Columbia University | Lamont-Doherty Earth Observatory
 #+AUTHOR: Spencer Alan Hill, Ph.D.
 #+DATE:
 #+OPTIONS: toc:nil ':nil num:nil
@@ -9,11 +10,10 @@
 #+LATEX_HEADER:
 #+LATEX_HEADER_EXTRA:
 :END:
-
 #+MACRO: LINK @@html:<a href=$1>$2</a>@@
 * Contact information
 [[mailto:shill@ldeo.columbia.edu][shill@ldeo.columbia.edu]]\\
-[[https://www.its.caltech.edu/~shill]]\\
+[[https://www.ldeo.columbia.edu/~shill]]\\
 
 207B Oceanography\\
 Lamont-Doherty Earth Observatory\\
@@ -37,10 +37,11 @@ Sobel.  August 2019-August 2021.
   Mitchell (UCLA EPSS).  September 2018 --- August 2019.\\
 + NSF Atmospheric and Geospace Sciences Postdoctoral Research Fellow (NSF award
   #1624740), UCLA Dept. of Atmospheric and Oceanic Sciences (AOS) and Caltech
-  GPS.  September 2016 --- August 2018.\\
+  GPS.  Advisors Prof. Simona Bordoni and Prof. Jonathan Mitchell September 2016
+  --- August 2018.\\
 * Education
 ** Ph.D. | Princeton University | Program in Atmospheric and Oceanic Sciences
-Conferred September 2016 | Adviser Yi Ming | Committee members: Isaac
+Conferred September 2016 | Advisor Yi Ming | Committee members: Isaac
 Held, Leo Donner, Ming Zhao
 ** B.S. | UCLA | Dept. of AOS and Dept. of Applied Mathematics
 AOS/Applied Mathematics double major | Conferred June 2011 |
@@ -73,7 +74,7 @@ Magna Cum Laude | Phi Beta Kappa | UCLA College Honors
 | 2019 | Columbia University Earth Institute Postdoctoral Research Fellowship                                                                                        |
 | 2016 | NSF Atmospheric and Geospace Sciences Postdoctoral Research Fellowship.  NSF Award #1624740                                                                 |
 | 2016 | California Institute of Technology Foster and Coco Stanback Postdoctoral Fellowship, deferred to 2018                                                       |
-| 2013 | U.S. Dept. of Defense National Defense Science and Engineering Graduate Fellowship (3 years)                                                                |
+| 2013 | U.S. Dept. of Defense National Defense Science and Engineering Graduate Fellowship                                                                 |
 | 2012 | Princeton University Elliotte Robinson Little '25 Fellowship                                                                                                |
 | 2012 | American Meteorological Society Climate Change Travel Scholarship, 92nd AMS Annual Meeting                                                                  |
 | 2012 | NSF Graduate Research Fellowship Honorable Mention                                                                                                          |
@@ -106,30 +107,22 @@ Habitable Planet."  Professor George Philander.
 | [2014-10-14 Tue] | "Weather: From orbital order, atmospheric chaos"  Princeton University GEO 361 (upper-division undergraduate):  Physics of Earth: The Habitable Planet.  |
 * Public Outreach
 ** "DIYnamics" project
+*** Overview
 Developing inexpensive, easy-to-assemble rotating tank platforms for use in
 teaching fundamental principles of Earth science at levels from K-12 science
 classes to AOS graduate courses.  Materials include the kits themselves, PDF
 assembly instruction, instructional videos, and a website:
 https://diynamics.github.io/
 
-Press:
+*** Press
+- UCLA press release ([[http://newsroom.ucla.edu/releases/a-50-do-it-yourself-device-designed-at-ucla-makes-science-fun-for-students-of-all-ages][=link=]])
+- Story on UCLA Physical Sciences Division website ([[https://www.physicalsciences.ucla.edu/spinlab/][=link=]])
+- Listed on official UCLA Physical Sciences Division Outreach page ([[https://www.physicalsciences.ucla.edu/outreach/][=link=]])
 
-- UCLA press release: http://newsroom.ucla.edu/releases/a-50-do-it-yourself-device-designed-at-ucla-makes-science-fun-for-students-of-all-ages
-- Story on UCLA Physical Sciences Division website, linked to from their main
-  page (as of March 2018): https://www.physicalsciences.ucla.edu/spinlab/
-- Listed on official UCLA Physical Sciences Division Outreach page:
-  https://www.physicalsciences.ucla.edu/outreach/
-
-Used the tables as part of presentations at Los Angeles area middle schools:
-"Building scientific models of Earth's atmosphere, oceans, and more," and at
-other public outreach events.
-| [2018-11-04 Sun] | UCLA "Exploring Your Universe" (booth w/ repeated demonstrations throughout day)        |
-| [2018-04-27 Fri] | El Marino Language School 23rd Annual Science Fair (booth w/ repeated demonstrations for 3 hrs) |
-| [2017-11-05 Sun] | UCLA "Exploring Your Universe" (booth w/ repeated demonstrations throughout day)                |
-| [2017-05-12 Fri] | La Tijera K-8 Charter School, Inglewood, CA (7th grade students; 3 class periods)               |
-| [2017-05-19 Fri] | La Tijera K-8 Charter School, Inglewood, CA (8th grade students; 3 class periods)               |
-| [2017-05-22 Mon] | Ralph J. Bunche Middle School, Compton, CA (8th grade students; 2 class periods)                |
-** Prior outreach efforts
+*** Outreach events
+Organized and/or participated in numerous DIYnamics public outreach events from
+2017 onward, all documented on the DIYnamics blog: https://diynamics.github.io/pages/blog.html
+** Outreach activities prior to DIYnamics
 # #+ATTR_HTML: :rules none :frame none
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
 | [2015-06-19] | "Introduction to climate models."  20 minute presentation to New Jersey Japanese School during their visit to NOAA Geophysical Fluid Dynamics Laboratory, Princeton, NJ. |
@@ -146,37 +139,39 @@ other public outreach events.
 #+HTML: <hr/>
 * Presentations
 ** Invited
-# | 2019-12          | AGU                                                                                                                                                                                                                                                           |
-# | [2019-11-13 Wed] | MIT
-# seminar                                                                                                                                                                                                                                                   |
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
-| [2019-01-07 Mon] | "Robust responses of the Sahelian hydrological cycle to global warming."  Invited seminar.  UCSB Earth Research Institute Monthly Climate Meeting.  Santa Barbara, CA.                                                                                        |
-| [2018-11-07 Wed] | "Back to the basics of monsoons, Hadley cells, and rotating tanks."  Invited seminar.  UCLA AOS formal seminar series.                                                                                                                                        |
-| [2016-11-12 Sat] | "=infinite-diff= and =animal-spharm=: =xarray=-based finite differencing and spherical harmonics."  Invited conference talk.  Columbia University AOS-Python workshop.  New York, NY.                                                                         |
-| [2016-10-13 Thu] | "The fate of rainfall in the African Sahel under global warming."  Invited seminar.  Westmont College, Santa Barbara, CA.                                                                                                                                     |
+| 2020 May         | (planned; title TBD) Invited talk in "The global monsoons in current, future and palaeoclimates  and their role in extreme weather and climate events" session.  European Geophysical Union General Assembly.  Vienna, Austria. |
+| [2019-12-10 Tue] | (planned) "Toward an analytical, predictive theory for the location of Hadley and monsoonal cell ascending branches."  Invited conference talk.  American Geophysical Union Fall Meeting.  San Francisco, CA.                   |
+| [2019-01-07 Mon] | "Robust responses of the Sahelian hydrological cycle to global warming."  Invited seminar.  UCSB Earth Research Institute Monthly Climate Meeting.  Santa Barbara, CA.                                                          |
+| [2018-11-07 Wed] | "Back to the basics of monsoons, Hadley cells, and rotating tanks."  Invited seminar.  UCLA AOS formal seminar series.                                                                                                          |
+| [2016-11-12 Sat] | "=infinite-diff= and =animal-spharm=: =xarray=-based finite differencing and spherical harmonics."  Invited conference talk.  Columbia University AOS-Python workshop.  New York, NY.                                           |
+| [2016-10-13 Thu] | "The fate of rainfall in the African Sahel under global warming."  Invited seminar.  Westmont College, Santa Barbara, CA.                                                                                                       |
+
+#+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
 | [2015-05-21 Thu] | "Towards constraining Sahel rainfall responses to global mean temperature changes."  Invited conference talk.  Linde Center for Global Environmental Science "Monsoons: Past, Present and Future" workshop, California Institute of Technology, Pasadena, CA. |
 | [2015-03-06 Fri] | "Mechanisms of forced ITCZ shifts and of rainfall responses in the African Sahel to SST warming."  Invited seminar.  New York University AOS student seminar series.                                                                                          |
 | [2014-10-09 Thu] | "Mechanisms of forced ITCZ shifts and Sahelian drought in GCMs."  Invited seminar.  Yale University, New Haven, CT.                                                                                                                                           |
 
 ** Non-invited
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
-| [2019-09-11 Wed] | "Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions."  Poster.  Lamont-Doherty Earth Observatory Postdoc Symposium.  Palisades, NY.
+| [2019-12-10 Tue] | (planned) "Simulated polar amplification and its causes on decadal to millennial timescales."  Poster.  AGU Fall Meeting.  San Francisco, CA.
+| [2019-09-11 Wed] | "Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions."  Poster.  Lamont-Doherty Earth Observatory Postdoc Symposium.  Palisades, NY.                                  |
 | [2019-06-25 Tue] | "Modernizing Axisymmetric Hadley Cell and Monsoon Theory"  Oral.  AMS 22nd Conference on Atmospheric and Oceanic Fluid Dynamics.  Portland, ME.                                                                                                           |
 | [2018-12-13 Thu] | "What sets the locations of the solsticial cross-equatorial Hadley cell edges?"  Oral.  AGU Fall Meeting.  Washington, DC.                                                                                                                                |
 | [2018-08-28 Tue] | "Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions."  Poster.  17th Swiss Climate Summer School, "Earth system variability through time", Grindelwald, Switzerland. |
 | [2018-04-16 Mon] | "What Determines the ITCZ Position During Solsticial Seasons on Earth and Other Planets?"  Oral.  AMS 33rd Conference on Hurricanes and Tropical Meteorology.  Ponte Vedra, FL.                                                                           |
+| [2018-02-16 Fri] | "Robust responses of the Sahelian hydrological cycle to global warming."  Oral.  Columbia University/Lamont-Doherty Earth Observatory formal seminar series.  Palisades, NY.                                                                              |
+| [2018-02-14 Wed] | "What limits the ITCZ's poleward extent during summer?"  Oral.  NOAA Geophysical Fluid Dynamics Laboratory informal seminar series.  Princeton, NJ.                                                                                                       |
+| [2017-12-14 Thu] | "Dry Rainbelts: Understanding Boundary Layer Controls on the ITCZ Using a Dry Dynamical Core."  Oral.  AGU Fall Meeting.  New Orleans, LA.                                                                                                                |
+| [2017-07-19 Wed] | "Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions."  Poster.  Gordon Research Conference on Radiation and Climate.  Bates College, Lewiston, ME.                   |
+| [2017-06-27 Tue] | "Control of convergence zone migrations by planetary parameters."  Poster.  AMS 21st Conference on Atmospheric and Oceanic Fluid Dynamics.  Portland, OR.                                                                                                 |
+| [2017-01-24 Tue] | "Automate your climate and weather data analysis with aospy."  Oral.  AMS Annual Meeting, Seattle, WA.                                                                                                                                                    |
+| [2017-01-24 Tue] | "Energetic and precipitation responses in the Sahel to sea surface temperature perturbations."  Oral.  AMS Annual Meeting, Seattle, WA.                                                                                                                   |
+| [2016-12-16 Fri] | "Robust drying influence of mean ocean surface warming on The Sahel and implications for constraining future rainfall change."  Poster.  AGU 2016 Fall Meeting, San Francisco, CA.                                                                        |
+| [2016-11-09 Wed] | "Energetic and precipitation responses in the Sahel to sea surface temperature perturbations."  Oral.  New York University Center for Atmosphere Ocean Science formal seminar series.  New York, NY.                                                      |
+| [2016-11-02 Wed] | "A hierarchy of perturbation complexites: Case study of Sahel rainfall response to global warming."  Poster.  WCRP Model Hierarchies Workshop, Princeton University, Princeton, NJ.                                                                       |
 
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
-| [2018-02-16 Fri] | "Robust responses of the Sahelian hydrological cycle to global warming."  Oral.  Columbia University/Lamont-Doherty Earth Observatory formal seminar series.  Palisades, NY.                                                             |
-| [2018-02-14 Wed] | "What limits the ITCZ's poleward extent during summer?"  Oral.  NOAA Geophysical Fluid Dynamics Laboratory informal seminar series.  Princeton, NJ.                                                                                      |
-| [2017-12-14 Thu] | "Dry Rainbelts: Understanding Boundary Layer Controls on the ITCZ Using a Dry Dynamical Core."  Oral.  AGU Fall Meeting.  New Orleans, LA.                                                                                               |
-| [2017-07-19 Wed] | "Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions."  Poster.  Gordon Research Conference on Radiation and Climate.  Bates College, Lewiston, ME.  |
-| [2017-06-27 Tue] | "Control of convergence zone migrations by planetary parameters."  Poster.  AMS 21st Conference on Atmospheric and Oceanic Fluid Dynamics.  Portland, OR.                                                                                |
-| [2017-01-24 Tue] | "Automate your climate and weather data analysis with aospy."  Oral.  AMS Annual Meeting, Seattle, WA.                                                                                                                                   |
-| [2017-01-24 Tue] | "Energetic and precipitation responses in the Sahel to sea surface temperature perturbations."  Oral.  AMS Annual Meeting, Seattle, WA.                                                                                                  |
-| [2016-12-16 Fri] | "Robust drying influence of mean ocean surface warming on The Sahel and implications for constraining future rainfall change."  Poster.  AGU 2016 Fall Meeting, San Francisco, CA.                                                       |
-| [2016-11-09 Wed] | "Energetic and precipitation responses in the Sahel to sea surface temperature perturbations."  Oral.  New York University Center for Atmosphere Ocean Science formal seminar series.  New York, NY.                                     |
-| [2016-11-02 Wed] | "A hierarchy of perturbation complexites: Case study of Sahel rainfall response to global warming."  Poster.  WCRP Model Hierarchies Workshop, Princeton University, Princeton, NJ.                                                      |
 | [2016-10-26]     | "Tropical energetic and precipitation responses to sea surface temperature perturbations: Zonal mean and the African Sahel."  Oral.  Caltech GPS formal seminar series.                                                                  |
 | [2016-10-05]     | "Tropical energetic and precipitation responses to sea surface temperature perturbations: Zonal mean and the African Sahel."  Oral.  UCLA AOS formal seminar series.                                                                     |
 | [2015-12-14]     | "Towards constraining future rainfall in the Sahel using the moist static energy budget." Oral.  AGU 2015 Fall Meeting, San Francisco, CA.                                                                                               |
@@ -189,8 +184,6 @@ other public outreach events.
 | [2013-11-02]     | "Mechanisms of forced tropical meridional energy flux change."  Oral presentation.  Graduate Climate Conference, Woods Hole Oceanographic Institution, Woods Hole, MA.                                                                   |
 | [2013-07-09]     | "Mechanisms of forced tropical meridional energy flux change."  Poster presentation.  Gordon Research Conference, Colby-Sawyer College, New London, NH.                                                                                  |
 | [2012-02-28]     | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Oral.  Princeton AOS Program Student/Postdoc Seminar Series.                                                                                   |
-
-#+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
 | [2012-01-22]     | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Poster.  11th Annual Student Conference at the AMS Annual Meeting, New Orleans, LA.                                                            |
 | [2011-11-11]     | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Oral.  Princeton University Department of Geosciences Graduate Research Symposium, Princeton, NJ.                                              |
 | [2010-12-16]     | "Climate response to a geoengineered brightening of subtropical marine boundary clouds."  Poster.  Session GC31A: "Can We Counteract Global Warming?" American Geophysical Union Fall Meeting.  San Francisco, CA.                       |
