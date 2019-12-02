@@ -128,6 +128,18 @@ Organized and/or participated in numerous DIYnamics public outreach events from
 | [2015-06-19] | "Introduction to climate models."  20 minute presentation to New Jersey Japanese School during their visit to NOAA Geophysical Fluid Dynamics Laboratory, Princeton, NJ. |
 | [2015-04-10] | "Introduction to weather and climate."  45 minute presentation + Q&A to 7th grade class at Forrestdale Middle School, Rumson, NJ.  Co-presented with Sarah Schlunegger.  |
 #+HTML: <hr/>
+* Software: =aospy=
+** Overview
+Created and actively develop "aospy," an open source Python package for
+automating computations that use gridded climate or weather data.  Enables
+executing multiple calculations in parallel using the permutation of an
+arbitrary number of simulations, variables to be computed, date ranges, and many
+other parameters.  Results get saved in a highly organized directory tree as
+netCDF file.  Actively used by researchers at multiple institutions.
+
+** Resources
++ Documentation: https://aospy.readthedocs.io
++ Source code: https://github.com/spencerahill/aospy
 * Reviewing
 + Proposal reviewer for National Science Foundation and NASA Juno Participating
   Scientist Program
@@ -137,6 +149,7 @@ Organized and/or participated in numerous DIYnamics public outreach events from
   /Climatic Change/, /Climate Dynamics/, /Journal of Geophysical Research -
   Atmospheres/, and GFDL internal manuscript review.
 #+HTML: <hr/>
+
 * Presentations
 ** Invited
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
@@ -145,8 +158,6 @@ Organized and/or participated in numerous DIYnamics public outreach events from
 | [2019-12-10 Tue] | (planned) "Toward an analytical, predictive theory for the location of Hadley and monsoonal cell ascending branches."  Invited conference talk.  American Geophysical Union Fall Meeting.  San Francisco, CA.                                                           |
 | [2019-01-07 Mon] | "Robust responses of the Sahelian hydrological cycle to global warming."  Invited seminar.  UCSB Earth Research Institute Monthly Climate Meeting.  Santa Barbara, CA.                                                                                                  |
 | [2018-11-07 Wed] | "Back to the basics of monsoons, Hadley cells, and rotating tanks."  Invited seminar.  UCLA AOS formal seminar series.                                                                                                                                                  |
-
-#+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
 | [2016-11-12 Sat] | "=infinite-diff= and =animal-spharm=: =xarray=-based finite differencing and spherical harmonics."  Invited conference talk.  Columbia University AOS-Python workshop.  New York, NY.                                                                                   |
 | [2016-10-13 Thu] | "The fate of rainfall in the African Sahel under global warming."  Invited seminar.  Westmont College, Santa Barbara, CA.                                                                                                                                               |
 | [2015-05-21 Thu] | "Towards constraining Sahel rainfall responses to global mean temperature changes."  Invited conference talk.  Linde Center for Global Environmental Science "Monsoons: Past, Present and Future" workshop, California Institute of Technology, Pasadena, CA. |
@@ -164,6 +175,8 @@ Organized and/or participated in numerous DIYnamics public outreach events from
 | [2018-02-16 Fri] | "Robust responses of the Sahelian hydrological cycle to global warming."  Oral.  Columbia University/Lamont-Doherty Earth Observatory formal seminar series.  Palisades, NY.                                                                              |
 | [2018-02-14 Wed] | "What limits the ITCZ's poleward extent during summer?"  Oral.  NOAA Geophysical Fluid Dynamics Laboratory informal seminar series.  Princeton, NJ.                                                                                                       |
 | [2017-12-14 Thu] | "Dry Rainbelts: Understanding Boundary Layer Controls on the ITCZ Using a Dry Dynamical Core."  Oral.  AGU Fall Meeting.  New Orleans, LA.                                                                                                                |
+
+#+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
 | [2017-07-19 Wed] | "Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions."  Poster.  Gordon Research Conference on Radiation and Climate.  Bates College, Lewiston, ME.                   |
 | [2017-06-27 Tue] | "Control of convergence zone migrations by planetary parameters."  Poster.  AMS 21st Conference on Atmospheric and Oceanic Fluid Dynamics.  Portland, OR.                                                                                                 |
 | [2017-01-24 Tue] | "Automate your climate and weather data analysis with aospy."  Oral.  AMS Annual Meeting, Seattle, WA.                                                                                                                                                    |
@@ -171,8 +184,6 @@ Organized and/or participated in numerous DIYnamics public outreach events from
 | [2016-12-16 Fri] | "Robust drying influence of mean ocean surface warming on The Sahel and implications for constraining future rainfall change."  Poster.  AGU 2016 Fall Meeting, San Francisco, CA.                                                                        |
 | [2016-11-09 Wed] | "Energetic and precipitation responses in the Sahel to sea surface temperature perturbations."  Oral.  New York University Center for Atmosphere Ocean Science formal seminar series.  New York, NY.                                                      |
 | [2016-11-02 Wed] | "A hierarchy of perturbation complexites: Case study of Sahel rainfall response to global warming."  Poster.  WCRP Model Hierarchies Workshop, Princeton University, Princeton, NJ.                                                                       |
-
-#+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
 | [2016-10-26]     | "Tropical energetic and precipitation responses to sea surface temperature perturbations: Zonal mean and the African Sahel."  Oral.  Caltech GPS formal seminar series.                                                                  |
 | [2016-10-05]     | "Tropical energetic and precipitation responses to sea surface temperature perturbations: Zonal mean and the African Sahel."  Oral.  UCLA AOS formal seminar series.                                                                     |
 | [2015-12-14]     | "Towards constraining future rainfall in the Sahel using the moist static energy budget." Oral.  AGU 2015 Fall Meeting, San Francisco, CA.                                                                                               |

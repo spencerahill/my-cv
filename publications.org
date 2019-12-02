@@ -33,7 +33,8 @@
    {{{LINK("papers/had-cell-trop-depth_v2_2col.pdf", PDF.)}}}
 2. Mitchell, Jonathan L. and *Spencer A. Hill*.  "Combining Thermodynamic and
    Dynamic Perspectives of Tropical Circulation to Constrain the Downdraft Width
-   of the Hadley Cell."  Submitted to /Geophysical Research Letters/.
+   of the Hadley Cell."  Under review, /Geophysical Research Letters/.  arXiv:
+   [[http://arxiv.org/abs/1911.05860][http://arxiv.org/abs/1911.05860]].
 ** Peer-reviewed
 1. (2019) *Hill, Spencer A.* "Theories for past and future monsoon rainfall
    changes."  /Current Climate Change Reports/, *5*, 160-171.  doi:
