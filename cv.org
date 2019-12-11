@@ -155,7 +155,7 @@ netCDF file.  Actively used by researchers at multiple institutions.
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
 | 2020 May         | (planned; title TBD) Invited talk in "Atmospheric circulation in the tropical belt: variability, dynamics, evolution from the past to the future and impacts on the environment and societies" session.  European Geophysical Union General Assembly.  Vienna, Austria. |
 | 2020 May         | (planned; title TBD) Invited talk in "The global monsoons in current, future and palaeoclimates  and their role in extreme weather and climate events" session.  European Geophysical Union General Assembly.  Vienna, Austria.                                         |
-| [2019-12-10 Tue] | (planned) "Toward an analytical, predictive theory for the location of Hadley and monsoonal cell ascending branches."  Invited conference talk.  American Geophysical Union Fall Meeting.  San Francisco, CA.                                                           |
+| [2019-12-10 Tue] | "Toward an analytical, predictive theory for the location of Hadley and monsoonal cell ascending branches."  Invited conference talk.  American Geophysical Union Fall Meeting.  San Francisco, CA.                                                             |
 | [2019-01-07 Mon] | "Robust responses of the Sahelian hydrological cycle to global warming."  Invited seminar.  UCSB Earth Research Institute Monthly Climate Meeting.  Santa Barbara, CA.                                                                                                  |
 | [2018-11-07 Wed] | "Back to the basics of monsoons, Hadley cells, and rotating tanks."  Invited seminar.  UCLA AOS formal seminar series.                                                                                                                                                  |
 | [2016-11-12 Sat] | "=infinite-diff= and =animal-spharm=: =xarray=-based finite differencing and spherical harmonics."  Invited conference talk.  Columbia University AOS-Python workshop.  New York, NY.                                                                                   |
@@ -166,7 +166,7 @@ netCDF file.  Actively used by researchers at multiple institutions.
 
 ** Non-invited
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
-| [2019-12-10 Tue] | (planned) "Simulated polar amplification and its causes on decadal to millennial timescales."  Poster.  AGU Fall Meeting.  San Francisco, CA.
+| [2019-12-10 Tue] | "Simulated polar amplification and its causes on decadal to millennial timescales."  Poster.  AGU Fall Meeting.  San Francisco, CA.
 | [2019-09-11 Wed] | "Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions."  Poster.  Lamont-Doherty Earth Observatory Postdoc Symposium.  Palisades, NY.                                  |
 | [2019-06-25 Tue] | "Modernizing Axisymmetric Hadley Cell and Monsoon Theory"  Oral.  AMS 22nd Conference on Atmospheric and Oceanic Fluid Dynamics.  Portland, ME.                                                                                                           |
 | [2018-12-13 Thu] | "What sets the locations of the solsticial cross-equatorial Hadley cell edges?"  Oral.  AGU Fall Meeting.  Washington, DC.                                                                                                                                |
