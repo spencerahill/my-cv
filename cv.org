@@ -143,11 +143,12 @@ netCDF file.  Actively used by researchers at multiple institutions.
 * Reviewing
 + Proposal reviewer for National Science Foundation and NASA Juno Participating
   Scientist Program
-+ Article reviewer for /Nature Climate Change/, /Journal of Climate/, /Quarterly
-  Journal of the Royal Meteorological Society/, /Geophysical Research Letters/,
-  /Journal of the Atmospheric Sciences/, /Geoscientific Model Development/,
-  /Climatic Change/, /Climate Dynamics/, /Journal of Geophysical Research -
-  Atmospheres/, and GFDL internal manuscript review.
++ Article reviewer for /Nature Climate Change/, /npj Climate and Atmospheric
+  Science/, /Journal of Climate/, /Quarterly Journal of the Royal Meteorological
+  Society/, /Geophysical Research Letters/, /Journal of the Atmospheric
+  Sciences/, /Geoscientific Model Development/, /Climatic Change/, /Climate
+  Dynamics/, /Journal of Geophysical Research - Atmospheres/, and GFDL internal
+  manuscript review.
 #+HTML: <hr/>
 
 * Presentations
