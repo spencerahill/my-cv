@@ -12,9 +12,7 @@
 #+LATEX_HEADER: \usepackage{doi}
 #+LATEX_HEADER_EXTRA:
 :END:
-
 #+MACRO: LINK @@html:<a href=$1>$2</a>@@
-
 ** In preparation
 1. *Hill, Spencer A.*, Natalie J. Burls, and Alexey Fedorov.  "Polar
    amplification's dependence on forcing and anomalous energy transports from
