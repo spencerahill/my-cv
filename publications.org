@@ -13,22 +13,11 @@
 #+LATEX_HEADER_EXTRA:
 :END:
 #+MACRO: LINK @@html:<a href=$1>$2</a>@@
-** In preparation
-1. *Hill, Spencer A.*, Natalie J. Burls, and Alexey Fedorov.  "Polar
-   amplification's dependence on forcing and anomalous energy transports from
-   decadal to millennial timescales."  In preparation for submission to /Journal
-   of Advances in Modeling Earth Systems/.
-2. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Modified
-   equal-area and other axisymmetric models of the Hadley cell, and their
-   relevance to Earth's seasonal cycle."  In preparation.
-3. *Hill, Spencer A.*, Alex Gonzalez, and Juan M. Lora.  "Two axisymmetric
-   perspectives on Titan's ITCZ: free troposphere and boundary layer."  In
-   preparation.
 ** Submitted/under review/in revision
-# 2. Mitchell, Jonathan L. and *Spencer A. Hill*.  "Combining Thermodynamic and
-#    Dynamic Perspectives of Tropical Circulation to Constrain the Downdraft Width
-#    of the Hadley Cell."  Under review, /Geophysical Research Letters/.  arXiv:
-#    [[http://arxiv.org/abs/1911.05860][http://arxiv.org/abs/1911.05860]].
+1. Mitchell, Jonathan L. and *Spencer A. Hill*.  "Constraints from invariant
+   subtropical vertical velocities on the scalings of Hadley cell strength and
+   downdraft width with rotation rate."  Submitted to /Journal of the Atmospheric
+   Sciences/.
 ** Peer-reviewed
 1. (2020) *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.
    "Axisymmetric Hadley Cell theory with a fixed tropopause temperature rather
