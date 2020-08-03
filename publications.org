@@ -16,7 +16,7 @@
 ** Submitted/under review/in revision
 1. Mitchell, Jonathan L. and *Spencer A. Hill*.  "Constraints from invariant
    subtropical vertical velocities on the scalings of Hadley cell strength and
-   downdraft width with rotation rate."  Submitted to /Journal of the Atmospheric
+   downdraft width with rotation rate."  In review, /Journal of the Atmospheric
    Sciences/.  [[https://arxiv.org/abs/1911.05860]].
 ** Peer-reviewed
 1. (2020) *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.
