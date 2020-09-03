@@ -163,9 +163,10 @@ netCDF file.  Actively used by researchers at multiple institutions.
 | [2015-03-06 Fri] | "Mechanisms of forced ITCZ shifts and of rainfall responses in the African Sahel to SST warming."  Invited seminar.  New York University AOS student seminar series.                                                                                          |
 | [2014-10-09 Thu] | "Mechanisms of forced ITCZ shifts and Sahelian drought in GCMs."  Invited seminar.  Yale University, New Haven, CT.                                                                                                                                           |
 
-** Non-invited
+** Others
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
-| (planned) 2020-12 | "Sub-India summer monsoon rainfall variability and its implications for all-India summer monsoon rainfall prediction."  AGU Fall Meeting.                                                                                                                 |
+| (planned) 2021-01 | "Connecting sub-India, sub-seasonal monsoon rainfall variability with all-India, all-summer monsoon rainfall." AMS Annual Meeting.  (virtual)
+| (planned) 2020-12 | "Sub-India summer monsoon rainfall variability and its implications for all-India summer monsoon rainfall prediction."  AGU Fall Meeting.  (virtual)                                                                                                      |
 | [2019-12-10 Tue]  | "Simulated polar amplification and its causes on decadal to millennial timescales."  Poster.  AGU Fall Meeting.  San Francisco, CA.                                                                                                                       |
 | [2019-09-11 Wed]  | "Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions."  Poster.  Lamont-Doherty Earth Observatory Postdoc Symposium.  Palisades, NY.                                  |
 | [2019-06-25 Tue]  | "Modernizing Axisymmetric Hadley Cell and Monsoon Theory"  Oral.  AMS 22nd Conference on Atmospheric and Oceanic Fluid Dynamics.  Portland, ME.                                                                                                           |
