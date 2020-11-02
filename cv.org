@@ -91,6 +91,9 @@ Completed August 2016.
 Princeton University, Fall 2014, Geosciences 361, "Physics of Earth: The
 Habitable Planet."  Professor George Philander.
 ** Mentorship
++ Advisor to Barnard University undergraduate student Valentina Rojas-Posada on
+  project linking Indian summer rainfall variability with societal outcomes
+  (Fall 2020)
 + Advisor to UCLA undergraduate student Micah Kim for independent research
   course work on the "aospy" software package (Fall 2017)
 + Assistant mentor to UCLA undergraduate students for work on the DIYnamics
