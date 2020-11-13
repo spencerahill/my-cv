@@ -111,8 +111,9 @@ Habitable Planet."  Professor George Philander.
 * Public Outreach
 ** "DIYnamics" project
 *** Overview
-Developing inexpensive, easy-to-assemble rotating tank platforms for use in
-teaching fundamental principles of Earth science at levels from K-12 science
+I am Co-Director of the Do-It-Yourself Dynamics (DIYnamics) project.  The
+project develops inexpensive, easy-to-assemble rotating tank platforms for use
+in teaching fundamental principles of Earth science at levels from K-12 science
 classes to AOS graduate courses.  Materials include the kits themselves, PDF
 assembly instruction, instructional videos, and a website:
 https://diynamics.github.io/
