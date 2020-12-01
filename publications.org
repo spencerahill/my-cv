@@ -16,7 +16,7 @@
 ** Submitted/under review/in revision
 1. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Dynamical
    constraints on the solsticial Hadley Cell ascending edge in Earth's
-   macroturbulent atmosphere."  Submitted to /Journal of the Atmospheric
+   macroturbulent atmosphere."  Under review, /Journal of the Atmospheric
    Sciences/.  [[https://arxiv.org/abs/2011.05966]].
    {{{LINK("papers/had-cell-eta0_2col.pdf", PDF.)}}}
 2. Mitchell, Jonathan L. and *Spencer A. Hill*.  "Constraints from invariant
