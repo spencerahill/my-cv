@@ -169,7 +169,6 @@ netCDF file.  Actively used by researchers at multiple institutions.
 | [2015-05-21 Thu] | "Towards constraining Sahel rainfall responses to global mean temperature changes."  Invited conference talk.  Linde Center for Global Environmental Science "Monsoons: Past, Present and Future" workshop, California Institute of Technology, Pasadena, CA. |
 | [2015-03-06 Fri] | "Mechanisms of forced ITCZ shifts and of rainfall responses in the African Sahel to SST warming."  Invited seminar.  New York University AOS student seminar series.                                                                                          |
 | [2014-10-09 Thu] | "Mechanisms of forced ITCZ shifts and Sahelian drought in GCMs."  Invited seminar.  Yale University, New Haven, CT.                                                                                                                                           |
-
 ** Others
 #+ATTR_LATEX: :mode table :environment tabularx :width \textwidth :align lX
 | (planned) 2021-01 | "Connecting sub-India, sub-seasonal monsoon rainfall variability with all-India, all-summer monsoon rainfall." AMS Annual Meeting.  (virtual)

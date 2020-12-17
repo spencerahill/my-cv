@@ -14,12 +14,16 @@
 :END:
 #+MACRO: LINK @@html:<a href=$1>$2</a>@@
 ** Submitted/under review/in revision
-1. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Dynamical
+1. *Hill, Spencer A.*, Natalie J. Burls, Alexey Fedorov, and Timothy M. Merlis.
+   "Symmetric and antisymmetric components of polar-amplified warming."
+   Submitted to /Journal of Climate/.
+   {{{LINK("papers/symm-asymm-warming_jcli-submitted_2col.pdf", PDF.)}}}
+2. *Hill, Spencer A.*, Simona Bordoni, and Jonathan L. Mitchell.  "Dynamical
    constraints on the solsticial Hadley Cell ascending edge in Earth's
    macroturbulent atmosphere."  Under review, /Journal of the Atmospheric
    Sciences/.  [[https://arxiv.org/abs/2011.05966]].
    {{{LINK("papers/had-cell-eta0_2col.pdf", PDF.)}}}
-2. Mitchell, Jonathan L. and *Spencer A. Hill*.  "Constraints from invariant
+3. Mitchell, Jonathan L. and *Spencer A. Hill*.  "Constraints from invariant
    subtropical vertical velocities on the scalings of Hadley cell strength and
    downdraft width with rotation rate."  In revision, /Journal of the Atmospheric
    Sciences/.  [[https://arxiv.org/abs/1911.05860]].
