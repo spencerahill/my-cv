@@ -1,5 +1,12 @@
 % Intended LaTeX compiler: xelatex
+% Use my "shillcv.cls" file.
 \documentclass[letterpaper,11pt]{shillcv}
+
+\usepackage{array}
+
+% Use my custom shortcuts.
+\usepackage{math_shortcuts,phys_shortcuts,text_shortcuts}
+
 
 % 1. General formatting rules
 % \begin{itemize}
@@ -39,7 +46,7 @@
 %   \item[Conference Activity/Participation] Use subheadings as appropriate: Conferences/Symposia Organized, Panels Organized, Papers Presented, Discussant.  Entries will include name of paper, name of conference, and date (year only) on left.  Month and date range of conference goes in the entry itself.  Future conferences should be listed here, once you have had a paper officially accepted but not before.  No need to use ``forthcoming'' for future conferences; the dates will be in the future and thus will be the first dates listed.
 %   \item[Campus or Departmental Talks] Talks that you were asked to give in your own department or on your own campus.  List as you would invited talks.
 %   \item[Teaching Experience] Subdivide either by institutional location, area/field, graduate/undergraduate, or some combination of these as appropriate to your particular case.  TA experience goes here.  No narrative verbiage under any course title.
-%   \item[Service to Profession] Include journal manuscript review work, with journal titles (manuscript review can be given its own separate heading if you do a lot of this work).  It is not typtical to highlight the timing of service work, so the convention is that the entry itself is often left justified, with the year in the entry, deviating from the year-to-the-left rule.
+%   \item[Service to Profession] Include journal manuscript review work, with journal titles (manuscript review can be given its own separate heading if you do a lot of this work).  It is not typical to highlight the timing of service work, so the convention is that the entry itself is often left justified, with the year in the entry, deviating from the year-to-the-left rule.
 %   \item[Departmental/University Service] Include search committees and other committee work, appointments to faculty senate, and so on.
 %   \item[Community Involvement/Outreach] (optional)
 %   \item[Media Coverage] (optional)
@@ -49,18 +56,17 @@
 
 % Central organizing principle of the CV: the Principle of Peer Review.  Things that are peer-reviewed and competitive take precedence over things that are not.
 
-\title{\Large Spencer Alan Hill}
+\title{Spencer Alan Hill}
 
 \begin{document}
-\pagestyle{CVfooter}
 
 \maketitle
 \thispagestyle{CVfooter}
 
-\begin{tabular}{@{} p{0.4\textwidth} p{0.1\textwidth} p{0.4\textwidth} @{}}
+\begin{tabular}{@{} L{0.4\textwidth} L{0.1\textwidth} L{0.4\textwidth} @{}}
 207B Oceanography & & \href{mailto:shill@ldeo.columbia.edu}{shill@ldeo.columbia.edu} \\
 Lamont-Doherty Earth Observatory & & \href{https://www.ldeo.columbia.edu/~shill}{https://www.ldeo.columbia.edu/\~{}shill}\\
-61 Route 9W & & +1 (913) 515-8527\\
+61 Route 9W & & (913) 515-8527\\
 Palisades, NY 10964 & &\\
 \end{tabular}
 
@@ -69,7 +75,7 @@ Palisades, NY 10964 & &\\
 \vspace{0.5cm}
 
 \section*{EDUCATION}
-\begin{longtable}{@{} >{\color{darkgray}} p{0.05\textwidth} p{0.05\textwidth} p{0.6\textwidth} p{0.3\textwidth} @{}}
+\begin{longtable}{@{} Y{0.05\textwidth} p{0.05\textwidth} p{0.6\textwidth} p{0.3\textwidth} @{}}
 2016 & Ph.D. & Atmospheric and Oceanic Sciences & Princeton University\\
 2011 & B.S.  & Atmospheric and Oceanic Sciences; Applied Mathematics & UCLA\\
 \end{longtable}
@@ -77,57 +83,56 @@ Palisades, NY 10964 & &\\
 
 
 \section*{PROFESSIONAL APPOINTMENTS}
-\begin{longtable}{@{} >{\color{darkgray}} p{0.09\textwidth} p{0.91\textwidth} @{}}
-2019- & \hangindent=1em Postdoctoral Research Scientist, Lamont-Doherty Earth Observatory, Columbia University\\
-2016-19 & \hangindent=1em Postdoctoral Research Scientist, dual appointment, Division of Geological and Planetary \mbox{Sciences}, California Institute of Technology, and Department of Atmospheric and Oceanic \mbox{Sciences}, UCLA\\
-2011-16 & \hangindent=1em Graduate Research Assistant, Program in Atmospheric and Oceanic Sciences, Princeton \mbox{University}
+\begin{longtable}{@{} Y{0.08\textwidth} L{0.92\textwidth} @{}}
+2019- & Postdoctoral Research Scientist, Lamont-Doherty Earth Observatory, Columbia University\\
+2016-19 & Postdoctoral Research Scientist, dual appointment, Division of Geological and Planetary \mbox{Sciences}, California Institute of Technology, and Dept.\@ of Atmospheric and Oceanic \mbox{Sciences}, UCLA\\
+2011-16 & Graduate Research Assistant, Program in Atmospheric and Oceanic Sciences, Princeton \mbox{University}
 \end{longtable}
 \vskip1em
 
 
 \section*{AWARDS AND FELLOWSHIPS}
-\begin{longtable}{@{}  >{\color{darkgray}} p{0.05\textwidth} p{0.95\textwidth} @{}}
-2020 & \hangindent=1em Lamont-Doherty Earth Observatory Nominee for the Blavatnik Regional Award for Young Scientists (results of full competition still pending)\\
-2019 & \hangindent=1em Columbia University Earth Institute Postdoctoral Research Fellowship (2019-21)\\
-2016 & \hangindent=1em California Institute of Technology Foster and Coco Stanback Postdoctoral Research Fellowship (deferred to 2018-19)\\
-     & \hangindent=1em NSF Atmospheric and Geospace Sciences Postdoctoral Research Fellowship (2016-18)\\
-2013 & \hangindent=1em Department of Defense National Defense Science and Engineering Graduate Research Fellowship (2013-16)\\
-2012 & \hangindent=1em Princeton University Elliotte Robinson Little '25 Fellowship\\
-2011 & \hangindent=1em American Meteorological Society Annual Meeting Climate Change Travel Scholarship\\
-     & \hangindent=1em NSF Graduate Research Fellowship Honorable Mention\\
+\begin{longtable}{@{}  Y{0.05\textwidth} L{0.95\textwidth} @{}}
+2020 & Lamont-Doherty Earth Observatory Nominee, Blavatnik Regional Award for Young Scientists (full competition results pending)\\
+2019 & Columbia University Earth Institute Postdoctoral Research Fellowship (2019-21)\\
+2016 & California Institute of Technology Foster and Coco Stanback Postdoctoral Research Fellowship (deferred to 2018-19)\\
+     & NSF Atmospheric and Geospace Sciences Postdoctoral Research Fellowship (2016-18)\\
+2013 & Dept.\@ of Defense National Defense Science and Engineering Graduate Research Fellowship (2013-16)\\
+2012 & Princeton University Elliotte Robinson Little '25 Fellowship\\
+2011 & American Meteorological Society Annual Meeting Climate Change Travel Scholarship\\
+     & NSF Graduate Research Fellowship Honorable Mention\\
 
-% 2011 & UCLA Magna Cum Laude and College Honors graduation distinctions\\
-% 2009 & National Oceanic and Atmospheric Administration Ernest F. Hollings Undergraduate Scholarship\\
-% 2007 & United States Presidential Scholar, conferred by the U.S. Department of Education Commission on Presidential Scholars
+     & UCLA Magna Cum Laude and College Honors graduation distinctions\\
+2009 & National Oceanic and Atmospheric Administration Ernest F. Hollings Undergraduate Scholarship\\
+2007 & United States Presidential Scholar, conferred by the U.S. Dept.\@ of Education Commission on Presidential Scholars
 \end{longtable}
 \vskip1em
 
 
-\section*{GRANTS SUBMITTED AND IN PREPARATION}
+\section*{GRANT PROPOSALS SUBMITTED AND IN PREPARATION}
 \subsection*{Submitted}
-\begin{longtable}{@{} >{\color{darkgray}} p{0.05\textwidth}  p{0.03\textwidth} p{0.92\textwidth} @{}}
-2020 & PI & \hangindent=1em ``Multi-scale links of tropical energy fluxes and precipitation across the weather-climate continuum.'' NASA NIP (New Investigators Program).  Submitted.\\
+\begin{longtable}{@{} Y{0.05\textwidth}  p{0.03\textwidth} L{0.92\textwidth} @{}}
+2020 & PI & ``Multi-scale links of tropical energy fluxes and precipitation across the weather-climate continuum.'' NASA NIP (New Investigators Program).  Submitted.\\
 \end{longtable}
 
 \subsection*{In Preparation}
-\begin{longtable}{@{} p{0.03\textwidth} p{0.92\textwidth} @{}}
-PI & \hangindent=1em ``Supporting Teachers in Bringing Geosciences to Life for Minority Students with Rotating Tanks.''  NSF IUSE:GEOPAths program (Improving Undergraduate STEM Education: Pathways into the Earth, Ocean, Polar and Atmospheric \& Geospace Sciences).  Letter of Intent submitted; full proposal in preparation.\\
-PI & \hangindent=1em ``Energetically mediated subseasonal-seasonal links in monsoon and Intertropical Convergence Zone rainfall.'' NSF CLD program (Climate and Large-Scale Dynamics).  In preparation.\\
+\begin{longtable}{@{} p{0.03\textwidth} L{0.92\textwidth} @{}}
+PI & ``Supporting Teachers in Bringing Geosciences to Life for Minority Students with Rotating Tanks.''  NSF IUSE:GEOPAths program (Improving Undergraduate STEM Education: Pathways into the Earth, Ocean, Polar and Atmospheric \& Geospace Sciences).  Letter of intent approved; full proposal requested by NSF and in preparation.\\
+PI & ``Energetically mediated subseasonal-seasonal links in monsoon and Intertropical Convergence Zone rainfall.'' NSF CLD program (Climate and Large-Scale Dynamics).  In preparation.\\
 \end{longtable}
 
 \vskip1em
-
 
 \section*{PUBLICATIONS}
 
 \subsection*{Articles submitted/under review/in revision}
-\begin{longtable}{@{}  p{0.04\textwidth} @{} p{0.96\textwidth} @{}}
+\begin{longtable}{@{}  p{0.04\textwidth} @{} L{0.96\textwidth} @{}}
 
-14. & \textbf{Hill SA}, NJ Burls, A Fedorov, and TM Merlis.  ``Symmetric and antisymmetric components of polar-amplified warming.''  Submitted to \emph{J.\@ Climate}.\\
+14. & \textbf{Hill SA}, NJ Burls, A Fedorov, and TM Merlis.  ``Symmetric and antisymmetric components of polar-amplified warming.''  Submitted to \emph{J. Climate}.  \href{http://arxiv.org/abs/2012.09228}{http://arxiv.org/abs/2012.09228}.\\
 
 13. & \textbf{Hill SA}, S Bordoni, and JL Mitchell.  ``Dynamical
 constraints on the solsticial Hadley Cell ascending edge in Earth's
-macroturbulent atmosphere.''  Under review, \emph{J.\@ Atmos.\@ Sci.}.  \href{https://arxiv.org/abs/2011.05966}{https://arxiv.org/abs/2011.05966}.\\
+macroturbulent atmosphere.''  Under review, \emph{J. Atmos. Sci.}.  \href{https://arxiv.org/abs/2011.05966}{https://arxiv.org/abs/2011.05966}.\\
 
 12. & Mitchell, JL and \textbf{SA Hill}.  ``Constraints from invariant
 subtropical vertical velocities on the scalings of Hadley cell strength and
@@ -137,34 +142,34 @@ downdraft width with rotation rate.''  In revision, \emph{J. Atmos. Sci}.  \href
 
 \subsection*{Refereed Journal Articles}
 
-\begin{longtable}{@{} >{\color{darkgray}} p{0.05\textwidth} >{\color{black}} p{0.04\textwidth} @{} p{0.91\textwidth} @{}}
+\begin{longtable}{@{} Y{0.05\textwidth} >{\color{black}} p{0.04\textwidth} @{} L{0.91\textwidth} @{}}
 2020 &  11. & \textbf{Hill SA}, S Bordoni, and JL Mitchell.
 ``Axisymmetric Hadley Cell theory with a fixed tropopause temperature rather
-than height.'' \emph{J.\@ Atmos.\@ Sci.}, \textbf{77}, 1279-1294.  doi: \href{https://doi.org/10.1175/JAS-D-19-0169.1}{10.1175/JAS-D-19-0169.1}.\\
-2019 & 10. & \textbf{Hill SA} ``Theories for past and future monsoon rainfall
+than height.'' \emph{J. Atmos. Sci.}, \textbf{77}, 1279-1294.  doi: \href{https://doi.org/10.1175/JAS-D-19-0169.1}{10.1175/JAS-D-19-0169.1}.\\
+2019 & 10. & \textbf{Hill SA}.  ``Theories for past and future monsoon rainfall
 changes.'' \emph{Curr. Clim. Change Rep.}, \textbf{5}, 160-171.  doi: \href{https://doi.org/10.1007\%2Fs40641-019-00137-8}{10.1007\%2Fs40641-019-00137-8}.\\
      & 9. & \textbf{Hill SA}, S Bordoni, and JL Mitchell.
 ``Axisymmetric constraints on cross-equatorial Hadley cell extent.''
-\emph{J.\@ Atmos.\@ Sci.}, \textbf{76}, 1547-1564.  doi: \href{https://doi.org/10.1175/JAS-D-18-0306.1}{10.1175/JAS-D-18-0306.1}.\\
+\emph{J. Atmos. Sci.}, \textbf{76}, 1547-1564.  doi: \href{https://doi.org/10.1175/JAS-D-18-0306.1}{10.1175/JAS-D-18-0306.1}.\\
      & 8. & \textbf{Hill SA}, JM Lora, N Khoo, SP Faulk, and
 JM Aurnou.  ``Affordable rotating fluid demonstrations for
 geoscience education: The \emph{DIYnamics} project.''  \emph{Bull.
 Am. Met. Soc.}, \textbf{99}, 2529-2538.  doi: \href{https://doi.org/10.1175/BAMS-D-17-0215.1}{10.1175/BAMS-D-17-0215.1}.\\
 2018 & 7. & \textbf{Hill SA}, Y Ming, and M Zhao.  ``Robust responses of the
-Sahelian hydrological cycle to global warming.''  \emph{J.\@ Climate}, \textbf{31}, 9793-9814.  doi: \href{https://doi.org/10.1175/JCLI-D-18-0238.1}{10.1175/JCLI-D-18-0238.1}.\\
+Sahelian hydrological cycle to global warming.''  \emph{J. Climate}, \textbf{31}, 9793-9814.  doi: \href{https://doi.org/10.1175/JCLI-D-18-0238.1}{10.1175/JCLI-D-18-0238.1}.\\
      & 6. & Smyth J, \textbf{SA Hill}, and Y Ming.  ``Simulated responses of
 the West African monsoon and zonal-mean tropical precipitation to early
 Holocene orbital forcing.''  \emph{Geophys. Res. Lett.}, \textbf{45},
 12,049-12,057.  doi: \href{https://doi.org/10.1029/2018GL080494}{10.1029/2018GL080494}.\\
 2017 & 5. & \textbf{Hill SA}, Y Ming, IM Held, and M Zhao.  ``A moist
 static energy budget-based analysis of the Sahel rainfall response to uniform
-oceanic warming.''  \emph{J.\@ Climate}, \textbf{30}, 5637-5660.  doi: \href{https://doi.org/10.1175/JCLI-D-16-0785.1}{10.1175/JCLI-D-16-0785.1}.\\
+oceanic warming.''  \emph{J. Climate}, \textbf{30}, 5637-5660.  doi: \href{https://doi.org/10.1175/JCLI-D-16-0785.1}{10.1175/JCLI-D-16-0785.1}.\\
      & 4. & Brown PT, Y Ming, W Li, and \textbf{SA Hill}.  ``Change
 in the magnitude and mechanisms of unforced low-frequency surface temperature
-variability in a warmer climate.''  \emph{Nature Clim. Ch.}, \textbf{7}, 743-748.  \href{https://doi.org/10.1038/nclimate3381}{10.1038/nclimate3381}.\\
+variability in a warmer climate.''  \emph{Nature Climate Change}, \textbf{7}, 743-748.  \href{https://doi.org/10.1038/nclimate3381}{10.1038/nclimate3381}.\\
      & 3. & Jeevanjee N, P Hassanzadeh, \textbf{SA Hill}, and A Sheshadri.  "A perspective on climate model hierarchies."  \emph{J.  Adv. in Mod. Earth Sys.}, \textbf{9}, 1760-1771.  doi: \href{https://doi.org/10.1002/2017MS001038}{10.1002/2017MS001038}.\\
 2015 & 2. & \textbf{Hill SA}, Y Ming, and IM Held.  ``Mechanisms of forced
-tropical meridional energy flux change.''  \emph{J.\@ Climate}, \textbf{28}, 1725-1742.  doi: \href{http://dx.doi.org/10.1175/JCLI-D-14-00165.1}{10.1175/JCLI-D-14-00165.1}.\\
+tropical meridional energy flux change.''  \emph{J. Climate}, \textbf{28}, 1725-1742.  doi: \href{http://dx.doi.org/10.1175/JCLI-D-14-00165.1}{10.1175/JCLI-D-14-00165.1}.\\
 & & \hspace{1cm} Corrigendum: \href{https://dx.doi.org/10.1175/JCLI-D-16-0485.1}{https://dx.doi.org/10.1175/JCLI-D-16-0485.1}.\\
 2012 & 1. & \textbf{Hill SA} and Y Ming.  ``Nonlinear climate response to regional
 brightening of tropical marine stratocumulus.''  \emph{Geophys. Res. Lett.},
@@ -173,23 +178,26 @@ brightening of tropical marine stratocumulus.''  \emph{Geophys. Res. Lett.},
 
 
 \subsection*{Articles in preparation}
-\begin{longtable}{@{} p{\textwidth} @{}}
+\begin{longtable}{@{} L{\textwidth} @{}}
 
-\hangindent=1em \textbf{Hill SA}, AH Sobel, M Biasutti, M Cane, and S Gadgil.  ``Connecting monsoon rainfall variability at the all-India, all-summer and sub-India, sub-seasonal scales.''  In preparation.\\
+\textbf{Hill SA}, AH Sobel, M Biasutti, M Cane, and S Gadgil.  ``Connecting monsoon rainfall variability at the all-India, all-summer and sub-India, sub-seasonal scales.''  In preparation.\\
+\textbf{Hill SA}.  ``Toward a unified, predictive theory for the ascending and descending edge latitudes of monsoons.''   In preparation.\\
 
 \end{longtable}
 
 \subsection*{Book reviews}
-\begin{longtable}{@{}  >{\color{darkgray}} p{0.05\textwidth} p{0.95\textwidth} @{}}
-2012 & \hangindent=1em \textbf{Hill SA}  ``A head in the clouds elucidates climate'' (book
+\begin{longtable}{@{}  Y{0.05\textwidth} L{0.95\textwidth} @{}}
+2012 & \textbf{Hill SA}  ``A head in the clouds elucidates climate'' (book
 review of \emph{Atmosphere, Clouds, and Climate} by David Randall).  \emph{Science}, \textbf{337},
 1 pp., doi: \href{http://dx.doi.org/10.1126/science.1225615}{10.1126/science.1225615}.\\
 \end{longtable}
 
 \subsection*{Other publications}
-\begin{longtable}{@{}  >{\color{darkgray}} p{0.09\textwidth} p{0.91\textwidth} @{}}
-2017-20 &  \hangindent=1em \raggedright Twelve blog posts for the DIYnamics blog.  Available at \href{https://diynamics.github.io/blog/author/spencer-hill.html}{https://diynamics.github.io/blog/author/spencer-hill.html}.\\
+\begin{longtable}{@{}  Y{0.08\textwidth} L{0.92\textwidth} @{}}
+2017-20 &  \raggedright Twelve blog posts for the DIYnamics blog.  Available at \href{https://diynamics.github.io/blog/author/spencer-hill.html}{https://diynamics.github.io/blog/author/spencer-hill.html}.\\
 
+% SAH note: this whole blog appears to have gone offline.
+% So not appropriate to include.
 % 2017 & \textbf{Hill, Spencer A.} and Spencer K. Clark.  ``What’s needed for the Future
 % of AOS Python?  Tools for Automating AOS Data Analysis and Management.''
 % Invited guest blog post on ``PyAOS'' blog.
@@ -199,131 +207,133 @@ review of \emph{Atmosphere, Clouds, and Climate} by David Randall).  \emph{Scien
 
 
 \section*{INVITED COLLOQUIA AND SEMINARS}
-\begin{longtable}{@{} >{\color{darkgray}} p{0.05\textwidth} p{0.95\textwidth} @{}}
-2021 & \hangindent=1em Atmosphere, Ocean, and Climate Dynamics seminar series, Yale University, February 25th.\\
-2019 & \hangindent=1em Earth Research Institute Monthly Climate Meeting, University of California -- Santa Barbara, January 7th.\\
-2018 & \hangindent=1em Division of Ocean and Climate Physics Seminar Series, Lamont-Doherty Earth Observatory, February 16th.\\
-     & \hangindent=1em NOAA Geophysical Fluid Dynamics Laboratory informal seminar series, February 14th.\\
-2016 & \hangindent=1em Center for Atmosphere Ocean Science, New York University, November 9th.\\
-     & \hangindent=1em Gaede Institute for the Liberal Arts, Natural and Behavioral Sciences Lecture, Westmont College, October 13th.\\
-% 2015 & New York University, Courant Institute of Mathematical Sciences, Center for Atmospheric and Oceanic Sciences, Student seminar series, New York, NY\\
-2014 & Department of Geophysics, Yale University, October 9th.\\
+\begin{longtable}{@{} Y{0.05\textwidth} L{0.95\textwidth} @{}}
+2021 & Atmosphere, Ocean, and Climate Dynamics seminar series, Yale University, Feb.\@ 25th.\\
+2019 & Earth Research Institute Monthly Climate Meeting, University of California -- Santa Barbara, Jan.\@ 7th.\\
+2018 & Division of Ocean and Climate Physics Seminar Series, Lamont-Doherty Earth Observatory, Feb.\@ 16th.\\
+     & NOAA Geophysical Fluid Dynamics Laboratory informal seminar series, Feb.\@ 14th.\\
+2016 & Center for Atmosphere Ocean Science, New York University, Nov.\@ 9th.\\
+     & Gaede Institute for the Liberal Arts, Natural and Behavioral Sciences Lecture, Westmont College, Oct.\@ 13th.\\
+2015 & New York University, Courant Institute of Mathematical Sciences, Center for Atmospheric and Oceanic Sciences, Student seminar series, New York, NY\\
+2014 & Dept.\@ of Geophysics, Yale University, Oct.\@ 9th.\\
 \end{longtable}
 \vskip1em
 
 
 \section*{CONFERENCE ACTIVITIES}
 \subsection*{Chaired sessions}
-\begin{longtable}{@{} >{\color{darkgray}} p{0.05\textwidth} p{0.95\textwidth} @{}}
-2018 & \hangindent=1em ``Monsoons: Observations, Subseasonal, Seasonal, and Interannual to Decadal Variability, Forecast, Climate Change, and Extremes III.''  AGU Fall Meeting, Washington, D.C., December 11th. \\
-2017 & \hangindent=1em ``Idealized approaches to the atmospheric and oceanic circulation II.'' American Meteorological Society 21st Conference on Atmospheric and Oceanic Fluid Dynamics, Portland, OR, June 26th.\\
-2016 & \hangindent=1em ``Tropical circulations and their sensitivities to changes in climate I.''  AGU Fall Meeting, San Francisco, CA, December 16th.\\
-     & \hangindent=1em ``Tropical convection and radiative convective equilibrium.''  World Climate Research Programme Model Hierarchies Workshop, Princeton, NJ, November 3rd.\\
+\begin{longtable}{@{} Y{0.05\textwidth} L{0.95\textwidth} @{}}
+2018 & ``Monsoons: Observations, Subseasonal, Seasonal, and Interannual to Decadal Variability, Forecast, Climate Change, and Extremes III.''  AGU Fall Meeting, Washington, D.C., Dec.\@ 11th. \\
+2017 & ``Idealized approaches to the atmospheric and oceanic circulation II.'' American Meteorological Society 21st Conference on Atmospheric and Oceanic Fluid Dynamics, Portland, OR, Jun.\@ 26th.\\
+2016 & ``Tropical circulations and their sensitivities to changes in climate I.''  AGU Fall Meeting, San Francisco, CA, Dec.\@ 16th.\\
+     & ``Tropical convection and radiative convective equilibrium.''  World Climate Research Programme Model Hierarchies Workshop, Princeton, NJ, Nov.\@ 3rd.\\
 \end{longtable}
 
 \subsection*{Invited Conference Talks}
-\begin{longtable}{@{} >{\color{darkgray}} p{0.05\textwidth} p{0.95\textwidth} @{}}
-2020 & \hangindent=1em European Geophysical Union Annual Meeting (cancelled due to COVID-19).\\
-     & \hangindent=1em Continental Climate Change Workshop (cancelled due to COVID-19.\\
-2019 & \hangindent=1em ``Toward an analytical, predictive theory for the location of Hadley and monsoonal cell ascending branches.''  AGU Fall Meeting, San Francisco, CA, December 10th.\\
-2016 & \hangindent=1em ``\texttt{infinite-diff} and \texttt{animal-spharm}: \texttt{xarray}-based finite differencing and spherical harmonics.''  Columbia University Python and Atmospheric and Oceanic Sciences Workshop, New York, NY, November 12th.\\
-2015 & \hangindent=1em ``Towards constraining Sahel rainfall responses to global mean temperature changes.''   Linde Center for Global Environmental Science, California Institute of Technology, Monsoons: Past, Present and Future workshop, Pasadena, CA, May 21st.\\
+\begin{longtable}{@{} Y{0.05\textwidth} L{0.95\textwidth} @{}}
+2020 & European Geophysical Union Annual Meeting (cancelled due to COVID-19).\\
+     & Continental Climate Change Workshop (postponed indefinitely due to COVID-19).\\
+2019 & ``Toward an analytical, predictive theory for the location of Hadley and monsoonal cell ascending branches.''  AGU Fall Meeting, San Francisco, CA, Dec.\@ 10th.\\
+2016 & ``\texttt{infinite-diff} and \texttt{animal-spharm}: \texttt{xarray}-based finite differencing and spherical harmonics.''  Columbia University Python and Atmospheric and Oceanic Sciences Workshop, New York, NY, Nov.\@ 12th.\\
+2015 & ``Towards constraining Sahel rainfall responses to global mean temperature changes.''   Linde Center for Global Environmental Science, California Institute of Technology, Monsoons: Past, Present and Future workshop, Pasadena, CA, May 21st.\\
 \end{longtable}
 
 \subsection*{Other Conference Presentations}
-\begin{longtable}{@{} >{\color{darkgray}} p{0.05\textwidth} p{0.95\textwidth} @{}}
-2021 & \hangindent=1em ``Connecting sub-India, sub-seasonal monsoon rainfall variability with all-India, all-summer monsoon rainfall.'' AMS Annual Meeting (virtual).  Talk.  January 14th.\\
-2020 & \hangindent=1em ``Sub-India summer monsoon rainfall variability and its implications for all-India summer monsoon rainfall prediction.''  AGU Fall Meeting (virtual).  Poster.  December 1st-17th.\\
-2019 & \hangindent=1em ``Simulated polar amplification and its causes on decadal to millennial timescales.''  Poster.  AGU Fall Meeting.  San Francisco, CA.  December 10th.\\
-     & \hangindent=1em ``Modernizing Axisymmetric Hadley Cell and Monsoon Theory.''  Talk.  AMS 22nd Conference on Atmospheric and Oceanic Fluid Dynamics.  Portland, ME.  June 25th.\\
-2018 & \hangindent=1em ``What sets the locations of the solsticial cross-equatorial Hadley cell edges?''  Talk.  AGU Fall Meeting.  Washington, DC.  December 13th.\\
-% 2018 & ``Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions.''  Poster.  17th Swiss Climate Summer School: Earth system variability through time.  Grindelwald, Switzerland.  August 28th.\\
-     % & ``What Determines the ITCZ Position During Solsticial Seasons on Earth and Other Planets?''  Talk.  AMS 33rd Conference on Hurricanes and Tropical Meteorology.  Ponte Vedra, FL.  April 16th.\\
-2017 & \hangindent=1em ``Dry Rainbelts: Understanding Boundary Layer Controls on the ITCZ Using a Dry Dynamical Core.''  Talk.  AGU Fall Meeting.  New Orleans, LA.  December 14th.\\
-     % & ``Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions.''  Poster.  Gordon Research Conference on Radiation and Climate.  Bates College, Lewiston, ME.  July 19th.\\
-     & \hangindent=1em ``Control of convergence zone migrations by planetary parameters.''  Poster.  AMS 21st Conference on Atmospheric and Oceanic Fluid Dynamics.  Portland, OR.  June 27th.\\
-     % & ``Automate your climate and weather data analysis with aospy.''  Talk.  AMS Annual Meeting, Seattle, WA.  January 24th.\\
-     % & ``Energetic and precipitation responses in the Sahel to sea surface temperature perturbations.''  Talk.  AMS Annual Meeting, Seattle, WA.  January 24th.\\
-2016 & \hangindent=1em ``Robust drying influence of mean ocean surface warming on The Sahel and implications for constraining future rainfall change.''  Poster.  AGU Fall Meeting, San Francisco, CA.  December 16th.\\
+\begin{longtable}{@{} Y{0.05\textwidth} L{0.95\textwidth} @{}}
+2021 & ``Connecting sub-India, sub-seasonal monsoon rainfall variability with all-India, all-summer monsoon rainfall.'' AMS Annual Meeting (virtual).  Talk.  Jan.\@ 14th.\\
+2020 & ``Sub-India summer monsoon rainfall variability and its implications for all-India summer monsoon rainfall prediction.''  AGU Fall Meeting (virtual).  Poster.  Dec.\@ 1st-17th.\\
+2019 & ``Simulated polar amplification and its causes on decadal to millennial timescales.''  Poster.  AGU Fall Meeting.  San Francisco, CA.  Dec.\@ 10th.\\
+     & ``Modernizing Axisymmetric Hadley Cell and Monsoon Theory.''  Talk.  AMS 22nd Conference on Atmospheric and Oceanic Fluid Dynamics.  Portland, ME.  Jun.\@ 25th.\\
+2018 & ``What sets the locations of the solsticial cross-equatorial Hadley cell edges?''  Talk.  AGU Fall Meeting.  Washington, DC.  Dec.\@ 13th.\\
+     & ``Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions.''  Poster.  17th Swiss Climate Summer School: Earth system variability through time.  Grindelwald, Switzerland.  Aug.\@ 28th.\\
+     & ``What Determines the ITCZ Position During Solsticial Seasons on Earth and Other Planets?''  Talk.  AMS 33rd Conference on Hurricanes and Tropical Meteorology.  Ponte Vedra, FL.  Apr.\@ 16th.\\
+2017 & ``Dry Rainbelts: Understanding Boundary Layer Controls on the ITCZ Using a Dry Dynamical Core.''  Talk.  AGU Fall Meeting.  New Orleans, LA.  Dec.\@ 14th.\\
+     & ``Towards transient simulation of the Green Sahara onset and demise through idealized modeling of vegetation-land-atmosphere interactions.''  Poster.  Gordon Research Conference on Radiation and Climate.  Bates College, Lewiston, ME.  Jul.\@ 19th.\\
+     & ``Control of convergence zone migrations by planetary parameters.''  Poster.  AMS 21st Conference on Atmospheric and Oceanic Fluid Dynamics.  Portland, OR.  Jun.\@ 27th.\\
+     & ``Automate your climate and weather data analysis with aospy.''  Talk.  AMS Annual Meeting, Seattle, WA.  Jan.\@ 24th.\\
+     & ``Energetic and precipitation responses in the Sahel to sea surface temperature perturbations.''  Talk.  AMS Annual Meeting, Seattle, WA.  Jan.\@ 24th.\\
+2016 & ``Robust drying influence of mean ocean surface warming on The Sahel and implications for constraining future rainfall change.''  Poster.  AGU Fall Meeting, San Francisco, CA.  Dec.\@ 16th.\\
 
-     % & ``A hierarchy of perturbation complexites: Case study of Sahel rainfall response to global warming''  Poster.  WCRP Model Hierarchies Workshop, Princeton University, Princeton, NJ.  November 2nd.\\
-2015 & \hangindent=1em ``Towards constraining future rainfall in the Sahel using the moist static energy budget.'' Talk.  AGU Fall Meeting, San Francisco, CA.  December 14th.\\
-     & \hangindent=1em ``Convection scheme, cloud, and stability effects on Sahel rainfall response to uniform warming.''  Poster.  AMS Annual Meeting, Phoenix, AZ. January 6th.\\
-2014 & \hangindent=1em ``Convection scheme, cloud, and stability effects on Sahel rainfall response to uniform warming.''  Poster.  AGU Fall Meeting, San Francisco, CA.  December 15th.\\
-     % & ``Mechanisms of forced tropical meridional energy flux change.''  Poster.  Latsis Symposium, ETH Zurich, Zurich, Switzerland. June 19th.\\
-     % & ``Mean and extreme tropical precipitation changes caused by the uniform and spatially varying components of anthropogenic forcing.''  Talk.  AMS Annual Meeting, Atlanta, GA.  February 5th.\\
-2013 & \hangindent=1em ``Mechanisms of forced tropical meridional energy flux change.''  Talk.  AGU Fall Meeting, San Francisco, CA. December 13th.\\
-     % & ``Mechanisms of forced tropical meridional energy flux change.''  Talk.  Graduate Climate Conference, Woods Hole Oceanographic Institution, Woods Hole, MA.  November 2nd.\\
-     & \hangindent=1em ``Mechanisms of forced tropical meridional energy flux change.'' Poster presentation.  Gordon Research Conference, Colby-Sawyer College, New London, NH.  July 9th.\\
-2012 & \hangindent=1em ``Climate response to a geoengineered brightening of subtropical marine boundary clouds.''  Poster.  11th Annual Student Conference at the AMS Annual Meeting, New Orleans, LA.  January 22nd.\\
-% 2010 & ``Climate response to a geoengineered brightening of subtropical marine boundary clouds.''  Poster.  San Francisco, CA.  December 14th.\\
-%      & ``Climate response to a geoengineered brightening of subtropical marine boundary clouds.'' Talk.  Special Symposium on Aerosols in Geoengineering at the American Association for Aerosol Research 29th Annual Conference.  Portland, OR.  October 26th.\\
-%      & ``Investigating climate response to geoengineering using a global climate model.''  Talk.  National Oceanic and Atmospheric Administration Office of Education Science Symposium, Silver Spring, MD.  August 3rd.\\
+     & ``A hierarchy of perturbation complexites: Case study of Sahel rainfall response to global warming''  Poster.  WCRP Model Hierarchies Workshop, Princeton University, Princeton, NJ.  Nov.\@ 2nd.\\
+2015 & ``Towards constraining future rainfall in the Sahel using the moist static energy budget.'' Talk.  AGU Fall Meeting, San Francisco, CA.  Dec.\@ 14th.\\
+     & ``Convection scheme, cloud, and stability effects on Sahel rainfall response to uniform warming.''  Poster.  AMS Annual Meeting, Phoenix, AZ. Jan.\@ 6th.\\
+2014 & ``Convection scheme, cloud, and stability effects on Sahel rainfall response to uniform warming.''  Poster.  AGU Fall Meeting, San Francisco, CA.  Dec.\@ 15th.\\
+     & ``Mechanisms of forced tropical meridional energy flux change.''  Poster.  Latsis Symposium, ETH Zurich, Zurich, Switzerland. Jun.\@ 19th.\\
+     & ``Mean and extreme tropical precipitation changes caused by the uniform and spatially varying components of anthropogenic forcing.''  Talk.  AMS Annual Meeting, Atlanta, GA.  Feb.\@ 5th.\\
+2013 & ``Mechanisms of forced tropical meridional energy flux change.''  Talk.  AGU Fall Meeting, San Francisco, CA. Dec.\@ 13th.\\
+     & ``Mechanisms of forced tropical meridional energy flux change.''  Talk.  Graduate Climate Conference, Woods Hole Oceanographic Institution, Woods Hole, MA.  Nov.\@ 2nd.\\
+     & ``Mechanisms of forced tropical meridional energy flux change.'' Poster presentation.  Gordon Research Conference, Colby-Sawyer College, New London, NH.  Jul.\@ 9th.\\
+2012 & ``Climate response to a geoengineered brightening of subtropical marine boundary clouds.''  Poster.  11th Annual Student Conference at the AMS Annual Meeting, New Orleans, LA.  Jan.\@ 22nd.\\
+2010 & ``Climate response to a geoengineered brightening of subtropical marine boundary clouds.''  Poster.  San Francisco, CA.  Dec.\@ 14th.\\
+     & ``Climate response to a geoengineered brightening of subtropical marine boundary clouds.'' Talk.  Special Symposium on Aerosols in Geoengineering at the American Association for Aerosol Research 29th Annual Conference.  Portland, OR.  Oct.\@ 26th.\\
+     & ``Investigating climate response to geoengineering using a global climate model.''  Talk.  National Oceanic and Atmospheric Administration Office of Education Science Symposium, Silver Spring, MD.  Aug.\@ 3rd.\\
 \end{longtable}
 \vskip1em
 
 
 \section*{CAMPUS AND DEPARTMENTAL TALKS}
-\begin{longtable}{@{} >{\color{darkgray}} p{0.05\textwidth} p{0.95\textwidth} @{}}
-2019 & \hangindent=1em (poster) Lamont-Doherty Earth Observatory Postdoc Symposium.  September 11th.\\
-2018 & \hangindent=1em Department of Atmospheric and Oceanic Sciences, UCLA.  November 7th.\\
-2016 & \hangindent=1em Division of Geological and Planetary Sciences, California Institute of Technology.  October 26th.\\
-2016 & \hangindent=1em Department of Atmospheric and Oceanic Sciences, UCLA.  October 5th.\\
-2015 & \hangindent=1em Dynamics Seminar Series, Program in Atmospheric and Oceanic Sciences, Princeton University.  March 13th.\\
-2012 & \hangindent=1em Student/Postdoc Seminar Series, Program in Atmospheric and Oceanic Sciences, Princeton University.  February 28th.\\
-2011 & \hangindent=1em Graduate Research Symposium, Department of Geosciences, Princeton University. November 11th.\\
+\begin{longtable}{@{} Y{0.05\textwidth} L{0.95\textwidth} @{}}
+2019 & Lamont-Doherty Earth Observatory Postdoc Symposium (poster).  Sep.\@ 11th.\\
+2018 & Dept.\@ of Atmospheric and Oceanic Sciences, UCLA.  Nov.\@ 7th.\\
+2016 & Division of Geological and Planetary Sciences, California Institute of Technology.  Oct.\@ 26th.\\
+     & Dept.\@ of Atmospheric and Oceanic Sciences, UCLA.  Oct.\@ 5th.\\
+2015 & Dynamics Seminar Series, Program in Atmospheric and Oceanic Sciences, Princeton University.  Mar.\@ 13th.\\
+2012 & Student/Postdoc Seminar Series, Program in Atmospheric and Oceanic Sciences, Princeton University.  Feb.\@ 28th.\\
+2011 & Graduate Research Symposium, Dept.\@ of Geosciences, Princeton University. Nov.\@ 11th.\\
 \end{longtable}
 \vskip1em
 
 
 \section*{UNDERGRADUATE RESEARCH ADVISING}
-\subsection*{Advisor}
-\begin{longtable}{@{}  >{\color{darkgray}} p{0.05\textwidth} p{0.95\textwidth} @{}}
+\subsection*{As primary advisor}
+\begin{longtable}{@{}  Y{0.05\textwidth} L{0.95\textwidth} @{}}
+2021 & Destiny Zamir Meyers, Columbia University\\
+     & Matthew Donahue, Columbia University\\
 2020 & Valentina Rojas-Posada, Barnard University (partial funding awarded by competition from Columbia University Earth Institute)\\
 2017 & Norris Khoo, UCLA\\
-2017 & Micah Kim, UCLA\\
+     & Micah Kim, UCLA\\
 2016 & Juliet Olsen, UCLA\\
 \end{longtable}
 
-\subsection*{Assistant advisor}
-\begin{longtable}{@{}  >{\color{darkgray}} p{0.05\textwidth} p{0.95\textwidth} @{}}
+\subsection*{Summer interns, as co-advisor}
+\begin{longtable}{@{}  Y{0.05\textwidth} L{0.95\textwidth} @{}}
 2015 & Jane Smyth, NOAA Geophysical Fluid Dynamics Laboratory\\
-2015 & Marjahn Finlayson, NOAA Geophysical Fluid Dynamics Laboratory\\
-2015 & Colin Raymond, NOAA Geophysical Fluid Dynamics Laboratory\\
+2014 & Marjahn Finlayson, NOAA Geophysical Fluid Dynamics Laboratory\\
+2013 & Colin Raymond, NOAA Geophysical Fluid Dynamics Laboratory\\
 \end{longtable}
 
 
 \section*{TEACHING ACTIVITIES}
 \subsection*{Teaching Assistant}
-\begin{longtable}{@{} >{\color{darkgray}} p{0.05\textwidth} p{0.95\textwidth} @{}}
-2014 & ``Physics of Earth: The Habitable Planet.''  Upper-division undergraduate course.  Department of Geosciences, Princeton University.\\
+\begin{longtable}{@{} Y{0.05\textwidth} L{0.95\textwidth} @{}}
+2014 & ``Physics of Earth: The Habitable Planet.''  Upper-division undergraduate course.  Dept.\@ of Geosciences, Princeton University.\\
 \end{longtable}
 
 \subsection*{Certifications}
-\begin{longtable}{@{} >{\color{darkgray}} p{0.05\textwidth} p{0.95\textwidth} @{}}
+\begin{longtable}{@{} Y{0.05\textwidth} L{0.95\textwidth} @{}}
 2016 & Teaching Transcript Certification, McGraw Center for Teaching and Learning, Princeton University.\\
 \end{longtable}
 \vskip1em
 
 \subsection*{Guest Lectures}
-\begin{longtable}{@{} >{\color{darkgray}} p{0.05\textwidth} p{0.95\textwidth} @{}}
-2018 & \hangindent=1em Three lectures for ``Introduction to Atmospheric and Oceanic Fluids,'' graduate-level course, Department of Atmospheric and Oceanic Sciences, UCLA.\\
-% & \hspace{1cm}``Climate modeling and climate change projections''\\
-% & \hspace{1cm}``Weather: From orbital order, atmospheric chaos''\\
-% & \hspace{1cm}``Weather: From orbital order, atmospheric chaos''\\
-2014 & \hangindent=1em Two lectures for ``Physics of Earth: The Habitable Planet,'' upper-division undergraduate course, Department of Geosciences, Princeton University.\\
-% & \hspace{1cm}``Climate modeling and climate change projections''\\
-% & \hspace{1cm}``Weather: From orbital order, atmospheric chaos''\\
+\begin{longtable}{@{} Y{0.05\textwidth} L{0.95\textwidth} @{}}
+2018 & Three lectures for ``Introduction to Atmospheric and Oceanic Fluids,'' graduate-level course, Dept.\@ of Atmospheric and Oceanic Sciences, UCLA.\\
+& \hspace{1cm}``Climate modeling and climate change projections''\\
+& \hspace{1cm}``Weather: From orbital order, atmospheric chaos''\\
+& \hspace{1cm}``Weather: From orbital order, atmospheric chaos''\\
+2014 & Two lectures for ``Physics of Earth: The Habitable Planet,'' upper-division undergraduate course, Dept.\@ of Geosciences, Princeton University.\\
+& \hspace{1cm}``Climate modeling and climate change projections''\\
+& \hspace{1cm}``Weather: From orbital order, atmospheric chaos''\\
 \end{longtable}
 \vskip1em
 
 
 \section*{SCIENCE OUTREACH}
-\begin{longtable}{@{} p{\textwidth} @{}}
+\begin{longtable}{@{} Y{0.05\textwidth} L{\textwidth} @{}}
 
-\hangindent=1em Co-founder and Co-Director, \emph{DIY}namics (organization advancing rotating tank-based geoscience teaching).  (2017-)\\
+2017- & Co-founder and Co-Director, \emph{DIY}namics (organization advancing rotating tank-based geoscience teaching; \href{https://diynamics.github.io/}{https://diynamics.github.io}).\\
 
-\hangindent=1em Volunteer at 10+ science outreach events either open to the public or presented at middle schools.  (2015-)\\
+2015- & Volunteer at 10+ science outreach events either open to the public or presented at middle schools.\\
 
 \end{longtable}
 \vskip1em
@@ -331,44 +341,49 @@ review of \emph{Atmosphere, Clouds, and Climate} by David Randall).  \emph{Scien
 
 \section*{SERVICE ACTIVITIES}
 \subsection*{Professional}
-\begin{longtable}{@{} p{\textwidth} @{}}
+\begin{longtable}{@{} L{\textwidth} @{}}
 
-\hangindent=1em Review Editor, Editorial Board of Predictions and Projections, \emph{Frontiers in Climate}\\
+Review Editor, Editorial Board of Predictions and Projections, \emph{Frontiers in Climate}\\
 
-\hangindent=1em Proposal referee, NSF Climate and Large-Scale Dynamics, NSF EarthCube, NASA Juno Participating Scientist Program\\
+Proposal referee, NSF Climate and Large-Scale Dynamics, NSF EarthCube, NASA Juno Participating Scientist Program\\
 
-\hangindent=1em Article referee, \emph{Nature Climate Change}, \emph{npj Climate and Atmospheric Science}, \emph{Journal of Advances in Modeling Earth Systems}, \emph{Journal of Climate}, \emph{Quarterly Journal of the Royal Meteorological Society}, \emph{Geophysical Research Letters}, \emph{Journal of the Atmospheric Sciences}, \emph{Geoscientific Model Development}, \emph{Climatic Change}, \emph{Climate Dynamics}, \emph{Journal of Geophysical Research - Atmospheres}\\
+Article referee, \emph{Nature Climate Change}, \emph{npj Climate and Atmospheric Science}, \emph{Journal of Advances in Modeling Earth Systems}, \emph{J. Climate}, \emph{Quarterly Journal of the Royal Meteorological Society}, \emph{Geophysical Research Letters}, \emph{J. Atmos. Sci.}, \emph{Geoscientific Model Development}, \emph{Climatic Change}, \emph{Climate Dynamics}, \emph{Journal of Geophysical Research - Atmospheres}\\
 
-\hangindent=1em Developer and maintainer, \texttt{aospy} open-source Python software package for automating analyses of climate datasets.  \href{https://aospy.readthedocs.io}{https://aospy.readthedocs.io}.\\
+Developer and maintainer, \texttt{aospy} open-source Python software package for automating analyses of climate datasets (\href{https://aospy.readthedocs.io}{https://aospy.readthedocs.io})\\
 
-\hangindent=1em Code contributor, xarray package for labeled multidimensional arrays in Python.\\
+Code contributor, \texttt{xarray} package for labeled multidimensional arrays in Python\\
 \end{longtable}
 
 \subsection*{Departmental/University}
-\begin{longtable}{@{} p{\textwidth} @{}}
-\hangindent=1em Organizer, Student/Postdoc Seminar Series, Program in Atmospheric and Oceanic Sciences, Princeton University (2012-13)\\
-\hangindent=1em Organizer, Climate Sensitivity Journal Club, NOAA Geophysical Fluid Dynamics Laboratory (2013-15)\\
-\hangindent=1em Organizer, Convection Journal Club, Program in Atmospheric and Oceanic Sciences, Princeton University (2015)\\
-\hangindent=1em Representative to the faculty, Program in Atmospheric and Oceanic Sciences, Princeton University (2012-2013)
+\begin{longtable}{@{} Y{0.08\textwidth} L{0.92\textwidth} @{}}
+
+2015 & Organizer, Convection Journal Club, Program in Atmospheric and Oceanic Sciences, Princeton University\\
+
+2013-15 & Organizer, Climate Sensitivity Journal Club, NOAA Geophysical Fluid Dynamics Laboratory\\
+
+2012-13 & Organizer, Student/Postdoc Seminar Series, Program in Atmospheric and Oceanic Sciences, Princeton University\\
+
+2012-13 & Representative to the faculty, Program in Atmospheric and Oceanic Sciences, Princeton University\\
 \end{longtable}
 \vskip1em
 
 
 \section*{ADDITIONAL TRAINING}
-\begin{longtable}{@{} >{\color{darkgray}} p{0.09\textwidth} p{0.91\textwidth} @{}}
-2021 & \hangindent=1em Workshop on Inclusive and Culturally Competent Teaching Strategies in the Earth Sciences, Columbia University, January 8th\\
-2020 & \hangindent=1em Racial Sensitivity Workshop, Columbia University Earth Institute, June 30th\\
-2018 & \hangindent=1em 17th Swiss Climate Summer School, ``Earth system variability through time,'' Grindelwald, Switzerland\\
-2012-13 & \hangindent=1em Member, Princeton University Energy and Climate Scholars\\
-2012 & \hangindent=1em NOAA Geophysical Fluid Dynamics Laboratory Summer School on Atmospheric Modeling\\
+\begin{longtable}{@{} Y{0.08\textwidth} L{0.92\textwidth} @{}}
+2021 & Workshop on Inclusive and Culturally Competent Teaching Strategies in the Earth Sciences, Columbia University, Jan.\@ 8th\\
+2020 & Racial Sensitivity Workshop, Columbia University Earth Institute, Jun.\@ 30th\\
+2018 & 17th Swiss Climate Summer School, ``Earth System Variability Through Time,'' Grindelwald, Switzerland\\
+2012-13 & Member, Princeton University Energy and Climate Scholars\\
+2012 & NOAA Geophysical Fluid Dynamics Laboratory Summer School on Atmospheric Modeling\\
 \end{longtable}
 
 
 \section*{PROFESSIONAL MEMBERSHIPS}
-\begin{longtable}{@{} >{\color{darkgray}} p{0.06\textwidth} p{0.94\textwidth} @{}}
+\begin{longtable}{@{} Y{0.06\textwidth} L{0.94\textwidth} @{}}
 2010- & American Geophysical Union\\
 2011- & American Meteorological Society\\
 \end{longtable}
+\vskip1em
 
 \end{document}
 %%% Local Variables:
