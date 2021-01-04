@@ -5,7 +5,10 @@
 % Start from article class.
 \LoadClass{article}
 
+% 1 inch margins.
 \usepackage[margin=1in]{geometry}
+
+% (not sure why this is needed).
 \usepackage[T1]{fontenc}
 
 % Customize title spacing.
