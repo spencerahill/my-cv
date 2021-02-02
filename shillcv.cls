@@ -66,6 +66,20 @@
 \setsansfont{Arial}
 \usepackage{newtxmath}
 
+% Small caps.  Times New Roman doesn't have small caps, so use
+% this Tex Gyre Termes font instead.
+% C.f. https://tex.stackexchange.com/a/181210/39215
+\newfontfamily\tgtermes{TeX Gyre Termes}
+\makeatletter
+  \begingroup
+    \tgtermes
+    \DeclareFontShape{\f@encoding}{\rmdefault}{m}{sc}{%
+      <-> ssub * \f@family/m/sc}{}
+    \DeclareFontShape{\f@encoding}{\rmdefault}{bx}{sc}{%
+      <-> ssub * \f@family/bx/sc}{}
+  \endgroup
+\makeatother
+
 % Turn DOIs into clickable links.
 \usepackage{doi}
 
