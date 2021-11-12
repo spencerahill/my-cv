@@ -5,16 +5,20 @@
 % Start from article class.
 \LoadClass{article}
 
-% 1 inch margins.
-\usepackage[margin=1in]{geometry}
+% Margins.
+\usepackage[margin=1.1in]{geometry}
+
+% Control line spacing.  1=single, 2=double, etc.
+\linespread{1.1}
 
 % (not sure why this is needed).
 \usepackage[T1]{fontenc}
 
 % Customize title spacing.
 \usepackage{titling}
-\setlength{\droptitle}{-2.5cm}  % space before title
-\posttitle{\par\end{center}\vspace{-2.5cm}}  % space after title
+% SAH 2021-11-10: I don't think these are doing anything, hence commented out.
+% \setlength{\droptitle}{0cm}  % space before title.
+% \posttitle{\par}\end{center}}  % space after title
 
 % Set up footer.
 \usepackage{fancyhdr}
@@ -36,7 +40,8 @@
 % Customize document title.
 \renewcommand{\@maketitle}{
   \begin{center}
-    {\Large\@title\par}
+    {\Large\@title}
+    \vskip1em
   \end{center}
 }
 
