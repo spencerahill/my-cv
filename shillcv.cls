@@ -41,7 +41,7 @@
 \renewcommand{\@maketitle}{
   \begin{center}
     {\Large\@title}
-    \vskip1em
+    \vskip2em
   \end{center}
 }
 
